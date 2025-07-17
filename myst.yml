@@ -1,0 +1,65 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  toc:
+    - file: ./experiments/introduction.md
+    - title: Experiments
+      children:
+        - file: ./experiments/01_velocity_acceleration.md
+        - file: ./experiments/02_newtons2nd.md
+        - file: ./experiments/03_Econservation.md
+        - file: ./experiments/04_work.md
+        - file: ./experiments/05_heat.md
+        - file: ./experiments/06_solar.md
+        - file: ./experiments/07_mech_thermal_energy.md
+        - file: ./experiments/08_greenhouse.md
+        - file: ./experiments/09_ohms.md
+        - file: ./experiments/10_magnets.md
+        - file: ./experiments/gravity_conversion.md
+        - file: ./experiments/12_atomic_spectra.md
+        - file: ./experiments/13_radioactivity.md
+        - file: ./experiments/14_waves.md
+    - title: Appendices
+      children:
+        - file: ./appendices/A_Capstone.md
+        - file: ./appendices/B_LabPro.md
+        - file: ./appendices/C_motion_detector.md
+        - file: ./appendices/D_voltage_probe.md
+        - file: ./appendices/E_microphone.md
+        - file: ./appendices/F_energy_transfer_generator.md
+        - file: ./appendices/G_DMM.md
+        - file: ./appendices/H_Excel.md
+        - file: ./appendices/I_models.md
+  id: 
+  title: Energy and Environment Lab
+  github: https://github.com/troymessina/EnergyEnvironmentLab
+  license:
+    content: CC-BY-NC-SA-4.0
+    code: GPL-3.0-or-later
+  description: Energy, Environment, and Climate Lab Manual
+  keywords: [Introductory Physics, Energy, Environment, Climate]
+  authors: [Troy Messina]
+  numbering:
+    headings: false
+  exclude: 
+
+site:
+  template: book-theme 
+  title: Energy, Environment, and Climate Lab
+  options:
+    logo: ./figures/primary_rgb.png
+    logo_dark: ./figures/primary_white.png
+    logo_text: Electronics Lab
+    favicon : ./figures/favicon.ico
+    comments:
+        hypothesis: true
+        utterances: true
+  nav: []
+  #actions:
+  #  - title: Learn More
+  #    url: https://mystmd.org/guide
+  domains:
+
+#html:
+  
+  
