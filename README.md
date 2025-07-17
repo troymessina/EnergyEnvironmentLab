@@ -7,7 +7,6 @@ This is an **open-access** lab book for courses on energy, environment, and clim
 ![mystmd](https://img.shields.io/badge/Built%20with-mystmd-8A2BE2)
 ![License](https://badgen.net/badge/license/CC-BY-NC-SA-4.0/green)
 
-
 This lab manual is a conversion to markdown from the [University of Minnesota Physics and Astronomy wiki](https://zzz.physics.umn.edu/home). The original manual can be found at [Energy and the Environment Lab Manual]([https://escholarship.org/uc/item/9js5291m#article_main](https://zzz.physics.umn.edu/_media/physlab/1001_labmanual.pdf)). Some updating and editing are ongoing here from this original text.
 
 This lab manual is open-access and can be found at https://github.com/troymessina/EnergyEnvironmentLab. The following chapters are included in the textbook:
@@ -29,7 +28,7 @@ This lab manual is open-access and can be found at https://github.com/troymessin
 13. [Lab 13 - Half-Life and Radioactive Waste Storage](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
 14. [Lab 14 - Harvesting Energy from Water Waves](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
 
-*Appendices **
+**Appendices**
 
 * [Appendix A - Logger Pro Interface](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
 * [Appendix  - Lab Pro Software](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
@@ -39,13 +38,6 @@ This lab manual is open-access and can be found at https://github.com/troymessin
 * [Appendix F - Energy Transfer Generator](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
 * [Appendix G - The Digital Multimeter (DMM)](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
 * [Appendix H - Graphing with Microsoft Excel](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
-
-**Appendices**
-
-* [Appendix A - Math and Equations](https://troymessina.github.io/HumanAmbitions/appa-math)
-* [Appendix B - Chemistry Primer/Refresher](https://troymessina.github.io/HumanAmbitions/appb-chem)
-* [Appendix C - Selected Answers](https://troymessina.github.io/HumanAmbitions/appc-solns)
-* [Appendix D - Alluring Tangents](https://troymessina.github.io/HumanAmbitions/appd-tangents)
 
 # License
 This work is licenced under [Creative Commons Non-Commercial, ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/).
