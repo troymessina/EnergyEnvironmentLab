@@ -24,6 +24,7 @@ $y \propto x^2$, which follows the equation $y = a x^2 + bx + c$
 :width: 100%
 :align: center
 :alt: $y \propto x^3$, which follows the equation $y = a x^3 + bx^2 + cx + d$
+$y \propto x^3$, which follows the equation $y = a x^3 + bx^2 + cx + d$
 ```
 
 ```{figure} ../figures/hyperbolic.svg
