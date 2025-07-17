@@ -15,7 +15,7 @@ project:
         - file: ./experiments/08_greenhouse.md
         - file: ./experiments/09_ohms.md
         - file: ./experiments/10_magnets.md
-        - file: ./experiments/gravity_conversion.md
+        - file: ./experiments/11_gravity_conversion.md
         - file: ./experiments/12_atomic_spectra.md
         - file: ./experiments/13_radioactivity.md
         - file: ./experiments/14_waves.md
