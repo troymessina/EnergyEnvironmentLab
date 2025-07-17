@@ -51,7 +51,7 @@ Under constant acceleration, an object will have a speed that changes proportion
 
 There are two parts to this exercise. The first involves a level track, and the second involves an inclined track.
 
-## Part i: Level track
+## Part 1: Level track
 
 ### Exploration
 
@@ -80,7 +80,7 @@ If possible, every member of your group should operate the computer.
 1. From the graph of distance vs. time, calculate the slope of the line. How is this slope related to the velocity of the car? Capstone allows you to fit curves automatically, read your appendix to find out how.
 2. From the velocity vs. time graph, what can you tell about the acceleration of the car? Explain how you can tell this from the graph.
 
-## Part ii: Inclined track
+## Part 2: Inclined track
 
 Use a low friction PASCO cart – not the battery toy car. Put a wood block under the aluminum track to make the incline. (One block is probably all you need.) **Be certain to catch the cart before it falls on the floor!**
 
