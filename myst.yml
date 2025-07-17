@@ -49,7 +49,7 @@ site:
   options:
     logo: ./figures/primary_rgb.png
     logo_dark: ./figures/primary_white.png
-    logo_text: Electronics Lab
+    logo_text: Energy and Environment Lab
     favicon : ./figures/favicon.ico
     comments:
         hypothesis: true
