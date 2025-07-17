@@ -12,7 +12,9 @@ This lab manual is a conversion to markdown from the [University of Minnesota Ph
 This lab manual is open-access and can be found at https://github.com/troymessina/EnergyEnvironmentLab. The following chapters are included in the textbook:
 
 0. [Introduction](https://troymessina.github.io/EnergyEnvironmentLab/)
-** Labs **
+
+**Labs**
+
 1. [Lab 1 - Velocity and Acceleration](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
 2. [Lab 2 - Velocity, Acceleration and Newton's Second Law](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
 3. [Lab 3 - Conservation of Energy](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
@@ -31,9 +33,9 @@ This lab manual is open-access and can be found at https://github.com/troymessin
 **Appendices**
 
 * [Appendix A - Logger Pro Interface](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
-* [Appendix  - Lab Pro Software](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
+* [Appendix B - Lab Pro Software](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
 * [Appendix C - Motion Detector](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
-* [Appendix D] - Voltage Probe](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
+* [Appendix D - Voltage Probe](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
 * [Appendix E - Microphone](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
 * [Appendix F - Energy Transfer Generator](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
 * [Appendix G - The Digital Multimeter (DMM)](https://troymessina.github.io/EnergyEnvironmentLab/01_velocity_acceleration)
