@@ -23,7 +23,7 @@ $y \propto x^2$, which follows the equation $y = a x^2 + bx + c$
 :label: fig:appI:cubic
 :width: 100%
 :align: center
-:alt: 
+:alt: $y \propto x^3$, which follows the equation $y = a x^3 + bx^2 + cx + d$
 ```
 
 ```{figure} ../figures/hyperbolic.svg
@@ -39,7 +39,7 @@ inversely proportional to $x$, or $y \propto 1/x$.
 :width: 100%
 :align: center
 :alt: inversely proportional to $x^2$, or $y \propto 1/x^2$.
-inversely proportional to x, or $y \propto 1/x$.
+inversely proportional to $x^2$, or $y \propto 1/x^2$.
 ```
 
 ```{figure} ../figures/squareroot.svg
