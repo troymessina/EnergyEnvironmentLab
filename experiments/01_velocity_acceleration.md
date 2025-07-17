@@ -84,7 +84,13 @@ If possible, every member of your group should operate the computer.
 
 Use a low friction PASCO cart – not the battery toy car. Put a wood block under the aluminum track to make the incline. (One block is probably all you need.) **Be certain to catch the cart before it falls on the floor!**
 
-![](../figures/lab1/_page_7_Picture_8.jpeg)
+```{figure} ../figures/lab1/_page_7_Picture_8.jpeg
+:label: fig:lab1:inclinedtrack
+:width: 100%
+:align: center
+:alt: Cart on an inclined track.
+Cart on an inclined track.
+```
 
 Discuss with your partners and make a prediction: How would you expect a velocity vs. time graph to look for a cart rolling down an incline? Draw a sketch of the graph. Explain what coordinate system you are using
 
