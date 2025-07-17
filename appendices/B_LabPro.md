@@ -3,7 +3,7 @@
 
 The LabPro interface has three buttons, three LEDs, four analog channels (CH 1, CH 2, CH 3, and CH 4), two digital channels (DIG/SONIC 1 and DIG/SONIC 2), a serial computer connection, a USB computer connection, a piezo speaker, and a calculator I/O port.
 
-![](_page_80_Figure_2.jpeg)
+![](../figures/_page_80_Figure_2.jpeg)
 
 **Buttons:** The three buttons on the top of LabPro are used for the following purposes:
 
@@ -36,7 +36,7 @@ Sensors can be divided into two basic types—analog and digital. Examples of an
 
 The LabPro computer connection is located on the right side of the interface. The sliding door found there can be moved left to reveal the serial port or to the right to reveal the USB port.
 
-![](_page_81_Picture_4.jpeg)
+![](../figures/_page_81_Picture_4.jpeg)
 
 *Serial Port and Digital Channels (USB Port is behind the sliding door)*
 
@@ -46,7 +46,7 @@ Locate the Logger *Pro* icon on your computer and double-click on it. An importa
 
 If you have connected a Stainless-Steel Temperature Probe and the computer has detected the LabPro interface, for example, you will see the following screen, which shows a graph of Temperature *vs*. Time along with the current reading at the top.
 
-![](_page_81_Figure_9.jpeg)
+![](../figures/_page_81_Figure_9.jpeg)
 
 1001 Appendix B : Page 2
 
@@ -62,7 +62,7 @@ Computer & LabPro interface Vernier Stainless-Steel Temperature Probe One 250-mL
 
 # Procedure
 
-![](_page_82_Picture_7.jpeg)
+![](../figures/_page_82_Picture_7.jpeg)
 
 1. Place about 100 mL of hot water into a 250-mL beaker or a cup.
 

@@ -44,14 +44,14 @@ Hinrichs and Kleinback, pp 47‐57
 
 In this exercise, you and your partners will calculate your work and maximum power output when climbing stairs. Remember that work is a change in energy. When you climb a flight of stairs, you have increased your potential energy (you now have the potential to fall down the stairs under the influence of gravity). How fast this change in energy occurs will allow you and your partners to determine the power output involved.
 
-![](_page_19_Picture_19.jpeg)
+![](../figures/_page_19_Picture_19.jpeg)
 
 *This exercise requires physical activity. If you are unable to participate due to an injury or asthma, tell your instructor. Be careful on the stairs so you donʹt trip or collide with anyone else. Someone acting as a ʺlookoutʺ is a good idea.* 
 
 - 1. To calculate your potential energy, you must know your mass. Measure your weight in pounds on the scale and multiply by 0.45 to find your mass in kilograms.
 - 2. You must also know your change in height to calculate your potential energy. Use the meter stick to determine the height of one flight of stairs and four flights of stairs. Be careful ‐‐ the physics building is a little strange. The flights of stairs have different numbers of steps, and some of the flights even have steps with a different height!
 
-![](_page_20_Figure_3.jpeg)
+![](../figures/_page_20_Figure_3.jpeg)
 
 *In each case, the student has the same gravitational potential energy, and she has done the same amount of work to reach the top because (neglecting friction) she does no work when she moves horizontally. Work is required, though, for her to move against earth's gravity.*
 
@@ -125,13 +125,13 @@ $$
 
 Where *m* is the mass of the hanging weight, *D* is the cylinder diameter, and *N* is the number of times you turn the crank. With this equation, find the number of turns necessary to increase the heat energy of the drum by the amount you calculated in the first step.
 
-![](_page_24_Figure_1.jpeg)
+![](../figures/_page_24_Figure_1.jpeg)
 
 #### Procedure
 
 With your theoretical number of turns, you are now ready to conduct your trial. Secure the drum apparatus to the table with the clamp. Place your weight on the floor beneath the drum. Wrap the string around the drum two or three times, enough that you hardly need to pull on the string when turning the drum to keep the weight at a constant height off the floor. Practice turning the drum while pulling gently on the string to raise the weight a few centimeters off the floor. As the drum turns and the string slides over it, the friction will heat the drum.
 
-![](_page_24_Picture_4.jpeg)
+![](../figures/_page_24_Picture_4.jpeg)
 
 *It is a very good idea not to place your feet under the weight. It has a mass of over 8 kilograms and is sufficiently heavy to break your toes if it accidentally falls from a height of several centimeters. Also, never let go of the crank when the weight is off the floor or it will spin rapidly and bruise fingers.*
 

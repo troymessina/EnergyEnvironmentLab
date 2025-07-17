@@ -1,7 +1,5 @@
 (lab3)=
-# Lab 3
-
-# Conservation of energy
+# Lab 3 - Conservation of energy
 
 This week we have enough of the basic concepts to begin a discussion of energy itself. Energy is sometimes introduced as if it is a concept independent of Newtonʹs laws (though related to them). In fact, however, the idea of energy arises directly out of Newtonʹs second law, and Newtonʹs second law actually guarantees a central fact about energy, namely that no energy is ever lost or destroyed, but simply changes form, the so‐called law of conservation of energy.
 
@@ -39,7 +37,7 @@ In this exercise, you and your partners will investigate the law of conservation
 
 **Figure 1:**
 
-![](_page_15_Figure_5.jpeg)
+![](../figures/_page_15_Figure_5.jpeg)
 
 **Pre-Lab Reading** 
 
@@ -97,7 +95,7 @@ where *m* is the mass of the object, *g* is the acceleration of gravity on Earth
 - 1. Comment on your values for the total change in kinetic energy of the cart and the hanging mass and the change in potential energy of the hanging mass.
 - 2. a) Do your values support the conservation of energy? Explain. b) How can you account for any discrepancies between these values?
 
-![](_page_17_Picture_4.jpeg)
+![](../figures/_page_17_Picture_4.jpeg)
 
 Consider the following situation: A physics instructor demonstrates the conservation of energy with a bowling ball attached to the ceiling with a string. It is simply a large pendulum. When the pendulum is pulled back, it has all potential energy, and at the bottom of its swing, it has all kinetic energy. The physics instructor releases the bowling ball from the tip of his nose, and it swings across the room and back toward him. Based on the conservation of energy and your results for this exercise, will this physics
 

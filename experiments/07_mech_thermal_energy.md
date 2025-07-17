@@ -13,7 +13,7 @@ The simple engine you will use uses thermal energy to lift objects. A piston tha
 
 #### Equipment
 
-![](_page_37_Figure_2.jpeg)
+![](../figures/_page_37_Figure_2.jpeg)
 
 # Prediction
 

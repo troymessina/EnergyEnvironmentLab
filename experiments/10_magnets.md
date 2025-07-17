@@ -22,18 +22,18 @@ Hinrichs and Kleinbach pp 359‐372
 
 1. If a beam of positively charged particles moves from right to left as shown in the figure below what would be the effect of a bar magnet on the beam if it were located as shown in the diagram? (Would the beam move up? down? Out of the paper? Into the paper? Or, would there be no effect?)
 
-![](_page_49_Figure_2.jpeg)
+![](../figures/_page_49_Figure_2.jpeg)
 
 - 2. If the beam of particles, in the above diagram, were electrons (negative charges) what would be the effect of the magnet on the beam? (Would the beam move up? Down? Out of the paper? Into the paper? Or, would there be no effect?)
 - 3. If a beam of positive charges were coming out of the paper what would be the effect of the magnet on the beam? (The black dot represents the beam coming out of the paper.) Would the beam move up? down? Out of the paper? Into the paper? Left? Right? Or, would there be no effect?)
 
-![](_page_49_Picture_5.jpeg)
+![](../figures/_page_49_Picture_5.jpeg)
 
 # Procedure
 
 A cathode ray tube (CRT) produces an electron beam that can be seen as a glowing spot when it hits a phosphorescent surface inside the tube. Holding a magnet close to the CRT produces a magnetic field in the tube and causes the electron beam to deflect, which will make the spot on the phosphorescent screen move. The lab instructor will show you how to connect the CRT to the high‐ voltage power supply properly.
 
-![](_page_49_Picture_8.jpeg)
+![](../figures/_page_49_Picture_8.jpeg)
 
 *You and your partners will work with equipment that produces large voltages, and improper use can cause injury. To avoid danger, the power should be off and you should wait at least one minute before any wires are connected to or disconnected from the power supply. Do not grasp a wire by its metal ends.*
 
@@ -41,7 +41,7 @@ A cathode ray tube (CRT) produces an electron beam that can be seen as a glowing
 - **2.** Connect the CRT and the power supply. Consult with your instructor about the ideal accelerating voltage with which to start the exercise. Record this value. Also record the location of the non‐deflected beam spot on the screen.
 - **3.** Use your compass to determine which pole on your bar magnet is the north magnetic pole. Below is the magnetic field that is produced by a bar magnet:
 
-![](_page_50_Picture_1.jpeg)
+![](../figures/_page_50_Picture_1.jpeg)
 
 Based on this, describe what the magnetic field will be like within the CRT.
 
@@ -60,7 +60,7 @@ How much does the deflection change? Try with both poles of the magnet. Were the
 
 1. When you bring the north end of a bar magnet near the side of the CRT:
 
-![](_page_50_Figure_12.jpeg)
+![](../figures/_page_50_Figure_12.jpeg)
 
 - a) in what direction is the electron beam deflected?
 - b) Does the beam deflection increase or decrease as your magnet is moved closer to the CRT?

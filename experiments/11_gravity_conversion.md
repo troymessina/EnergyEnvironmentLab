@@ -15,7 +15,7 @@ Hinrichs and Kleinbach pp 400‐417
 
 # Predictions/preliminary questions
 
-![](_page_54_Figure_9.jpeg)
+![](../figures/_page_54_Figure_9.jpeg)
 
 If you have 500 cubic centimeters of water an average height of 0.5 meters above the turbine, what is the maximum energy which you can generate with the available energy? If there is a 100 ohm resistor across the output terminals of the generator, and the water takes a minute to run through the turbine, what is the average voltage which you expect to see across the output terminals of the generator?
 
@@ -49,7 +49,7 @@ First use the generator to convert the gravitational potential energy of a weigh
 
 # Part 2. Electrical Energy from Gravitational Potential Energy of Water
 
-![](_page_55_Picture_12.jpeg)
+![](../figures/_page_55_Picture_12.jpeg)
 
 1. Attach the ET‐Hydro accessory housing to the molded case of the generator using the two captured screws and the supplied screwdriver
 
@@ -75,7 +75,7 @@ First use the generator to convert the gravitational potential energy of a weigh
 
 5. Now turn the fan back on and measure the power output.
 
-![](_page_56_Picture_10.jpeg)
+![](../figures/_page_56_Picture_10.jpeg)
 
 # Analysis
 

@@ -104,6 +104,6 @@ The use of curved mirrors to heat water or some object dates back millennia. In 
 
 Later, it was imagined that large parabolic mirrors could be used as weapons. One apparently apocryphal legend has it that Archimedes used parabolic mirrors to set fire to the vessels of Romans at Syracuse in 212 B.C. In the thirteenth century, Roger Bacon, a monk, suggested that a parabolic mirror could be used as a weapon of mass destruction in the crusades. In the seventeenth century, Giambattista Porta imagined a mirror that so destructive that it would "cast forth terrible fire" and set ablaze "the enemy's ships, gates, bridges, and the like.
 
-![](_page_34_Picture_5.jpeg)
+![](../figures/_page_34_Picture_5.jpeg)
 
 A parabolic mirror uses the sun's rays to boil a kettle of water in Tibet.

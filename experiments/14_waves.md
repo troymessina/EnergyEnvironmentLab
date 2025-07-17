@@ -44,7 +44,7 @@ Be creative with what you try, but also think critically about each arrangement.
 
 Did you and your partners figure out how to create waves with the greatest possible height? Here are two ways to determine if you did. First, check out tsunamis (Japanese for ʺharbor wave,ʺ also called tidal waves) on the Internet. Why are tsunamis so large (as high as 30 m)? What happens when a tsunami when it approaches the shore? The Science Museum of Minnesota, has the wave tank shown below. Can you suggest how to manipulate the controls so that the wave height is greatest at the far end of the tank? How is energy involved? If you get a chance, you might like to visit the museum yourself and try it (not required!).
 
-![](_page_70_Picture_1.jpeg)
+![](../figures/_page_70_Picture_1.jpeg)
 
 #### Conclusions
 

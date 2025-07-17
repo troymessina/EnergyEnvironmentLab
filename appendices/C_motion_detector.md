@@ -3,7 +3,7 @@
 
 The Motion Detector is used to collect position, velocity and acceleration data of moving objects. Students can study a variety of motions with the Motion Detector.
 
-![](_page_84_Figure_2.jpeg)
+![](../figures/_page_84_Figure_2.jpeg)
 
 This is a sample of motion data collected with Logger *Pro*® and a computer.
 
@@ -27,4 +27,4 @@ To use the Motion Detector with LabPro, the Motion Detector is connected to the 
 
 Slide the Sensitivity Switch to the right to set the switch to the "normal" setting. This setting is best used for experiments such as studying the motion of a person walking back and forth in front of the Motion Detector, a ball being tossed in the air, pendulum motion, and any other motion involving relatively large distances or with objects that are poor reflectors, e.g., coffee filters. The other sensitivity setting, which we call "Track", works well when studying motion of carts on tracks like the Vernier Dynamics System, or motions in which you want to eliminate stray reflections from object near to the sensor beam.
 
-![](_page_85_Picture_1.jpeg)
+![](../figures/_page_85_Picture_1.jpeg)

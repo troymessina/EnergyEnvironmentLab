@@ -14,7 +14,7 @@ Locate the Logger *Pro* icon and double‐click on it.
 
 Logger *Pro* can collect data from multiple interfaces and devices.
 
-![](_page_72_Picture_9.jpeg)
+![](../figures/_page_72_Picture_9.jpeg)
 
 *In the figure above, a Go!Link, Go!Temp, LabPro and Ohaus balance are connected to the computer.* Logger *Pro* is a program that allows you to collect and analyze data from Vernier LabPro. Among its many features, data may be manually entered from the keyboard, pasted from the clipboard, or retrieved from a file saved on disk. Logger *Pro* is also a document creator, with the ability to include several pages in one document.
 
@@ -204,7 +204,7 @@ Several of the analysis features are available from the Toolbar.
 
 **FFT:** Gives the amplitudes of the frequency components of a data series, and displays a bar graph showing the amplitudes of the frequencies shown along the x‐axis.
 
-![](_page_77_Figure_14.jpeg)
+![](../figures/_page_77_Figure_14.jpeg)
 
 # Set Preferences
 

@@ -17,14 +17,14 @@ Hinrichs and Kleinbach pp 330‐339
 
 # Predictions/preliminary questions
 
-![](_page_44_Figure_9.jpeg)
+![](../figures/_page_44_Figure_9.jpeg)
 
 - 1. Suppose a voltmeter were connected across a battery to measure the voltage from point 1 to point 2. (See figure 1.) Suppose you moved the voltmeter and connected it from point 3 to point 4. Compare the **voltage** reading at the new location with the reading at the first location. Explain your reasoning.
 - 2. Compare the **current** reading, in amps, on an ammeter connected between point 2 and point 3 with the reading on the ammeter if it were connected between points 1 and 4. (The ammeter is connected between the points so all the current runs through it. See figure 2.) Explain your reasoning.
 - 3. If you were to double the voltage (for example, using two batteries) what would happen to the amount of **current** in the circuit if the resistance in the circuit stayed the same? (See figure 2)
 - 4. If the resistor in the circuit were replaced with a resistor with twice the resistance, what would happen to the current in the circuit assuming you used the same battery with the same voltage?
 
-![](_page_45_Figure_5.jpeg)
+![](../figures/_page_45_Figure_5.jpeg)
 
 #### Procedure
 

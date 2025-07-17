@@ -51,7 +51,7 @@ List the equilibrium temperatures for each group and compare. Were the results y
 
 Changes in the vibrational and rotational motions of molecules are the main reason for the absorption of IR energy The direct absorption of infrared radiation occurs **only** if there is a **change in the dipole moment** of the molecule.
 
-![](_page_42_Figure_3.jpeg)
+![](../figures/_page_42_Figure_3.jpeg)
 
 Consider the dipole moment as the molecule undergoes each of these motions. The vibrations will result in an absorption in the infrared region. Infrared absorption frequencies for several atmospheric gases are given in Table 1.
 

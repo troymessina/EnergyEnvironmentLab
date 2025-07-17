@@ -17,11 +17,11 @@ The reason why atoms give out line spectral is because the electrons which move 
 
 Just as materials which are emitting electromagnetic energy do so only at certain well defined wavelengths, so materials can only absorb electromagnetic radiation at certain wavelengths. Thus one can also observe absorption spectra, which tell you which radiation failed to get through the material. The absorption spectrum of chlorophyll, which is the material in plants which harvests sunlight for conversion to chemical energy, is shown below. Chlorophylls absorb only certain portions of the visible spectrum: the blue‐violet range (420‐460 nm) and the red range (630‐660 nm). The other colors, particularly green, are not absorbed by the chlorophylls and are reflected. Because plants therefore reflect green light to our eyes, we see them as green in color. .
 
-![](_page_59_Figure_4.jpeg)
+![](../figures/_page_59_Figure_4.jpeg)
 
 #### We show some characteristic emission spectra of gases of atoms of the periodic table below. *Examples of Atomic Spectra*
 
-![](_page_60_Figure_2.jpeg)
+![](../figures/_page_60_Figure_2.jpeg)
 
 You and your partners will view the atomic spectra of several different elements. You will record the characteristic spectrum for each element. Using the periodic table and your observations, you and your lab partners will get some understanding of the role of electron energy levels in creating atomic spectra.
 
