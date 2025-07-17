@@ -39,8 +39,13 @@ Textbook Chapter 5.1 on Motion
 4. Sketch a graph of velocity vs. time for a car that is slowing down.
 5. The following graph shows the velocity of a car in meters per second (m/s) measured at several different times. Calculate the acceleration of this car by using the slope of the graph.
 
-![](../figures/_page_5_Figure_20.jpeg)
-<img src="./figures/_page_5_Figure_20.jpeg" width="600" alt="graph of constant velocity motion">
+```{figure} ../figures/lab1/vvst.svg
+:label: fig:lab1:vvst
+:width: 100%
+:align: center
+:alt: Under constant acceleration, an object will have a speed that changes proportionally to time.
+Under constant acceleration, an object will have a speed that changes proportionally to time.
+```
 
 6. What happens to the acceleration of a cart as it moves down an inclined track? (Does the acceleration increase, decrease, or remain the same?) Explain your reasoning.
 
@@ -79,7 +84,7 @@ If possible, every member of your group should operate the computer.
 
 Use a low friction PASCO cart – not the battery toy car. Put a wood block under the aluminum track to make the incline. (One block is probably all you need.) **Be certain to catch the cart before it falls on the floor!**
 
-![](../figures/_page_7_Picture_8.jpeg)
+![](../figures/lab1/_page_7_Picture_8.jpeg)
 
 Discuss with your partners and make a prediction: How would you expect a velocity vs. time graph to look for a cart rolling down an incline? Draw a sketch of the graph. Explain what coordinate system you are using
 
