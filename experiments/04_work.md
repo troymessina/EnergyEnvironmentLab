@@ -1,11 +1,13 @@
 (lab4)=
-# Lab 4 energy transfer through work
+# Lab 4 - Energy transfer through work
 
-In previous laboratories you have studied the energy of a body or collection of bodies which could be regarded for the purposes of the experiment as isolated. We did not have to consider the transfer of energy from one body to another explicitly. However in energy technology such as the delivery of electricity to your home where it is converted to other forms for your use or the delivery of the chemical energy in gasoline to your car where it is converted through two steps to the kinetic energy of your car, energy transfer from one body to another is of utmost importance. Energy transfer from one body to another takes place through the action of work. To illustrate this, we will turn back to the falling ball discussed in laboratory 2, but this time, suppose that, before the ball was dropped, you picked it up off the floor and lifted it up to height d for dropping. For simplicity we will suppose that it was lifted slowly and steadily so that we can ignore any accelerations and decelerations during the lift. From an energetic point of view, what is happening to the ball is that gravitational potential energy is being added to it. Where did that energy come from? It came from your body, where the energy was stored in the form of chemical energy in your muscles. We want to focus on the mechanism by which the transfer took place: As you lift the ball, a gravitational force mg (massxgravity) acts down on it and you exert a slightly larger force upward on it with your hand. Since we are ignoring accelerations and decelerations as small we can suppose that this upward force is also of magnitude mg (though it has a completely different origin than the downward force). Now the net energy added to the ball is the gravitational potential energy mgd. Therefore
+In previous laboratories you have studied the energy of a body or collection of bodies which could be regarded for the purposes of the experiment as isolated. We did not have to consider the transfer of energy from one body to another explicitly. However in energy technology such as the delivery of electricity to your home where it is converted to other forms for your use or the delivery of the chemical energy in gasoline to your car where it is converted through two steps to the kinetic energy of your car, energy transfer from one body to another is of utmost importance. Energy transfer from one body to another takes place through the action of work. To illustrate this, we will turn back to the falling ball discussed in [laboratory 2](#lab2), but this time, suppose that, before the ball was dropped, you picked it up off the floor and lifted it up to height d for dropping. For simplicity we will suppose that it was lifted slowly and steadily so that we can ignore any accelerations and decelerations during the lift. From an energetic point of view, what is happening to the ball is that gravitational potential energy is being added to it. Where did that energy come from? It came from your body, where the energy was stored in the form of chemical energy in your muscles. We want to focus on the mechanism by which the transfer took place: As you lift the ball, a gravitational force $mg$ (mass x gravity) acts down on it and you exert a slightly larger force upward on it with your hand. Since we are ignoring accelerations and decelerations as small we can suppose that this upward force is also of magnitude $mg$ (though it has a completely different origin than the downward force). Now the net energy added to the ball is the gravitational potential energy mgd. Therefore
 
-Energy transferred to the ball during lift =mgd
+$$\text{Energy~transferred~to~the~ball~during~lift~=~mgd}$$
 
-= (magnitude of the upward force due to your hand X distance through which the force acted)
+and this can be written
+
+$$\text{Energy~transferred~to~the~ball~during~lift~=~(magnitude~of~the~upward~force~due~to~your~hand~X~distance~through~which~the~force~acted)}$$
 
 We say that your hand performed work on the ball equal to the force you exerted on the ball times the distance through which it acted. The conclusion from this example can be generalized: When a body exerts a force on another body and the body moves through a distance, energy is transferred to the other body. The magnitude of the energy transferred is the product of the magnitude of the force times the distance, along the direction of the force, through which the force acts.
 
@@ -15,59 +17,62 @@ In this laboratory, you will perform two experiments in which work is done and e
 
 In the second experiment you will turn a crank which causes a wheel to rub against an aluminum cylinder. In this case chemical energy is converted ultimately to the thermal energy in the aluminum, manifested as a rise in its temperature. As we will discuss, thermal energy is actually a form of kinetic and potential energy associated with the random motion of the molecules of a substance (aluminum here).
 
-# Part 1. transfer of chemical energy to gravitational potential energy through work
+## Part 1. transfer of chemical energy to gravitational potential energy through work
 
 As you run up stairs, you use over two hundred muscles. When you walk or run, your muscles use energy both to propel your body forward and to move it against gravity. The energy to do this comes from your food. Your muscles convert the chemical energy of adenosine triphosphate (ATP) into mechanical work. In this exercise, you and your lab partners will find your own work and power output when running up a single flight of stairs and then four flights of stairs.
 
-# Pre‐lab reading
+### Pre‐lab reading
 
-Hinrichs and Kleinback, pp 47‐57
+Textbook Chapters 1.3, 2.1-2.3 and 6.1
 
-# Equipment
+### Equipment
 
-- 1 stopwatch
-- 1 meter stick
-- 1 bathroom scale
+* 1 stopwatch
+* 1 meter stick
+* 1 bathroom scale
 
-# Predictions/preliminary questions
+### Predictions/preliminary questions
 
-(Look at the lab procedure and pre‐lab reading for help in answering these questions. For converting energies into different units, you can use Appendix B of your book (page B.I) or Table 3.4 (p.91))
+(Look at the lab procedure and pre‐lab reading for help in answering these questions. For converting energies into different units, you can use Section 1.3 of your book.
 
-- 1. Estimate the work you would do in climbing a set of stairs with a vertical height of 4 meters. (Use the weight of a person in kg) If you know the weight of a person how do you find the force of gravity on the person?
-- 2. What is the relationship between the work you do in climbing a set of stairs and the potential energy you gain in going up the stairs?
-- 3. Estimate the time it would take to walk up the set of stairs and use that to determine the power you would develop in climbing those stairs.
-- 4. Estimate the amount of horsepower you develop in climbing those stairs. Note: 746 watts of power are equivalent to one horsepower.
-- 5. If you run up the stairs (instead of walking) will you be developing more horsepower or less? Explain your reasoning.
-- **6.** If you walk up several flights of stairs do you think the power you expend would be greater, the same or less than when you walk up only one flight? Explain your reasoning.
+1. Estimate the work you would do in climbing a set of stairs with a vertical height of 4 meters. (Use the weight of a person in kg) If you know the weight of a person how do you find the force of gravity on the person?
+2. What is the relationship between the work you do in climbing a set of stairs and the potential energy you gain in going up the stairs?
+3. Estimate the time it would take to walk up the set of stairs and use that to determine the power you would develop in climbing those stairs.
+4. Estimate the amount of horsepower you develop in climbing those stairs. Note: 746 watts of power are equivalent to one horsepower.
+5. If you run up the stairs (instead of walking) will you be developing more horsepower or less? Explain your reasoning.
+6. If you walk up several flights of stairs do you think the power you expend would be greater, the same or less than when you walk up only one flight? Explain your reasoning.
 
-# Procedure
+### Procedure
 
 In this exercise, you and your partners will calculate your work and maximum power output when climbing stairs. Remember that work is a change in energy. When you climb a flight of stairs, you have increased your potential energy (you now have the potential to fall down the stairs under the influence of gravity). How fast this change in energy occurs will allow you and your partners to determine the power output involved.
 
-![](../figures/_page_19_Picture_19.jpeg)
+![](../figures/lab4/_page_19_Picture_19.jpeg)
 
-*This exercise requires physical activity. If you are unable to participate due to an injury or asthma, tell your instructor. Be careful on the stairs so you donʹt trip or collide with anyone else. Someone acting as a ʺlookoutʺ is a good idea.* 
+*This exercise requires physical activity. If you are unable to participate due for any reason, inform your instructor. Be careful on the stairs so you donʹt trip or collide with anyone else. Someone acting as a ʺlookoutʺ is a good idea.* 
 
-- 1. To calculate your potential energy, you must know your mass. Measure your weight in pounds on the scale and multiply by 0.45 to find your mass in kilograms.
-- 2. You must also know your change in height to calculate your potential energy. Use the meter stick to determine the height of one flight of stairs and four flights of stairs. Be careful ‐‐ the physics building is a little strange. The flights of stairs have different numbers of steps, and some of the flights even have steps with a different height!
+1. To calculate your potential energy, you must know your mass. Measure your weight in pounds on the scale and multiply by 0.45 to find your mass in kilograms.
+2. You must also know your change in height to calculate your potential energy. Use the meter stick to determine the height of one flight of stairs and four flights of stairs. Be careful ‐‐ the physics building is a little strange. The flights of stairs have different numbers of steps, and some of the flights even have steps with a different height!
 
-![](../figures/_page_20_Figure_3.jpeg)
+```{figure} ../figures/lab3/_page_20_Figure_3.jpeg
+:label: fig:lab4:heightchange
+:width: 100%
+:align: center
+:alt: Three perspectives of changing your elevation (stairs, ramp, lift).
+Three perspectives of changing your elevation (stairs, ramp, lift).
+```
 
 *In each case, the student has the same gravitational potential energy, and she has done the same amount of work to reach the top because (neglecting friction) she does no work when she moves horizontally. Work is required, though, for her to move against earth's gravity.*
 
-- 3. Each member of your lab group should run up one flight of stairs (from one landing to the next) while someone records the time taken. Next, each group member should run up four flights of stairs (two stories) while someone records the time taken.
-- 4. Calculate the work you did in lifting your body against the gravitational force. The work done is equal to your change in potential energy. To find your power, divide the change in potential energy by the time it took to climb the stairs. Report the results.
+3. Each member of your lab group should run up one flight of stairs (from one landing to the next) while someone records the time taken. Next, each group member should run up four flights of stairs (two stories) while someone records the time taken.
+4. Calculate the work you did in lifting your body against the gravitational force. The work done is equal to your change in potential energy. To find your power, divide the change in potential energy by the time it took to climb the stairs. Report the results.
 
-# Conclusions
+### Conclusions
 
-- 1. Report your leg power in watts (Joules per second). Divide your result by 746 in order to find your power in horsepower. How does your work and power compare to that of your partners? Did anyone do more work than you but used less power? Vice versa? Who did the most work? Who had the greatest power output? The least?
-- 2. As you climb the stairs, you convert food energy into kinetic energy. A major part of this conversion, however, is heat that is lost to the air. In fact, about 75 percent of the energy from food becomes heat. Only 25 percent of the food energy is converted to work. Based on your leg power and the efficiency of converting food energy into work, how long would it
-
-take you, climbing stairs, to burn off a Big Mac (570 kilocalories)? How about a Double Whopper with cheese (1010 kilocalories)? One calorie (not Calorie) equals 4.2 Joules.
-
+1. Report your leg power in watts (Joules per second). Divide your result by 746 in order to find your power in horsepower. How does your work and power compare to that of your partners? Did anyone do more work than you but used less power? Vice versa? Who did the most work? Who had the greatest power output? The least?
+2. As you climb the stairs, you convert food energy into kinetic energy. A major part of this conversion, however, is heat that is lost to the air. In fact, about 75 percent of the energy from food becomes heat. Only 25 percent of the food energy is converted to work. Based on your leg power and the efficiency of converting food energy into work, how long would it take you, climbing stairs, to burn off a Big Mac (570 kilocalories)? How about a Double Whopper with cheese (1010 kilocalories)? One calorie (not Calorie) equals 4.2 Joules.
 3. How does your power for a single flight compare to that for four flights of stairs? Read the following article about the Annual Empire State Building Run‐Up. Consider the record‐ holders and the 88‐year‐old orchestra conductor. Assume that the men ‐‐ Paul and Chico ‐‐ weigh 170 pounds and that Belinda weighs 130 pounds. Calculate their work and power. Compare to your work and power, and explain the differences. Also consider long distance runners and sprinters. A typical long distance runner has a maximum power of 9 watts/kg body weight, and a typical sprinter has a maximum power of 15 watts/kg body weight.
 
-#### 22nd Annual Empire State Building Run‐Up February 23, 2000
+```{note} 22nd Annual Empire State Building Run‐Up February 23, 2000
 
 This ainʹt no party, this ainʹt no fooling around. This is the 23rd annual Empire State Building Run‐Up, ʺthe worldʹs most elevating workout.ʺ Organized by the New York Road Runners Club (NYRRC), the race offers 30 minutes of uphill torture.
 
@@ -80,16 +85,17 @@ If you find yourself inspired to rush over to scale those steps with the other r
 So who made the cut? Last year, 150 runners from 9 countries and 12 US states crammed their way up those stairs. Ages ranged from 20 to 87, including an optometrist, a nanny, and an air traffic controller. Watch out for the Australians; they hold the record time for the men (Paul Crake made a new record last year, at 10:15 – thatʹs 155.3 steps per minute!) and the women (Belinda Soszyn, 12:19, set in 1996). And look for Chico Scimone, the 88‐year‐old orchestra conductor from Italy, who has run the race several times, logging last year at 34:21. Heʹll be running with some family members this year; and, reportedly, heʹs in even better health than last year! Not bad for 88. Certainly a lot faster than most of you.
 
 WhatʹsGoingOn.com; Copyright © 1996‐2001 Nother Company LLC
+```
 
-# Note on Energy Use by the Human Body
+## Note on Energy Use by the Human Body
 
 ATP is the primary energy source of cells. As its name would suggest, this compound has three phosphate groups, and energy is stored in these chemical bonds in the same way that electrical energy is stored in a battery. With this energy, your muscles produce a force by contracting. When attached to bones by a series of tendons, a contracting muscle can pull two bones together, using the bones as a lever. If you exercise more than a minute or so, then the energy in the ATP in your muscles gets converted to its lower energy form and has to be restored. The slow step in doing the restoration is getting enough oxygen into your blood which is why you start to breath hard if you run for a while. If you are running hard, use up the ATP and your lungs arenʹt pumping oxygen in fast enough, then your body will switch over to another source, a kind of energy in sugar called glycogen in your blood. The use of glycogen results in an excess of lactic acid in the blood, which can cause cramps and discomfort. The glycogen supply only lasts a few minutes if itʹs being used at the maximum rate. Itʹs used by athletes in sprints and dashes and the lactic acid results in incapacitation for as much as an hour after such events while the glycogen is restored and the lactic acid is cleared from the blood. If you run at a pace which can be sustained for a long time, because the oxygen is supplied fast enough to keep up with its use, then the glycogen is only involved in a minor way and you can run for hours (as in marathons). For most humans the power production under those conditions is around 1/4 horse power.
 
-#### Part 2: transfer of mechanical to thermal energy through work
+## Part 2: transfer of mechanical to thermal energy through work
 
 Thermal energy is central to the operation of many of the energy technologies which we discuss in this course. In most electrical power generation, coal is burned to convert chemical energy to thermal energy which is then converted to mechanical energy in turbines and finally to electrical energy through processes we will discuss later. Most transportation involves conversion of chemical energy to thermal energy which is in turn converted to kinetic energy of the vehicle. So what is thermal energy? Basically, though it took more than a century to establish this, thermal energy is understood to be a form of kinetic and potential energy arising from the random motion of the atoms and molecules in the material, gas or liquid which is heated. Temperature, as measured by a thermometer, is directly related to the amount of kinetic energy in the molecules and atoms. However, because there is also potential energy associated with the forces between the atoms, the temperature alone does not give enough information to calculate the amount of energy added to a material when its temperature rises by a fixed number of degrees. To take account of the added potential energy one needs to know the specific heat c of the material whose temperature is changing. One calculates the added thermal energy through the formula
 
-Added thermal energy = (specific heat c) x (change in temperature)x(mass of material)
+$$\text{Added~thermal~energy~=~(specific~heat~c)~x~(change~in~temperature)~x~(mass~of~material)}$$
 
 In this experiment, you will turn a crank which causes a cable to rub against an aluminum cylinder. The rubbing causes an increase in the random motion of the aluminum atoms in the metal drum, a rise in its temperature and an increase in its thermal energy. You can calculate the work done by multiplying the magnitude of the force by the distance through which it acts and you can calculate the added thermal energy by use of the above equation, knowing the specific heat of aluminum
 
@@ -97,18 +103,18 @@ In this experiment, you will turn a crank which causes a cable to rub against an
 
 Historically this kind of experiment, which was done very early by some of the people who discovered that thermal energy was a form of mechanical energy, was regarded in a somewhat different way, as establishing the relationship between the units of heat (calories) and the units of mechanical energy (joules). It was eventually found that one calorie equals 4.186 joules.
 
-#### Pre‐lab reading
+### Pre‐lab reading
 
 Hinrichs and Kleinback pp97‐105
 
 ## Equipment
 
-- 1 Mechanical Equivalent of Heat apparatus
-- 1 weight on a rayon string
-- 1 digital multimeter
-- 2 wires with banana plugs
+* 1 Mechanical Equivalent of Heat apparatus
+* 1 weight on a rayon string
+* 1 digital multimeter
+* 2 wires with banana plugs
 
-#### Predictions/preliminary questions
+### Predictions/preliminary questions
 
 You and your partners will do work on the aluminum cylinder by turning a crank. A rayon string will be wrapped around the cylinder several times. When you turn the crank, friction between the cylinder and the string will hold up the weight and will heat the drum. Since you are applying force over a distance, you can calculate the work done on the cylinder. You can also measure the cylinderʹs temperature and will know the specific heat of aluminum, so you can calculate the heat energy produced. The work done depends on the number of times you turn the crank. You will calculate the number of turns needed, in theory, for a specific increase in temperature. You and your partners will compare this theoretical number to your experimental result and consider any differences.
 

@@ -71,7 +71,7 @@ Use a low friction PASCO cart – not the battery toy car. Put a wood block unde
 Remove the block from under the track. Attach a string to the cart, hang it over a pulley, and tie a mass hanger with masses to the other end. Now the cart is free to move in the horizontal direction, and the only unbalanced force on it is the tension in the string from the weight hanging off the end. You and your partners will find the cart's acceleration due to this tension.
 
 ```{figure} ../figures/lab2/_page_12_Figure_16.jpeg
-:label: fig:lab1:vvst
+:label: fig:lab2:cartpull
 :width: 100%
 :align: center
 :alt: Cart on a level track pulled by a mass falling due to gravity.

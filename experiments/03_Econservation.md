@@ -3,13 +3,13 @@
 
 This week we have enough of the basic concepts to begin a discussion of energy itself. Energy is sometimes introduced as if it is a concept independent of Newtonʹs laws (though related to them). In fact, however, the idea of energy arises directly out of Newtonʹs second law, and Newtonʹs second law actually guarantees a central fact about energy, namely that no energy is ever lost or destroyed, but simply changes form, the so‐called law of conservation of energy.
 
-This can be illustrated by the example of the falling ball (You can think of one which Galileo dropped.) The example involves just a little bit of algebra which we use to show how the energy conservation law comes out of Newtonʹs second law. Remember that the gravitational force on the falling ball is the constant mg, where m is the mass of the ball and g is a constant acceleration due to gravity. Therefore Newtonʹs second law takes the form
+This can be illustrated by the example of the falling ball (You can think of one which Galileo dropped.) The example involves just a little bit of algebra which we use to show how the energy conservation law comes out of Newtonʹs second law. Remember that the gravitational force on the falling ball is the constant $mg$, where $m$ is the mass of the ball and $g$ is a constant acceleration due to gravity. Therefore Newtonʹs second law takes the form
 
 $$mg=ma$$
 
 for the falling ball. Now the acceleration is the speed divided by the time elapsed.
 
-In Newtonʹs second law, it should be the instantaneous acceleration, but because the acceleration is a constant for the gravitational force the instantaneous acceleration is the same as the average acceleration. Consider the moment just before the ball hits the ground, supposed to be a time t since it was dropped. If the speed is v then, the
+In Newtonʹs second law, it should be the instantaneous acceleration, but because the acceleration is a constant for the gravitational force the instantaneous acceleration is the same as the average acceleration. Consider the moment just before the ball hits the ground, supposed to be a time $t$ since it was dropped. If the speed is $v$ then, the
 
 acceleration is $v/t$. Putting this in the previous equation
 
@@ -23,7 +23,7 @@ Now $d$ is the average velocity times $t$. Here the ball was accelerating so the
 
 $$mgh=\left(\frac{mv}{t}\right)\left(\frac{v}{2}\right)t=\frac{1}{2}mv^2$$
 
-This is an equation which describes how energy is conserved for a falling ball. On the left hand side, the quantity mgd is the force on the ball times its height d above the ground before it was dropped. We call it the gravitational potential energy of the ball before it was dropped. On the right hand side is a quantity (1/2)mv2 which is called the kinetic energy of the ball just before it hits the ground. We interpret the = sign to mean that the gravitational potential energy of the ball before it fell was converted into an exactly equal amount of kinetic energy which it had just before it hit the ground.
+This is an equation which describes how energy is conserved for a falling ball. On the left hand side, the quantity mgd is the force on the ball times its height d above the ground before it was dropped. We call it the gravitational potential energy of the ball before it was dropped. On the right hand side is a quantity $(1/2)mv^2$ which is called the kinetic energy of the ball just before it hits the ground. We interpret the = sign to mean that the gravitational potential energy of the ball before it fell was converted into an exactly equal amount of kinetic energy which it had just before it hit the ground.
 
 To summarize, for a falling ball, two forms of energy, kinetic and gravitational potential, are involved. The sum,
 
@@ -36,7 +36,7 @@ the conservation of energy is often easier to apply and think about than the gen
 In this exercise, you and your partners will investigate the law of conservation of energy with an aluminum track and a low‐friction cart attached to a hanging mass. You will calculate: (i) the total change in kinetic energy of the cart and hanging mass, (ii) the change in the potential energy of the hanging mass. According to the conservation of energy and the relationship between work and energy, these quantities should be equal.
 
 ```{figure} ../figures/lab3/_page_15_Figure_5.jpeg
-:label: fig:lab1:vvst
+:label: fig:lab3:cartpull
 :width: 100%
 :align: center
 :alt: Cart on a level track pulled by a mass falling due to gravity.
@@ -83,7 +83,7 @@ $$
 K\!\!E = \frac{1}{2}mv^2
 $$
 
-where *m* is mass of an object and *v* is the velocity. Be sure to use the proper SI units: kilograms for mass and meters per second for velocity. To calculate the total change in kinetic energy, you must add the final kinetic energy for both the hanging mass and the cart.
+where $m$ is mass of an object and $v$ is the velocity. Be sure to use the proper SI units: kilograms for mass and meters per second for velocity. To calculate the total change in kinetic energy, you must add the final kinetic energy for both the hanging mass and the cart.
 
 2. There is no change in the gravitational potential energy of the cart – if the track is level, its height off the floor does not change. Only the height of the hanging mass changes. As a result, only the potential energy of the hanging mass changes. Define the floor as the point of zero potential energy. Recall the equation for gravitational potential energy:
 
@@ -91,7 +91,7 @@ $$
 PE = mgh
 $$
 
-where *m* is the mass of the object, *g* is the acceleration of gravity on Earthʹs surface, and *h* is the height from the point of zero potential energy. Use this equation and the measured mass of the hanging mass and the distance if fell to calculate the potential energy,
+where *m* is the mass of the object, $g$ is the acceleration of gravity on Earthʹs surface, and $d$ is the height from the point of zero potential energy. Use this equation and the measured mass of the hanging mass and the distance if fell to calculate the potential energy,
 
 ## Conclusions
 
@@ -99,7 +99,7 @@ where *m* is the mass of the object, *g* is the acceleration of gravity on Earth
 2. a) Do your values support the conservation of energy? Explain. b) How can you account for any discrepancies between these values?
 
 ```{figure} ../figures/lab3/_page_17_Picture_4.jpeg
-:label: fig:lab1:vvst
+:label: fig:lab3:bowlingball
 :width: 100%
 :align: center
 :alt: Person holding a tethered ball near their face. If released, the ball will not gain height and hit the person in the face due to conservation of energy.
