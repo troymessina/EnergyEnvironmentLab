@@ -130,7 +130,7 @@ $$
 Where $m$ is the mass of the hanging weight, $D$ is the cylinder diameter, and $N$ is the number of times you turn the crank. With this equation, find the number of turns necessary to increase the heat energy of the drum by the amount you calculated in the first step.
 :::{figure}
 :label: fig:lab4:mechheat
-:width: 100%
+:width: 60%
 :align: center
 
 (fig:lab4:pascomechheat)=
