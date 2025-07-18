@@ -53,7 +53,7 @@ In this exercise, you and your partners will calculate your work and maximum pow
 1. To calculate your potential energy, you must know your mass. Measure your weight in pounds on the scale and multiply by 0.45 to find your mass in kilograms.
 2. You must also know your change in height to calculate your potential energy. Use the meter stick to determine the height of one flight of stairs and four flights of stairs. Be careful ‐‐ the physics building is a little strange. The flights of stairs have different numbers of steps, and some of the flights even have steps with a different height!
 
-```{figure} ../figures/lab3/_page_20_Figure_3.jpeg
+```{figure} ../figures/lab4/_page_20_Figure_3.jpeg
 :label: fig:lab4:heightchange
 :width: 100%
 :align: center
@@ -130,7 +130,8 @@ $$
 Where $m$ is the mass of the hanging weight, $D$ is the cylinder diameter, and $N$ is the number of times you turn the crank. With this equation, find the number of turns necessary to increase the heat energy of the drum by the amount you calculated in the first step.
 :::{figure}
 :label: fig:lab4:mechheat
-:align: left
+:width: 100%
+:align: center
 
 (fig:lab4:pascomechheat)=
 ![Pasco apparatus for measuring the mechanical equivalent of heat](../figures/lab4/Pasco_mechanical_heat.png)
@@ -148,24 +149,21 @@ With your theoretical number of turns, you are now ready to conduct your trial. 
 
 *It is a very good idea not to place your feet under the weight. It has a mass of over 8 kilograms and is sufficiently heavy to break your toes if it accidentally falls from a height of several centimeters. Also, never let go of the crank when the weight is off the floor or it will spin rapidly and bruise fingers.*
 
-- **1.** You will measure the aluminum cylinderʹs temperature with a temperature‐dependent resistor cleverly called a thermistor. As the temperature of the aluminum increases, the resistance of the thermistor will decrease. The multimeter will be used to measure the resistance of the thermistor. So, set the multimeter to measure resistance (the symbol for which is Ω), and attach it to the apparatus with the wires provided. Record the resistance, and use the conversion table on the apparatus to find the initial temperature. If this resistance is not close to one of the temperatures on the table, grasp the drum with your hand to increase its temperature to a more convenient one. To the initial temperature, add the temperature change on which your group decided in the first step. This will be your final temperature. Use the conversion table to ascertain the resistance of the thermistor when it reaches this final temperature.
-- **2.** Choose someone to turn the crank (if the counter is not working, this person must also count the number of turns), someone to hold the end of the string, and someone to monitor the resistance. The person who is monitoring the resistance should watch for the thermistorʹs resistance to decrease to that which corresponds to the desired final temperature (use the conversion table printed on the apparatus to decide these values beforehand.)
-- **3.** Start turning the handle at a rapid pace. Be certain that the apparatus is properly attached to the table so nothing will fall. The hanging weight should stay a constant height off the floor as you
-
-turn the handle ‐‐ this way the gravitational potential energy of the hanging weight does not change. It is easy for the cord to start wrapping around the cylinder, and it might take some practice to keep this from happening.
-
-**4.** When the resistance reaches that of your final temperature, stop turning the crank, and record the number of turns. Then compare the number of actual number of drum turns to the number predicted in the second step. Your instructor may ask you to do a second trial with a different change in temperature.
+1. You will measure the aluminum cylinderʹs temperature with a temperature‐dependent resistor cleverly called a thermistor. As the temperature of the aluminum increases, the resistance of the thermistor will decrease. The multimeter will be used to measure the resistance of the thermistor. So, set the multimeter to measure resistance (the symbol for which is Ω), and attach it to the apparatus with the wires provided. Record the resistance, and use the conversion table on the apparatus to find the initial temperature. If this resistance is not close to one of the temperatures on the table, grasp the drum with your hand to increase its temperature to a more convenient one. To the initial temperature, add the temperature change on which your group decided in the first step. This will be your final temperature. Use the conversion table to ascertain the resistance of the thermistor when it reaches this final temperature.
+2. Choose someone to turn the crank (if the counter is not working, this person must also count the number of turns), someone to hold the end of the string, and someone to monitor the resistance. The person who is monitoring the resistance should watch for the thermistorʹs resistance to decrease to that which corresponds to the desired final temperature (use the conversion table printed on the apparatus to decide these values beforehand.)
+3. Start turning the handle at a rapid pace. Be certain that the apparatus is properly attached to the table so nothing will fall. The hanging weight should stay a constant height off the floor as you turn the handle ‐ this way the gravitational potential energy of the hanging weight does not change. It is easy for the cord to start wrapping around the cylinder, and it might take some practice to keep this from happening.
+4. When the resistance reaches that of your final temperature, stop turning the crank, and record the number of turns. Then compare the number of actual number of drum turns to the number predicted in the second step. Your instructor may ask you to do a second trial with a different change in temperature.
 
 #### Conclusions
 
-- 1. What was the amount of thermal energy transferred to the aluminum cylinder for each trial?
-- 2. Compare the number of actual turns needed to add this amount of thermal energy to the cylinder to the number predicted by your calculations in the second step.
-  - a) Did you have to turn the crank more times or fewer than predicted?
-  - b) What are possible explanations for differences between your predicted and measured number of turns?
-  - c) Is there any source of error or uncertainties in your measurements?
-- 3. Was there any energy lost? How do you know? Are there assumptions in your prediction that account for differences?
-- 4. What could you and your lab partners change to increase the accuracy of the theoretical number of turns? What would you expect if you performed your trials outside instead of indoors? Explain your answers.
-- 5. Using what you have learned about the flow of heat, discuss how the specific heat capacities of aluminum and copper affect the use of these metals in flat‐plate solar collectors. (Refer to the Historical Notes below. The specific heat of copper is 387 J/kgC)
+1. What was the amount of thermal energy transferred to the aluminum cylinder for each trial?
+2. Compare the number of actual turns needed to add this amount of thermal energy to the cylinder to the number predicted by your calculations in the second step.
+	* a) Did you have to turn the crank more times or fewer than predicted?
+	* b) What are possible explanations for differences between your predicted and measured number of turns?
+	* c) Is there any source of error or uncertainties in your measurements?
+3. Was there any energy lost? How do you know? Are there assumptions in your prediction that account for differences?
+4. What could you and your lab partners change to increase the accuracy of the theoretical number of turns? What would you expect if you performed your trials outside instead of indoors? Explain your answers.
+5. Using what you have learned about the flow of heat, discuss how the specific heat capacities of aluminum and copper affect the use of these metals in flat‐plate solar collectors. (Refer to the Historical Notes below. The specific heat of copper is 387 J/kgC)
 
 #### Historical notes
 
