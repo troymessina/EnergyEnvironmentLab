@@ -57,11 +57,9 @@ In this exercise, you and your partners will calculate your work and maximum pow
 :label: fig:lab4:heightchange
 :width: 100%
 :align: center
-:alt: Three perspectives of changing your elevation (stairs, ramp, lift).
-Three perspectives of changing your elevation (stairs, ramp, lift).
+:alt: Three perspectives of changing your elevation (stairs, ramp, lift). In each case, the student has the same gravitational potential energy, and she has done the same amount of work to reach the top because (neglecting friction) she does no work when she moves horizontally. Work is required, though, for her to move against earth's gravity.
+Three perspectives of changing your elevation (stairs, ramp, lift). In each case, the student has the same gravitational potential energy, and she has done the same amount of work to reach the top because (neglecting friction) she does no work when she moves horizontally. Work is required, though, for her to move against earth's gravity.
 ```
-
-*In each case, the student has the same gravitational potential energy, and she has done the same amount of work to reach the top because (neglecting friction) she does no work when she moves horizontally. Work is required, though, for her to move against earth's gravity.*
 
 3. Each member of your lab group should run up one flight of stairs (from one landing to the next) while someone records the time taken. Next, each group member should run up four flights of stairs (two stories) while someone records the time taken.
 4. Calculate the work you did in lifting your body against the gravitational force. The work done is equal to your change in potential energy. To find your power, divide the change in potential energy by the time it took to climb the stairs. Report the results.
@@ -101,11 +99,11 @@ In this experiment, you will turn a crank which causes a cable to rub against an
 
 (which is given below) if you measure the temperature rise and the mass of the aluminum. By comparing these two numbers, you can confirm the conservation of energy in this process.
 
-Historically this kind of experiment, which was done very early by some of the people who discovered that thermal energy was a form of mechanical energy, was regarded in a somewhat different way, as establishing the relationship between the units of heat (calories) and the units of mechanical energy (joules). It was eventually found that one calorie equals 4.186 joules.
+Historically this kind of experiment, which was done very early by some of the people who discovered that thermal energy was a form of mechanical energy, was regarded in a somewhat different way, as establishing the relationship between the units of heat (calories) and the units of mechanical energy (Joules). It was eventually found that one calorie equals 4.186 Joules.
 
 ### Pre‐lab reading
 
-Hinrichs and Kleinback pp97‐105
+Textbook Chapter 6.2 and 6.5
 
 ## Equipment
 
@@ -118,26 +116,35 @@ Hinrichs and Kleinback pp97‐105
 
 You and your partners will do work on the aluminum cylinder by turning a crank. A rayon string will be wrapped around the cylinder several times. When you turn the crank, friction between the cylinder and the string will hold up the weight and will heat the drum. Since you are applying force over a distance, you can calculate the work done on the cylinder. You can also measure the cylinderʹs temperature and will know the specific heat of aluminum, so you can calculate the heat energy produced. The work done depends on the number of times you turn the crank. You will calculate the number of turns needed, in theory, for a specific increase in temperature. You and your partners will compare this theoretical number to your experimental result and consider any differences.
 
-**1.** Before you do your first trial, you must find the theoretical number of turns of the cylinder needed to raise its temperature by a particular amount. With your lab partners, choose a temperature change of at least 8 degrees Celsius. This will be the temperature increase of the drum that you will use in the so‐called heat equation:
+1. Before you do your first trial, you must find the theoretical number of turns of the cylinder needed to raise its temperature by a particular amount. With your lab partners, choose a temperature change of at least 8 degrees Celsius. This will be the temperature increase of the drum that you will use in the so‐called heat equation:
 
-Added thermal energy = (specific heat c) x (change in temperature)x(mass of material)
+$$\text{Added~thermal~energy~=~(specific~heat~c)~x~(change~in~temperature)~x~(mass~of~material)}$$
 
-- . The value for the specific heat of aluminum in SI units is 900 joules/kg degrees C.
-- **2.** According to the conservation of energy, the amount of heat transferred *Q* must equal mechanical energy input, or the work you will do on the drum. After you calculate the heat energy, you and your lab partners must consider the work you will do on the drum. Remember that work is a force applied over a distance. The force will equal the pull of gravity on the hanging weight. The distance will equal the drumʹs circumference times the number of times you turn the drum with the crank. In the form of an equation, the work done on the aluminum drum will be:
+The value for the specific heat of aluminum in SI units is 900 Joules/kg degrees C.
+2. According to the conservation of energy, the amount of heat transferred $Q$ must equal mechanical energy input, or the work you will do on the drum. After you calculate the heat energy, you and your lab partners must consider the work you will do on the drum. Remember that work is a force applied over a distance. The force will equal the pull of gravity on the hanging weight. The distance will equal the drumʹs circumference times the number of times you turn the drum with the crank. In the form of an equation, the work done on the aluminum drum will be:
 
 $$
 Work_{gravitational} = (m_{weight}g)(\pi D_{cylinder})(N)
 $$
 
-Where *m* is the mass of the hanging weight, *D* is the cylinder diameter, and *N* is the number of times you turn the crank. With this equation, find the number of turns necessary to increase the heat energy of the drum by the amount you calculated in the first step.
+Where $m$ is the mass of the hanging weight, $D$ is the cylinder diameter, and $N$ is the number of times you turn the crank. With this equation, find the number of turns necessary to increase the heat energy of the drum by the amount you calculated in the first step.
+:::{figure}
+:label: fig:lab4:mechheat
+:align: left
 
-![](../figures/_page_24_Figure_1.jpeg)
+(fig:lab4:pascomechheat)=
+![Pasco apparatus for measuring the mechanical equivalent of heat](../figures/lab4/Pasco_mechanical_heat.png)
+(fig:lab4:labelmechheat)=
+![A labeled apparatus for measuring the mechanical equivalent of heat](../figures/lab4/_page_24_Figure_1.jpeg)
+
+The apparatus used to measure the mechanical equivalent of heat.
+:::
 
 #### Procedure
 
 With your theoretical number of turns, you are now ready to conduct your trial. Secure the drum apparatus to the table with the clamp. Place your weight on the floor beneath the drum. Wrap the string around the drum two or three times, enough that you hardly need to pull on the string when turning the drum to keep the weight at a constant height off the floor. Practice turning the drum while pulling gently on the string to raise the weight a few centimeters off the floor. As the drum turns and the string slides over it, the friction will heat the drum.
 
-![](../figures/_page_24_Picture_4.jpeg)
+![](../figures/lab4/_page_24_Picture_4.jpeg)
 
 *It is a very good idea not to place your feet under the weight. It has a mass of over 8 kilograms and is sufficiently heavy to break your toes if it accidentally falls from a height of several centimeters. Also, never let go of the crank when the weight is off the floor or it will spin rapidly and bruise fingers.*
 
