@@ -90,7 +90,14 @@ $${\rm Solar~power~recieved~by~Earth~=\frac{Solar~Input)}{(Earth's~cross-section
 8. Knowing that one watt equals 0.24 cal/sec and one food Calorie equals 1000 calories, calculate how many food Calories could be produced on the Earth in one day.
 9. Lastly, estimate the maximum population of Earth. The current opinion is that the normal food requirement of a full‐grown person is about 3,000 food Calories per day. Since most humans eat animal products as well as plants, their intake includes the energy needed to feed the animal products they consume. So, although the normal food requirement is about 3,000 food Calories per day, this figure increases to about 10,000 food Calories a day when the conversion of plants to animal products is taken into account. If you use a 10,000‐Calorie intake as a standard, what is the theoretical maximum number of humans that Earth can support?
 10. The amount of solar radiant energy reaching the top of the earthʹs atmosphere from space was first measured by the first space satellites in the middle of the last century and is about 1360 W/m^2. How does this number compare with the radiant power per meter squared which you measured? Do you expect it to be bigger or smaller? Explain the factors which would lead it to be different.
-11. In the US economy, you can deduce from Figure 1.15 of your book that energy usage is about 10 kilowatts per person on average. If the solar energy were coming in to the surface of the earth at the rate which you measured, assuming that the US population is 300 million, and assuming that 1/5 of the solar energy could be converted to an easily used form such as electrical energy, how much area of the surface of the US would be needed to collect enough solar energy to power the economy?
+11. In the US economy, you can deduce from [](#fig:lab6:USpower) that the power consumption is about 8.5 kilowatts per person on average in recent times. If the solar energy were coming in to the surface of the earth at the rate which you measured, assuming that the US population is 300 million, and assuming that 1/5 of the solar energy could be converted to an easily used form such as electrical energy, how much area of the surface of the US would be needed to collect enough solar energy to power the economy?
+```{figure} ../figures/lab6/USPower.svg
+:label: fig:lab6:USpower
+:width: 75%
+:align: center
+:alt: United States power consumption per capita in Watts from 1960 to 2023.
+United States power consumption per capita in Watts from 1960 to 2023.
+```
 
 ## Conclusions
 
