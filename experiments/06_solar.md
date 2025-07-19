@@ -58,31 +58,31 @@ The ʺsolar inputʺ is the amount of power that an area receives from the sun wh
 1. You and your partners should have already calculated the cross‐sectional area of your parabolic mirror. As stated previously, the solar input is the amount of power that an area receives when the sun is directly overhead. When the sun is at an angle (which is always true in Minnesota and all places outside the Tropics of Capricorn and Cancer), an area receives a fraction of the full energy. Since you aimed the mirror directly at the sun, we do not need to make a correction for this.
 2. Next, you and your lab partners should determine the thermal energy gained by the water or copper due to the solar input. Use the equation:
 
-\[\text{thermal~energy~transferred~=~(mass~of~water~or~copper)~x~(specific~heat~of~water~or~copper)~x~change~in~temperature}\]
+$$\text{thermal~energy~transferred~=~(mass~of~water~or~copper)~x~(specific~heat~of~water~or~copper)~x~change~in~temperature}$$
 
 The change in the temperature is the final temperature of the water or copper minus the initial temperature of the water or copper. The specific heat of water in SI units is 4186 Joules/kg • degrees C. The specific heat of copper is 387 Joules/kgC Be sure to use SI units in your calculations.
 
 3. You and your partners can now determine the value of the solar input. As mentioned already, you can find the solar input by setting the thermal energy gained by the water or copper equal to the radiant energy which came in from the sun:
 
-\[\text{Energy~received~from~sun~=~thermal~energy~gained~by~the~water~or~copper}\]
+$$\text{Energy~received~from~sun~=~thermal~energy~gained~by~the~water~or~copper}$$
 
 Remember, however, that the solar input is a measure of the sun's power, not energy. Since power is energy over time, we should change our equation to:
 
-\[{\rm Power~from~the~sun~=~\frac{thermal energy added to water or copper}{Time in the sun}}\]
+$${\rm Power~from~the~sun~=~\frac{thermal energy added to water or copper}{Time in the sun}}$$
 
 4. Power from the sun for the mirror:
 
-\[{\rm Solar~input~=~\frac{Power from the Sun}{Area~receiving~sunlight~(in~square~meters)}}\]
+$${\rm Solar~input~=~\frac{Power from the Sun}{Area~receiving~sunlight~(in~square~meters)}}$$
 
-\[{\rm Solar~input~=~\frac{thermal~energy~addedto~the~water~or~copper}{(mirror~area)\times (time)}}\]
+$${\rm Solar~input~=~\frac{thermal~energy~addedto~the~water~or~copper}{(mirror~area)\times (time)}}$$
 
-\[{\rm Solar~input~=~\frac{mc\Delta T}{(mirror~area)\times (time in sun)}}\]
+$${\rm Solar~input~=~\frac{mc\Delta T}{(mirror~area)\times (time in sun)}}$$
 
 The solar input is the amount of power that an area receives from the sun when it is directly over that area. If you used only SI units, your result for the solar input is the amount of power (in watts) received by one square meter.
 
 5. To determine the total solar power received by Earth, you and your partners should multiply your result for the solar input by Earth's cross‐sectional area. (Use the radius of Earth, 6.38 x 106 m, to calculate its cross‐sectional area.)
 
-solar power received by Earth = (*S*olar Input )⋅ (Earth' s cross - sectional Area )
+$${\rm Solar~power~recieved~by~Earth~=\frac{Solar~Input)}{(Earth's~cross-sectional~Area)}}$$
 
 6. Determine the solar power used in photosynthesis. It has been estimated that about 0.0757% of the solar power that reaches the Earth is captured by plants and utilized in the photosynthesis process. Knowing this, how much solar power is used by plants to make their food?
 
@@ -105,6 +105,10 @@ The use of curved mirrors to heat water or some object dates back millennia. In 
 
 Later, it was imagined that large parabolic mirrors could be used as weapons. One apparently apocryphal legend has it that Archimedes used parabolic mirrors to set fire to the vessels of Romans at Syracuse in 212 B.C. In the thirteenth century, Roger Bacon, a monk, suggested that a parabolic mirror could be used as a weapon of mass destruction in the crusades. In the seventeenth century, Giambattista Porta imagined a mirror that so destructive that it would "cast forth terrible fire" and set ablaze "the enemy's ships, gates, bridges, and the like.
 
-![](../figures/lab5/_page_34_Picture_5.jpeg)
-
+```{figure} ../figures/lab5/_page_34_Picture_5.jpeg
+:label: fig:lab6:parabolicmirror
+:width: 75%
+:align: center
+:alt: A parabolic mirror uses the sun's rays to boil a kettle of water in Tibet.
 A parabolic mirror uses the sun's rays to boil a kettle of water in Tibet.
+```
