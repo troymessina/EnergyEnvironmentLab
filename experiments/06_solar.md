@@ -93,7 +93,7 @@ $${\rm Solar~power~recieved~by~Earth~=\frac{Solar~Input)}{(Earth's~cross-section
 11. In the US economy, you can deduce from [](#fig:lab6:USpower) that the power consumption is about 8.5 kilowatts per person on average in recent times. If the solar energy were coming in to the surface of the earth at the rate which you measured, assuming that the US population is 300 million, and assuming that 1/5 of the solar energy could be converted to an easily used form such as electrical energy, how much area of the surface of the US would be needed to collect enough solar energy to power the economy?
 ```{figure} ../figures/lab6/USPower.svg
 :label: fig:lab6:USpower
-:width: 75%
+:width: 100%
 :align: center
 :alt: United States power consumption per capita in Watts from 1960 to 2023.
 United States power consumption per capita in Watts from 1960 to 2023.
