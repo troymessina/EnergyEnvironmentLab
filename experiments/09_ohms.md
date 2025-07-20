@@ -5,17 +5,33 @@ Toasters, televisions, computers, and flashlights all involve electric circuits.
 
 A closed circuit involves charges leaving the positive terminal of a battery, passing through the wires or light bulbs, and returning to the negative terminal of the battery. The bulb acts as a *resistor* because it ʺresistsʺ the flow of charges. The bulbʹs resistance causes the filament inside to increase in temperature and start to glow. Your battery separates positive charges from negative charges within its structure. The work that is done to separate these charges increases their electrostatic potential energy, and a *voltage* difference is created.
 
-The simplest circuit involves a resistor and battery connected in a single current path. When the batteryʹs voltage is increased and the resistance is held constant, the current increases. If the voltage is held constant and the resistance is decreased, the current should again increase because the flow of charges is not ʺresistedʺ as much as before. These relationships can be written as *V = IR,* in which *V* is voltage, *I* is current, and *R* is resistance. This is Ohmʹs Law. It holds for the resistors you will study in this laboratory, but it not for all possible circuit elements. In this exercise, you and your lab partners will investigate Ohmʹs Law by measuring voltage, current, and resistance in a simple closed circuit.
+The simplest circuit involves a resistor and battery connected in a single current path. When the batteryʹs voltage is increased and the resistance is held constant, the current increases. If the voltage is held constant and the resistance is decreased, the current should again increase because the flow of charges is not ʺresistedʺ as much as before. These relationships can be written as 
+$$V = IR,$$
+in which $V$ is voltage, $I$ is current, and $R$ is resistance. This is Ohmʹs Law. It holds for the resistors you will study in this laboratory, but it not for all possible circuit elements. In this exercise, you and your lab partners will investigate Ohmʹs Law by measuring voltage, current, and resistance in a simple closed circuit.
 
-#### Pre‐lab reading
+A simple resistor circuit is shown in [](#fig:lab9:resistorcircuit) [](#fig:lab9:resistorcircuita) is a cartoon of the circuit drawn using the PhET simulation in [](#phet:lab9:circuits). [](#fig:lab9:resistorcircuitb) is called a circuit diagram or schematic of the same resistor circuit that is in [](#fig:lab9:resistorcircuita)
+:::{figure}
+:label: fig:9:resistorcircuit
+:width: 60%
+:align: center
 
-Hinrichs and Kleinbach pp 330‐339
+(fig:lab9:resistorcircuita)=
+![A cartoon of a resistor connected to a battery or DC power source.](../figures/lab9/phetresistorcircuit.jpg)
+(fig:lab9:resistorcircuitb)=
+![A circuit diagram of the same circuit as in (a).](../figures/lab9/resistorcircuit.svg)
 
-# Equipment
+The apparatus used to measure the mechanical equivalent of heat.
+:::
 
- – six‐volt battery – digital multimeters – light bulb – resistors – set of wires
+## Equipment
 
-# Predictions/preliminary questions
+ * DC power supply
+ * 2 digital multimeters 
+ * light bulb
+ * resistors 
+ * set of wires
+
+## Predictions/preliminary questions
 
 ![](../figures/_page_44_Figure_9.jpeg)
 
@@ -41,6 +57,13 @@ measured. Choose a range where the most digits are displayed so that you will ha
 - **2.** You can leave the multimeter connected across the battery terminals, but to measure the current through the circuit another meter must be connected in series with the resistor and the battery. Connect a complete circuit from the positive terminal of the battery, through a second multimeter (set to measure the current through the resistor), and back to the battery. The second multimeter is now able to measure current. Record the current and the voltage across the battery.
 - **3.** Disconnect the circuit. Set a multimeter to measure resistance, and connect it across the terminals of the resistor. Record the value of your resistor in ohms. Why must you disconnect the circuit before trying to measure the resistance of the resistor?
 - **4.** Repeat these steps several times, using a different resistor in the circuit each time. Also take measurements using a light bulb as the resistor. Be sure to take measurements of the resistance, voltage, and current for each circuit.
+
+:::{iframe} https://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/latest/circuit-construction-kit-dc-virtual-lab_en.html
+:label: phet:lab9:circuits
+:width: 100%
+:align: center
+:placeholder: ../figures/lab9/phetscreenshot.png
+:::
 
 #### Analysis
 
