@@ -13,7 +13,7 @@ The simple engine you will use uses thermal energy to lift objects. A piston tha
 
 ## Equipment
 
-![](../figures/_page_37_Figure_2.jpeg)
+![](../figures/lab7/_page_37_Figure_2.jpeg)
 
 ## Prediction
 
@@ -59,7 +59,7 @@ Then the efficiency is the useful work out divided by the thermal energy in. Use
 
 ## Conclusion
 
-Compare the efficiency which you calculated with the maximum possible efficiency as given by the ratio of the hot to the cold temperature Equation []{#eq:lab7:efficiency). Does the engine obey the second law of thermodynamics, according to your measurements?
+Compare the efficiency which you calculated with the maximum possible efficiency as given by the ratio of the hot to the cold temperature Equation [](#eq:lab7:efficiency). Does the engine obey the second law of thermodynamics, according to your measurements?
 
 | Material   | Specific Heat† | Density‡ | Latent Heat of Fusion† |
 |------------|----------------|----------|------------------------|
