@@ -11,19 +11,16 @@ in which $V$ is voltage, $I$ is current, and $R$ is resistance. This is Ohmʹs L
 
 A simple resistor circuit is shown in [](#fig:lab9:resistorcircuit) [](#resistorcircuita) is a cartoon of the circuit drawn using the [PhET simulation](#phet:lab9:circuits) below. [](#resistorcircuitb) is called a circuit diagram or schematic of the same resistor circuit that is in [](#resistorcircuita)
 :::{figure}
-:label: fig:9:resistorcircuit
+:label: fig:lab9:resistorcircuit
 :align: left
 
 (resistorcircuita)=
 ![A cartoon of a resistor connected to a battery or DC power source.](../figures/lab9/phetresistorcircuit.jpg)
 (resistorcircuitb)=
-<img src="../figures/lab9/resistorcircuit.svg width="300">
-
+![A circuit diagram of the same circuit as in (a).](../figures/lab9/resistorcircuit.svg)
 
 A simple resistor circuit diagram.
 :::
-
-![A circuit diagram of the same circuit as in (a).](../figures/lab9/resistorcircuit.svg =x250)
 
 ## Equipment
 
@@ -36,6 +33,17 @@ A simple resistor circuit diagram.
 ## Predictions/preliminary questions
 
 ![](../figures/_page_44_Figure_9.jpeg)
+:::{figure}
+:label: fig:lab9:vmeasure
+:align: left
+
+(vmeasurea)=
+![A cartoon of a voltage measurement.](../figures/lab9/voltagemeasure.jpg)
+(vmeasureb)=
+![A circuit diagram of the same circuit as in (a).](../figures/lab9/voltagemeasure.svg)
+
+A diagram showing how voltage is measured and labeling various points along the circuit 1, 2, 3, 4.
+:::
 
 1. Suppose a voltmeter were connected across a battery to measure the voltage from point 1 to point 2. (See figure 1.) Suppose you moved the voltmeter and connected it from point 3 to point 4. Compare the **voltage** reading at the new location with the reading at the first location. Explain your reasoning.
 2. Compare the **current** reading, in amps, on an ammeter connected between point 2 and point 3 with the reading on the ammeter if it were connected between points 1 and 4. (The ammeter is connected between the points so all the current runs through it. See figure 2.) Explain your reasoning.

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="200mm"
-   viewBox="0 0 210 200"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
@@ -45,7 +45,7 @@
     <g
        inkscape:label="Source"
        id="g7"
-       transform="translate(-1.9402778,-13.405558)">
+       transform="matrix(0.5,0,0,0.5,34.813863,51.633872)">
       <path
          inkscape:label="none"
          style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -84,19 +84,20 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.57895px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="109.67858"
-       y="126.38168"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.28947px;line-height:100%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+       x="90.623291"
+       y="121.52749"
        id="text7"><tspan
          sodipodi:role="line"
          id="tspan12"
-         x="109.67858"
-         y="126.38168">DC Voltage Input</tspan></text>
+         x="90.623291"
+         y="121.52749"
+         style="stroke-width:0.5">DC Voltage Input</tspan></text>
   </g>
   <g
      inkscape:label="Resistor"
      id="g10"
-     transform="matrix(3,0,0,3,-229.11308,-372.02071)">
+     transform="matrix(1.5,0,0,1.5,-118.88566,-185.85423)">
     <g
        id="g9"
        transform="translate(0,25.047232)">
@@ -118,11 +119,11 @@
          id="tspan9">R</tspan></text>
   </g>
   <path
-     style="fill:#8d6060;stroke:#000000;stroke-width:2.99879;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:0.997497"
-     d="m 25.793179,60.086838 0.09461,93.047402"
+     style="fill:#8d6060;stroke:#000000;stroke-width:1.4994;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:0.997497"
+     d="m 8.5674662,30.199548 0.0473,46.523704"
      id="path11" />
   <path
-     style="fill:#8d6060;stroke:#000000;stroke-width:2.99879;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:0.997497"
-     d="m 175.97428,60.086838 0.0946,93.047402"
+     style="fill:#8d6060;stroke:#000000;stroke-width:1.4994;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:0.997497"
+     d="m 83.658014,30.199548 0.0473,46.523704"
      id="path12" />
 </svg>
