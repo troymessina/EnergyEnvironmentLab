@@ -32,13 +32,12 @@ A simple resistor circuit diagram.
 
 ## Predictions/preliminary questions
 
-![](../figures/_page_44_Figure_9.jpeg)
 :::{figure}
 :label: fig:lab9:vmeasure
 :align: left
 
 (vmeasurea)=
-![A cartoon of a voltage measurement.](../figures/lab9/voltagemeasure.jpg)
+![A cartoon of a voltage measurement.](../figures/lab9/phetvmeasure.jpg)
 (vmeasureb)=
 ![A circuit diagram of the same circuit as in (a).](../figures/lab9/voltagemeasure.svg)
 
@@ -50,9 +49,19 @@ A diagram showing how voltage is measured and labeling various points along the 
 3. If you were to double the voltage (for example, using two batteries) what would happen to the amount of **current** in the circuit if the resistance in the circuit stayed the same? (See figure 2)
 4. If the resistor in the circuit were replaced with a resistor with twice the resistance, what would happen to the current in the circuit assuming you used the same battery with the same voltage?
 
-![](../figures/_page_45_Figure_5.jpeg)
+:::{figure}
+:label: fig:lab9:Imeasure
+:align: left
 
-#### Procedure
+(Imeasurea)=
+![A cartoon of a current measurement.](../figures/lab9/phetcurrentmeasure.jpg)
+(Imeasureb)=
+![A circuit diagram of the same circuit as in (a).](../figures/lab9/currentmeasure.svg)
+
+A diagram showing how current is measured and labeling various points along the circuit 1, 2, 3, 4.
+:::
+
+## Procedure
 
 The first part of this exercise is to become familiarized with two quantities: voltage (known also as potential difference; measured in volts) and current (measured in amps). Voltage is the work done transferring one coulomb of charge from one place to another; you do not need a complete circuit to measure a potential difference.
 
@@ -72,29 +81,26 @@ The digital multimeter (DMM) has various settings to measure voltage. It also al
 :placeholder: ../figures/lab9/phetscreenshot.png
 :::
 
-#### Analysis
+## Analysis
 
 Record the values that you measured using the multimeter in a data table, similar to the one shown below. Also calculate theoretical resistances using your measurements for voltage and current (R=V/I) and then record your calculations. Tabulate your experimental and theoretical resistances for all the resistors and the bulb. Explain the values that you have obtained.
 
-|            | Measured Voltage | Measured Current | Measured   | Calculated |
+| | Measured Voltage<br>(Volts) | Measured Current<br>(Amps) | Measured<br>Resistance<br>(Ohms)   | Calculated<br>Resistance<br>(R=V/I) |
 |------------|------------------|------------------|------------|------------|
-|            | (in Volts)       | (in Amps)        | Resistance | Resistance |
-|            |                  |                  | (in Ohms)  | (R = V/I)  |
 | Resistor 1 |                  |                  |            |            |
 | Resistor 2 |                  |                  |            |            |
 | Resistor 3 |                  |                  |            |            |
 | …          |                  |                  |            |            |
 | Light Bulb |                  |                  |            |            |
 
-# Conclusions
+## Conclusions
 
 1. Compare the measured and calculated resistance values in your data table. How close are they? If there are differences, what are some possible reasons for these differences?
 
-The German physicist Georg Ohm showed that, when the voltage across a resistor changes, the current through it changes. He expressed this relationship as: I = <sup>V</sup> R
+The German physicist Georg Ohm showed that, when the voltage across a resistor changes, the current through it changes. He expressed this relationship as: $I = V/R$.
 
 Current is directly proportional to voltage and inversely proportional to resistance. In other words, as the voltage increases, so does the current. Ohm's Law also means that current is inversely proportional to resistance and voltage is directly proportional to resistance.
 
-- 2. Superconductors are materials which, when cooled sufficiently, offer almost no resistance to electrical current. The copper wires in your circuits do, however, add to the total resistance.
-  - a) What if the wires used in the circuit with the light bulb were replaced with superconducting wires and the resistance became almost nothing? Would the current in the circuit change, or the does voltage change, or both?
-
-b) What would happen to the light bulb? Explain your answer using Ohm's law.
+2. Superconductors are materials which, when cooled sufficiently, offer almost no resistance to electrical current. The copper wires in your circuits do, however, add to the total resistance.
+	- a) What if the wires used in the circuit with the light bulb were replaced with superconducting wires and the resistance became almost nothing? Would the current in the circuit change, or the does voltage change, or both?
+	- b) What would happen to the light bulb? Explain your answer using Ohm's law.
