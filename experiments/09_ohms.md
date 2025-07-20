@@ -10,18 +10,13 @@ $$V = IR,$$
 in which $V$ is voltage, $I$ is current, and $R$ is resistance. This is Ohmʹs Law. It holds for the resistors you will study in this laboratory, but it not for all possible circuit elements. In this exercise, you and your lab partners will investigate Ohmʹs Law by measuring voltage, current, and resistance in a simple closed circuit.
 
 A simple resistor circuit is shown in [](#fig:lab9:resistorcircuit) [](#fig:lab9:resistorcircuita) is a cartoon of the circuit drawn using the PhET simulation in [](#phet:lab9:circuits). [](#fig:lab9:resistorcircuitb) is called a circuit diagram or schematic of the same resistor circuit that is in [](#fig:lab9:resistorcircuita)
-:::{figure}
+```{figure}
 :label: fig:9:resistorcircuit
 :width: 60%
 :align: center
-
-(fig:lab9:resistorcircuita)=
 ![A cartoon of a resistor connected to a battery or DC power source.](../figures/lab9/phetresistorcircuit.jpg)
-(fig:lab9:resistorcircuitb)=
 ![A circuit diagram of the same circuit as in (a).](../figures/lab9/resistorcircuit.svg){width=200}
-
-The apparatus used to measure the mechanical equivalent of heat.
-:::
+```
 
 ## Equipment
 
