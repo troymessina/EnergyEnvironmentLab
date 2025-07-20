@@ -18,27 +18,27 @@ A simple resistor circuit is shown in [](#fig:lab9:resistorcircuit) [](#fig:lab9
 (fig:lab9:resistorcircuita)=
 ![A cartoon of a resistor connected to a battery or DC power source.](../figures/lab9/phetresistorcircuit.jpg)
 (fig:lab9:resistorcircuitb)=
-![A circuit diagram of the same circuit as in (a).](../figures/lab9/resistorcircuit.svg)
+![A circuit diagram of the same circuit as in (a).](../figures/lab9/resistorcircuit.svg){width=200}
 
 The apparatus used to measure the mechanical equivalent of heat.
 :::
 
 ## Equipment
 
- * DC power supply
+ * DC power supply or batteries
  * 2 digital multimeters 
  * light bulb
- * resistors 
+ * 3 resistors 
  * set of wires
 
 ## Predictions/preliminary questions
 
 ![](../figures/_page_44_Figure_9.jpeg)
 
-- 1. Suppose a voltmeter were connected across a battery to measure the voltage from point 1 to point 2. (See figure 1.) Suppose you moved the voltmeter and connected it from point 3 to point 4. Compare the **voltage** reading at the new location with the reading at the first location. Explain your reasoning.
-- 2. Compare the **current** reading, in amps, on an ammeter connected between point 2 and point 3 with the reading on the ammeter if it were connected between points 1 and 4. (The ammeter is connected between the points so all the current runs through it. See figure 2.) Explain your reasoning.
-- 3. If you were to double the voltage (for example, using two batteries) what would happen to the amount of **current** in the circuit if the resistance in the circuit stayed the same? (See figure 2)
-- 4. If the resistor in the circuit were replaced with a resistor with twice the resistance, what would happen to the current in the circuit assuming you used the same battery with the same voltage?
+1. Suppose a voltmeter were connected across a battery to measure the voltage from point 1 to point 2. (See figure 1.) Suppose you moved the voltmeter and connected it from point 3 to point 4. Compare the **voltage** reading at the new location with the reading at the first location. Explain your reasoning.
+2. Compare the **current** reading, in amps, on an ammeter connected between point 2 and point 3 with the reading on the ammeter if it were connected between points 1 and 4. (The ammeter is connected between the points so all the current runs through it. See figure 2.) Explain your reasoning.
+3. If you were to double the voltage (for example, using two batteries) what would happen to the amount of **current** in the circuit if the resistance in the circuit stayed the same? (See figure 2)
+4. If the resistor in the circuit were replaced with a resistor with twice the resistance, what would happen to the current in the circuit assuming you used the same battery with the same voltage?
 
 ![](../figures/_page_45_Figure_5.jpeg)
 
@@ -50,13 +50,10 @@ The digital multimeter (DMM) has various settings to measure voltage. It also al
 
 **When you set up a circuit in the lab with the necessary wires, meters, and resistors, etc. make the circuit look as simple as possible. Do not let the wires cross unless necessary. Keep the wires as straight as possible and as short as possible. Make the circuit so you can easily tell which objects are connected to each other.**
 
-**1.** First, set the digital multimeter to measure volts and connect it across the terminals of the battery. Observe what happens as you change the range settings on the meter. Observe what happens when you reverse the connection. The meter adds a minus sign if the potential difference is reversed and indicates (by a blank screen) if the potential difference is too large to be
-
-measured. Choose a range where the most digits are displayed so that you will have the greatest precision in your measurements.
-
-- **2.** You can leave the multimeter connected across the battery terminals, but to measure the current through the circuit another meter must be connected in series with the resistor and the battery. Connect a complete circuit from the positive terminal of the battery, through a second multimeter (set to measure the current through the resistor), and back to the battery. The second multimeter is now able to measure current. Record the current and the voltage across the battery.
-- **3.** Disconnect the circuit. Set a multimeter to measure resistance, and connect it across the terminals of the resistor. Record the value of your resistor in ohms. Why must you disconnect the circuit before trying to measure the resistance of the resistor?
-- **4.** Repeat these steps several times, using a different resistor in the circuit each time. Also take measurements using a light bulb as the resistor. Be sure to take measurements of the resistance, voltage, and current for each circuit.
+1. First, set the digital multimeter to measure volts and connect it across the terminals of the battery. Observe what happens as you change the range settings on the meter. Observe what happens when you reverse the connection. The meter adds a minus sign if the potential difference is reversed and indicates (by a blank screen) if the potential difference is too large to be measured. Choose a range where the most digits are displayed so that you will have the greatest precision in your measurements.
+2. You can leave the multimeter connected across the battery terminals, but to measure the current through the circuit another meter must be connected in series with the resistor and the battery. Connect a complete circuit from the positive terminal of the battery, through a second multimeter (set to measure the current through the resistor), and back to the battery. The second multimeter is now able to measure current. Record the current and the voltage across the battery.
+3. Disconnect the circuit. Set a multimeter to measure resistance, and connect it across the terminals of the resistor. Record the value of your resistor in ohms. Why must you disconnect the circuit before trying to measure the resistance of the resistor?
+4. Repeat these steps several times, using a different resistor in the circuit each time. Also take measurements using a light bulb as the resistor. Be sure to take measurements of the resistance, voltage, and current for each circuit.
 
 :::{iframe} https://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/latest/circuit-construction-kit-dc-virtual-lab_en.html
 :label: phet:lab9:circuits
