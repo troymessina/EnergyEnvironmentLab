@@ -5,7 +5,7 @@ Most of the energy which is delivered for use to consumers in our society takes 
 
 In this laboratory you will do some experiments on an extremely simple form of a heat engine which makes this conversion. Though this process of converting thermal to mechanical energy is the opposite of the conversion of mechanical to thermal energy which you carried out in Laboratory 4, a new and somewhat surprising feature enters: Although the energy is conserved in the process, it turns out that you CANNOT convert all the thermal energy to mechanical energy. There is always some waste thermal energy left over. This general statement is one version of the second law of thermodynamics. It was discovered experimentally in the nineteenth century and versions of the second law have guided the design of thermally driven engines since. Because of the second law, any thermal engine puts out less useful energy than the initial thermal energy that goes in (unless, of course, you want the heat itself, as in a furnace. Then you can get 100% of the energy for that in principle. ) The efficiency of a thermal engine is defined as the ratio of the useful energy coming out to the thermal energy going in, and is always less than 1. Under certain rather general conditions, one can go further and state that if the thermal energy in the input is at absolute temperature $T_H$ and the waste thermal energy leaves the engine at absolute temperature $T_C$ then the maximum possible efficiency is
 
-$$\text{maximum~efficiency~of~a~thermal~ engine}~=~(T_h ‐ T_c)/T_h\label{eq:lab7:efficiency}$$
+$$\text{maximum~efficiency~of~a~thermal~ engine}~=~\frac{(T_h ‐ T_c)}{T_h}\label{eq:lab7:efficiency}$$
 
 You will test this statement in the experiments on the simple engine used in the laboratory in this experiment.
 
@@ -52,13 +52,14 @@ To determine the efficiency of this ʺengineʹ, you can calculate the useful wor
 
 $$\text{Thermal~energy~in}~=~mc\times(T_h‐T_c)$$
 
-in which $mc=(5/2)\frac{\text{(mass~of~piston)}~\times (9.8~{\rm m/s^2})~\times{\rm (height~of~cylinder~when~it~is~cold~with~no~weight)}{\text{(temperature~of~the~cold~water~in~K)}}$
+in which 
+$$mc=\frac{5}{2}\frac{\text{(mass~of~piston)}~\times (9.8~{\rm m/s^2})~\times{\rm (height~of~cylinder~when~it~is~cold~with~no~weight)}}{\text{(temperature~of~the~cold~water~in~K)}}$$
 
 Then the efficiency is the useful work out divided by the thermal energy in. Use these formulas and the measurements you made to calculate the efficiency of the engine.
 
 ## Conclusion
 
-Compare the efficiency which you calculated with the maximum possible efficiency as given by the ratio of the hot to the cold temperature Equation `eq`{eq:lab7:efficiency}. Does the engine obey the second law of thermodynamics, according to your measurements?
+Compare the efficiency which you calculated with the maximum possible efficiency as given by the ratio of the hot to the cold temperature Equation []{#eq:lab7:efficiency). Does the engine obey the second law of thermodynamics, according to your measurements?
 
 | Material   | Specific Heat† | Density‡ | Latent Heat of Fusion† |
 |------------|----------------|----------|------------------------|
