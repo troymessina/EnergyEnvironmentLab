@@ -29,12 +29,12 @@ Whereas in a motor, electrical energy is being converted into mechanical energy 
 
 1. If a beam of positively charged particles moves from right to left as shown in the figure below what would be the effect of a bar magnet on the beam if it were located as shown in the diagram? (Would the beam move up? down? Out of the paper? Into the paper? Or, would there be no effect?)
 
-![](../figures/lab10/_page_49_Figure_2.jpeg)
+![](../figures/lab10/magnetCRTleft.svg)
 
 2. If the beam of particles, in the above diagram, were electrons (negative charges) what would be the effect of the magnet on the beam? (Would the beam move up? Down? Out of the paper? Into the paper? Or, would there be no effect?)
 3. If a beam of positive charges were coming out of the paper what would be the effect of the magnet on the beam? (The black dot represents the beam coming out of the paper.) Would the beam move up? down? Out of the paper? Into the paper? Left? Right? Or, would there be no effect?)
 
-![](../figures/lab10/_page_49_Picture_5.jpeg)
+![](../figures/lab10/magnetCRToutofpage.svg)
 
 # Procedure
 
