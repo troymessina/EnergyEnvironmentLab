@@ -25,11 +25,11 @@ How does the model that uses coke compare to the 4 previous trials, how does it 
 
 ## Warm‐up questions
 
-- 1. What effect is the black paper going to have on the model system?
-- 2. From your knowledge of CO<sub>2</sub>, what effect might it have on the system?
-- 3. Do you think that the effects of the black paper and CO<sub>2</sub> gas will be additive? If so, why? If not, why?
-- 4. What will Trial 5 be like? Is there another greenhouse gas other than CO<sub>2</sub> in this system? How about the color of the coke, how does that compare to the black paper?
-- 5. Which of the 5 trials do you believe will have the hottest equilibrium temperature?
+1. What effect is the black paper going to have on the model system?
+2. From your knowledge of CO<sub>2</sub>, what effect might it have on the system?
+3. Do you think that the effects of the black paper and CO<sub>2</sub> gas will be additive? If so, why? If not, why?
+4. What will Trial 5 be like? Is there another greenhouse gas other than CO<sub>2</sub> in this system? How about the color of the coke, how does that compare to the black paper?
+5. Which of the 5 trials do you believe will have the hottest equilibrium temperature?
 
 ## Exploration
 
@@ -62,31 +62,29 @@ Changes in the vibrational and rotational motions of molecules are the main reas
 :alt: Vibrational modes of water.
 Vibrational modes of water.
 ```
-![](../figures/lab8/_page_42_Figure_3.jpeg)
 
 Consider the dipole moment as the molecule undergoes each of these motions. The vibrations will result in an absorption in the infrared region. Infrared absorption frequencies for several atmospheric gases are given in [](#tab:lab8:IRabsorption).
 
 ```{table} Principal IR Absorptions for Various Atmospheric Gases
 :label: tab:lab8:IRabsorption
 :align: center
-| Type of Gas                       | Absorption Ranges<br>(in cm<sup>-1</sup>)<br>[one peak<br>within the following<br>ranges.] | Type of bond causing absorption |                       |
-|-----------------------------------|------------------------------------------------------------------------------------------|---------------------------------|-----------------------|
-| Water<br>(H20)                    | 3800-3600                                                                                |                                 | Asymmetric<br>Stretch |
-|                                   | 1600-1400                                                                                |                                 | Bend                  |
-| Carbon Dioxide                    | 2400-2200                                                                                |                                 | Asymmetric<br>Stretch |
-| (CO<sub>2</sub>)                             | 800-600                                                                                  |                                 | Bend                  |
-| Nitrous Oxide<br>(N20)            | 2400-2200                                                                                |                                 | Symmetric<br>Stretch  |
-|                                   | 1400-1200                                                                                |                                 | Asymmetric<br>Stretch |
-| Carbon<br>Tetrachloride<br>(CCl4) | 1000-600                                                                                 |                                 | Asymmetric<br>Stretch |
-| Ozone                             | 2400-2200                                                                                |                                 | Symmetric<br>Stretch  |
-| (O3)                              | 1200-1000                                                                                |                                 | Asymmetric<br>Stretch |
-| Methane<br>(CH4)                  | 3200-3000                                                                                |                                 | Asymmetric<br>Stretch |
-|                                   | 1400-1200                                                                                |                                 | Bend                  |
-| Nitric Oxide<br>(NO)              | 2000-1800                                                                                |
-|                                 | Stretch               |
+| Type of Gas | Absorption Ranges<br>(in cm<sup>-1</sup>)<br>[one peak<br>within the following<br>ranges.] | Type of bond causing absorption |
+|:-------------------------------------------|------------:|--------------------|
+| Water                                      | 3800-3600   | Asymmetric Stretch |
+| H<sub>2</sub>O                             | 1600-1400   | Bend               |
+| Carbon Dioxide                             | 2400-2200   | Asymmetric Stretch |
+| CO<sub>2</sub>                             | 800-600     | Bend               |
+| Nitrous Oxide                              | 2400-2200   | Symmetric Stretch  |
+| N<sub>2</sub>O                             | 1400-1200   | Asymmetric Stretch |
+| Carbon<br>Tetrachloride<br>CCl<sub>4</sub> | 1000-600    | Asymmetric Stretch |
+| Ozone                                      | 2400-2200   | Symmetric Stretch  |
+| O<sub>3</sub>                              | 1200-1000   | Asymmetric Stretch |
+| Methane                                    | 3200-3000   | Asymmetric Stretch |
+| CH<sub>4</sub>                             | 1400-1200   | Bend               |
+| Nitric Oxide NO                            | 2000-1800   | Stretch            |
 ``` 
-As an example, [](#fig:lab8:waterIR) shows the absorption of water. The broad absorption peak in the mid-3000s is obvious.
-```{figure}
+As an example, [](#fig:lab8:waterIR) shows the absorption of water. The broad asymmeteric stretch absorption peak in the mid-3000s and the sharper bend absorption peak at 1600 are obvious.
+```{figure} ../figures/lab8/waterIRspectrum.png
 :label: fig:lab8:waterIR
 :width: 100%
 :align: center
