@@ -61,9 +61,8 @@ Then the efficiency is the useful work out divided by the thermal energy in. Use
 
 Compare the efficiency which you calculated with the maximum possible efficiency as given by the ratio of the hot to the cold temperature Equation [](#eq:lab7:efficiency). Does the engine obey the second law of thermodynamics, according to your measurements?
 
-| Material   | Specific Heat† |     Density‡        | Latent Heat of Fusion† |
+| Material   |Specific Heat†<br>J/g°C|Density‡<br>g/cm<sup>3</sup>|Latent Heat of Fusion†<br>kJ/g|
 |------------|---------------:|--------------------:|-----------------------:|
-|            | J/g °C         | g/cm<sup>3</sup>    | kJ/g                   |
 | Aluminum   | 0.900          |       2.7           | 0.40                   |
 | Chromium   | 0.460          |       7.14          | 0.33                   |
 | Cobalt     | 0.419          |       8.71          | 0.28                   |
@@ -89,13 +88,11 @@ Thermal Properties of Certain Materials
 
 ## Thermal Properties of Water and Alcohol
 
-| Substance | Specific<br>Heat | Latent Heat<br>of Fusion | Melting<br>Temperature  | Latent Heat of<br>Vaporization | Boiling<br>Temperature |
-|-----------|----------|---------------------------|-------------|----------------|-------------|
-|           | Heat     |           Fusion          | Temperature | Vaporization   | Temperature |
-|           | J/g °C   |           J/kg            | °C          | J/kg           | °C          |
-| Water     | 4.19     | 3.35 x 10<sup>5</sup>     | 0.00        | 2.256 x 10 6   | 100.00      |
-| Ice       | 2.09     | 3.35 x 10<sup>5</sup>     | 0.00        | n/a            | n/a         |
-| Alcohol   | 2.48     | 10.42 x 10<sup>5</sup>    | ‐117.3      | 0.854 x 10 6   | 78.5        |
+|Substance|Specific<br>Heat<br>J/g°C|Latent Heat<br>of Fusion<br>J/kg|Melting<br>Temperature<br>°C|Latent Heat of<br>Vaporization<br>J/kg|Boiling<br>Temperature<br>°C|
+|-----------|----------|---------------------------|-------------|--------------------------|-------------|
+| Water     | 4.19     | 3.35 x 10<sup>5</sup>     | 0.00        | 2.256 x 10<sup>6</sup>   | 100.00      |
+| Ice       | 2.09     | 3.35 x 10<sup>5</sup>     | 0.00        | n/a                      | n/a         |
+| Alcohol   | 2.48     | 10.42 x 10<sup>5</sup>    | ‐117.3      | 0.854 x 10<sup>6</sup>   | 78.5        |
 
 †Adapted from Handbook of Tables for Applied Engineering Science by R. E. Bolz & G. L. Tuve, The Chemical Rubber Co., 1970.
 
