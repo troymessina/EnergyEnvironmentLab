@@ -1,34 +1,34 @@
 (lab7)=
-# Lab 7: mechanical from thermal energy: a simple thermal engine and the 2nd law of thermodynamics
+# Lab 7: Mechanical from Thermal Energy: a simple thermal engine and the 2nd law of thermodynamics
 
 Most of the energy which is delivered for use to consumers in our society takes the form of thermal energy at some point before itʹs used. In automobiles, trucks, buses, airplanes and most railroads, hydrocarbons (storing chemical energy) are burned to produce thermal energy which is then converted back to gravitational potential and kinetic energy of the vehicles. In most electrical power plants (but not nuclear or hydropower ones) hydrocarbons are burned and the resulting thermal energy is converted to mechanical energy in turbines and then to electrical energy which is carried by the power lines to consumers. This week we are considering how the thermal energy is converted to kinetic or gravitational potential energy of large (that is not molecular size) objects in engines. That's the central physical process behind the extraction of energy from fossil fuels discussed in Chapter 7 of your book.
 
-In this laboratory you will do some experiments on an extremely simple form of a heat engine which makes this conversion. Though this process of converting thermal to mechanical energy is the opposite of the conversion of mechanical to thermal energy which you carried out in Laboratory 4, a new and somewhat surprising feature enters: Although the energy is conserved in the process, it turns out that you CANNOT convert all the thermal energy to mechanical energy. There is always some waste thermal energy left over. This general statement is one version of the second law of thermodynamics. It was discovered experimentally in the nineteenth century and versions of the second law have guided the design of thermally driven engines since. Because of the second law, any thermal engine puts out less useful energy than the initial thermal energy that goes in (unless, of course, you want the heat itself, as in a furnace. Then you can get 100% of the energy for that in principle. ) The efficiency of a thermal engine is defined as the ratio of the useful energy coming out to the thermal energy going in, and is always less than 1. Under certain rather general conditions, one can go further and state that if the thermal energy in the input is at absolute temperature TH and the waste thermal energy leaves the engine at absolute temperature TC then the maximum possible efficiency is (p. 121 of the book)
+In this laboratory you will do some experiments on an extremely simple form of a heat engine which makes this conversion. Though this process of converting thermal to mechanical energy is the opposite of the conversion of mechanical to thermal energy which you carried out in Laboratory 4, a new and somewhat surprising feature enters: Although the energy is conserved in the process, it turns out that you CANNOT convert all the thermal energy to mechanical energy. There is always some waste thermal energy left over. This general statement is one version of the second law of thermodynamics. It was discovered experimentally in the nineteenth century and versions of the second law have guided the design of thermally driven engines since. Because of the second law, any thermal engine puts out less useful energy than the initial thermal energy that goes in (unless, of course, you want the heat itself, as in a furnace. Then you can get 100% of the energy for that in principle. ) The efficiency of a thermal engine is defined as the ratio of the useful energy coming out to the thermal energy going in, and is always less than 1. Under certain rather general conditions, one can go further and state that if the thermal energy in the input is at absolute temperature $T_H$ and the waste thermal energy leaves the engine at absolute temperature $T_C$ then the maximum possible efficiency is
 
-#### maximum efficiency of a thermal engine = (TH ‐ TC)/TH
+$$\text{maximum~efficiency~of~a~thermal~ engine}~=~(T_h ‐ T_c)/T_h\label{eq:lab7:efficiency}$$
 
 You will test this statement in the experiments on the simple engine used in the laboratory in this experiment.
 
 The simple engine you will use uses thermal energy to lift objects. A piston that lifts the objects moves up and down inside of a cylinder filled with air. The air inside the cylinder is connected with a tube to a sealed metal can that can be heated and cooled by placing it in hot or cold water. A cycle starts with an object on top of the piston and the can immersed in cold water. The can is then immersed in hot water and the cylinder rises. At its highest point you remove the object and the piston rises some more. Next the can is placed into cold water. The piston descends. When it stops descending, you put an object on it causing it to go lower. The system is now in its original state. Then the cycle is repeated. Even though the process is very simple, all of the heat from the water does not go into lifting the object and you will determine its efficiency.
 
-#### Equipment
+## Equipment
 
 ![](../figures/_page_37_Figure_2.jpeg)
 
-# Prediction
+## Prediction
 
-The hot water cannot be any hotter than boiling (approximately 10 oK 0 oC oC=373 oK) and the cold water cannot be any colder than ice water (0 oC =273 oK) . What is the maximum efficiency which you can hope to find for this device?
+The hot water cannot be any hotter than boiling (approximately 100 <sup>o</sup>C = 373 K) and the cold water cannot be any colder than ice water (0 <sup>o</sup>C = 273 K) . What is the maximum efficiency which you can hope to find for this device?
 
-#### Pre‐lab reading
+## Pre‐lab reading
 
-Read . Hinrichs and Kleinbach pp 118‐125
+????
 
-#### Warm‐up questions
+## Warm‐up questions
 
-- 1 Write down the general conservation of energy equation. Decide on the most convenient system for this situation. Decide on your initial time and choose your final time when the system returns to its initial state. Is any energy being transferred to or from your system between the initial and final times? The energy transfers may happen at different times in the cycle so write down a list of what the system is doing for each energy transfer.
-- 2. Identify the terms you need to calculate the efficiency of the process. The efficiency is the ratio of the useful energy output to the energy input from the energy source. Write down the conservation of energy equation or equations containing those terms.
+1 Write down the general conservation of energy equation. Decide on the most convenient system for this situation. Decide on your initial time and choose your final time when the system returns to its initial state. Is any energy being transferred to or from your system between the initial and final times? The energy transfers may happen at different times in the cycle so write down a list of what the system is doing for each energy transfer.
+2. Identify the terms you need to calculate the efficiency of the process. The efficiency is the ratio of the useful energy output to the energy input from the energy source. Write down the conservation of energy equation or equations containing those terms.
 
-### Exploration
+## Exploration
 
 Familiarize yourself with the piston apparatus. Learn how the valves work. Does the piston move easily in the cylinder when the valves are open? When the valves are closed? When one is open and one is closed? All valves are likely to leak at some level. Check if your valves leak enough to seriously affect your measurement. Record how you made this determination.
 
@@ -42,23 +42,23 @@ Run through the cyclic procedure several times without taking any measurements. 
 
 Make a plan for moving through the cycle fast to minimize the effects of leaks. Practice your procedures so that you can make accurate measurements.
 
-#### Measurement
+## Measurement
 
 Execute the measurement plan you created in the Exploration section to get the data you need. Run the cycle a few times for a given platform mass so that your average gives reliable results.
 
-#### Analysis
+## Analysis
 
 To determine the efficiency of this ʺengineʹ, you can calculate the useful work output by multiplying the weight of the lifted weight by the distance through which it was lifted. You can approximate the input thermal energy by multiplying the specific heat of the air by the change in temperature as the piston rises. Using properties of the air which we will not go into here you can use the following formula:
 
-Thermal energy in =Cm x(Thot‐Tcold)
+$$\text{Thermal~energy~in}~=~mc\times(T_h‐T_c)$$
 
-in which Cm=(5/2)x(mass of piston)x(9.8 m/s2)x(height of cylinder when it is cold with no weight)/(temperature of the cold water in oK.)
+in which $mc=(5/2)\frac{\text{(mass~of~piston)}~\times (9.8~{\rm m/s^2})~\times{\rm (height~of~cylinder~when~it~is~cold~with~no~weight)}{\text{(temperature~of~the~cold~water~in~K)}}$
 
 Then the efficiency is the useful work out divided by the thermal energy in. Use these formulas and the measurements you made to calculate the efficiency of the engine.
 
-#### Conclusion
+## Conclusion
 
-Compare the efficiency which you calculated with the maximum possible efficiency as given by the ratio of the hot to the cold temperature ((equation on p. 121 of the book). Does the engine obey the second law of thermodynamics, according to your measurements?
+Compare the efficiency which you calculated with the maximum possible efficiency as given by the ratio of the hot to the cold temperature Equation `eq`{eq:lab7:efficiency}. Does the engine obey the second law of thermodynamics, according to your measurements?
 
 | Material   | Specific Heat† | Density‡ | Latent Heat of Fusion† |
 |------------|----------------|----------|------------------------|
@@ -86,7 +86,7 @@ Compare the efficiency which you calculated with the maximum possible efficiency
 
 Thermal Properties of Certain Materials
 
-#### Thermal Properties of Water and Alcohol
+## Thermal Properties of Water and Alcohol
 
 | Substance | Specific | Latent Heat  of | Melting     | Latent Heat of | Boiling     |
 |-----------|----------|-----------------|-------------|----------------|-------------|

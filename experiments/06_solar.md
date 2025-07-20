@@ -9,7 +9,7 @@ In this exercise you and your partners will determine how much radiant energy th
 
 ## Pre‐lab reading
 
-Hinrichs and Kleinbach 161‐170
+Textbook section 8.2
 
 ## Equipment
 
@@ -49,7 +49,7 @@ You will use the focused rays to heat water or copper, much as a solar power pla
 4. Be sure to aim your parabolic mirror directly at the sun. Be very careful about this. All members of your group should check the container – the one with water or a metal plate ‐ to be certain it is **pointing directly at the sun**. You will probably have to adjust the rectangular container (if you are using that) during the time it is receiving solar energy. (The parabolic mirror or its container might also need adjustment during collection time.) Also be sure that you shield the mirror from the sunlight until you start the stopwatch.
 5. Record the initial temperature of the water or metal. Record the temperature once every three minutes for 15 minutes (or, if you are using water, until the water starts to boil). Be careful ‐‐ the water, metal and receiver might become very hot. After your last measurement, make sure you have recorded the mass of the water or copper. If you were using water, pour it out. Gather your equipment and return to the lab.
 
-**Alternate equipment:** A rectangular box containing an aluminum plate to absorb solar energy can be used to collect solar energy. The principles are the same as when using water. It works best to cool the plate 10oC to 20oC below the outside temperature before starting. (Be certain the plate is dry before you start using it to collect solar energy.) Heat the box until it is 10<sup>o</sup>C to 20<sup>o</sup>C above the outside temperature. You need to align the container so the sun's rays are perpendicular to it. (You can tell the rays are perpendicular when the white plastic peg in the middle casts no shadow.)The temperature can be obtained by connecting leads from the terminals on the side of the box to an ohmmeter. Ask your TA for a conversion chart to change resistance into temperature. The rest of the process uses the same principles as used with the water.
+**Alternate equipment:** A rectangular box containing an aluminum plate to absorb solar energy can be used to collect solar energy. The principles are the same as when using water. It works best to cool the plate 10<sup>o</sup>C to 20<sup>o</sup>C below the outside temperature before starting. (Be certain the plate is dry before you start using it to collect solar energy.) Heat the box until it is 10<sup>o</sup>C to 20<sup>o</sup>C above the outside temperature. You need to align the container so the sun's rays are perpendicular to it. (You can tell the rays are perpendicular when the white plastic peg in the middle casts no shadow.)The temperature can be obtained by connecting leads from the terminals on the side of the box to an ohmmeter. Ask your TA for a conversion chart to change resistance into temperature. The rest of the process uses the same principles as used with the water.
 
 ## Analysis
 
@@ -80,7 +80,7 @@ $${\rm Solar~input~=~\frac{mc\Delta T}{(mirror~area)\times (time in sun)}}$$
 
 The solar input is the amount of power that an area receives from the sun when it is directly over that area. If you used only SI units, your result for the solar input is the amount of power (in watts) received by one square meter.
 
-5. To determine the total solar power received by Earth, you and your partners should multiply your result for the solar input by Earth's cross‐sectional area. (Use the radius of Earth, 6.38 x 106 m, to calculate its cross‐sectional area.)
+5. To determine the total solar power received by Earth, you and your partners should multiply your result for the solar input by Earth's cross‐sectional area. (Use the radius of Earth, 6.38 x 10<sup>6</sup> m, to calculate its cross‐sectional area.)
 
 $${\rm Solar~power~recieved~by~Earth~=\frac{Solar~Input)}{(Earth's~cross-sectional~Area)}}$$
 
@@ -89,14 +89,14 @@ $${\rm Solar~power~recieved~by~Earth~=\frac{Solar~Input)}{(Earth's~cross-section
 7. Now you can estimate the amount of food could be produced with this much sunlight, if it were all used to produce food. In *The Hungry Planet,* George Borgstrom, a professor of Food Science and Geography at Michigan State University, states that 10\% of the solar power used by plants in photosynthesis can be used by humans as food. Determine how many watts of power this equals.
 8. Knowing that one watt equals 0.24 cal/sec and one food Calorie equals 1000 calories, calculate how many food Calories could be produced on the Earth in one day.
 9. Lastly, estimate the maximum population of Earth. The current opinion is that the normal food requirement of a full‐grown person is about 3,000 food Calories per day. Since most humans eat animal products as well as plants, their intake includes the energy needed to feed the animal products they consume. So, although the normal food requirement is about 3,000 food Calories per day, this figure increases to about 10,000 food Calories a day when the conversion of plants to animal products is taken into account. If you use a 10,000‐Calorie intake as a standard, what is the theoretical maximum number of humans that Earth can support?
-10. The amount of solar radiant energy reaching the top of the earthʹs atmosphere from space was first measured by the first space satellites in the middle of the last century and is about 1360 W/m^2. How does this number compare with the radiant power per meter squared which you measured? Do you expect it to be bigger or smaller? Explain the factors which would lead it to be different.
+10. The amount of solar radiant energy reaching the top of the earthʹs atmosphere from space was first measured by the first space satellites in the middle of the last century and is about 1360 W/m<sup>2</sup>. How does this number compare with the radiant power per meter squared which you measured? Do you expect it to be bigger or smaller? Explain the factors which would lead it to be different.
 11. In the US economy, you can deduce from [](#fig:lab6:USpower) that the power consumption is about 8.5 kilowatts per person on average in recent times. If the solar energy were coming in to the surface of the earth at the rate which you measured, assuming that the US population is 300 million, and assuming that 1/5 of the solar energy could be converted to an easily used form such as electrical energy, how much area of the surface of the US would be needed to collect enough solar energy to power the economy?
 ```{figure} ../figures/lab6/USPower.svg
 :label: fig:lab6:USpower
 :width: 100%
 :align: center
-:alt: United States power consumption per capita in Watts from 1960 to 2023.
-United States power consumption per capita in Watts from 1960 to 2023.
+:alt: United States power consumption per capita in Watts from 1960 to 2023 Data source: [World Bank Group](https://data.worldbank.org/indicator/EG.USE.PCAP.KG.OE?locations=AF-US)
+United States power consumption per capita in Watts from 1960 to 2023. Data source: [World Bank Group](https://data.worldbank.org/indicator/EG.USE.PCAP.KG.OE?locations=AF-US)
 ```
 
 ## Conclusions
