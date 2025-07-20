@@ -70,7 +70,13 @@ How much does the deflection change? Try with both poles of the magnet. Were the
 
 1. When you bring the north end of a bar magnet near the side of the CRT:
 
-![](../figures/_page_50_Figure_12.jpeg)
+```{figure} ../figures/lab10/whichdirection.svg
+:label: fig:lab10:barmagnet
+:width: 75%
+:align: center
+:alt: The magnetic field of a bar magnet influences a cathode ray. Which direction will the cathode ray deflect?
+The magnetic field of a bar magnet influences a cathode ray. Which direction will the cathode ray deflect?
+```
 
 	- a) in what direction is the electron beam deflected?
 	- b) Does the beam deflection increase or decrease as your magnet is moved closer to the CRT?
