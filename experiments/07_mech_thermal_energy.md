@@ -61,41 +61,41 @@ Then the efficiency is the useful work out divided by the thermal energy in. Use
 
 Compare the efficiency which you calculated with the maximum possible efficiency as given by the ratio of the hot to the cold temperature Equation [](#eq:lab7:efficiency). Does the engine obey the second law of thermodynamics, according to your measurements?
 
-| Material   | Specific Heat† | Density‡ | Latent Heat of Fusion† |
-|------------|----------------|----------|------------------------|
-|            | J/g °C         | g/cm3    | kJ/g                   |
-| Aluminum   | 0.900          | 2.7      | 0.40                   |
-| Chromium   | 0.460          | 7.14     | 0.33                   |
-| Cobalt     | 0.419          | 8.71     | 0.28                   |
-| Copper     | 0.39           | 8.92     | 0.20                   |
-| Gold       | 0.13           | 19.3     | 0.063                  |
-| Iron       | 0.452          | 7.86     | 0.27                   |
-| Lead       | 0.13           | 11.34    | 0.023                  |
-| Magnesium  | 1.02           | 1.75     | 0.37                   |
-| Manganese  | 0.477          | 7.3      | 0.27                   |
-| Mercury    | 0.14           | 13.59    | 0.011                  |
-| Molybdenum | 0.25           | 10.2     | 0.29                   |
-| Nickel     | 0.444          | 8.9      | 0.30                   |
-| Platinum   | 0.13           | 21.45    | 0.10                   |
-| Potassium  | 0.754          | .86      | 0.061                  |
-| Silicon    | 0.71           | 2.33     | 1.80                   |
-| Silver     | 0.24           | 10.5     | 0.11                   |
-| Sodium     | 1.23           | .97      | 0.11                   |
-| Tin        | 0.23           | 5.75     | 0.059                  |
-| Titanium   | 0.39           | 4.5      | 0.42                   |
-| Zinc       | 0.093          | 7.04     | 0.11                   |
+| Material   | Specific Heat† |     Density‡        | Latent Heat of Fusion† |
+|------------|---------------:|--------------------:|-----------------------:|
+|            | J/g °C         | g/cm<sup>3</sup>    | kJ/g                   |
+| Aluminum   | 0.900          |       2.7           | 0.40                   |
+| Chromium   | 0.460          |       7.14          | 0.33                   |
+| Cobalt     | 0.419          |       8.71          | 0.28                   |
+| Copper     | 0.39           |       8.92          | 0.20                   |
+| Gold       | 0.13           |      19.3           | 0.063                  |
+| Iron       | 0.452          |       7.86          | 0.27                   |
+| Lead       | 0.13           |      11.34          | 0.023                  |
+| Magnesium  | 1.02           |       1.75          | 0.37                   |
+| Manganese  | 0.477          |       7.3           | 0.27                   |
+| Mercury    | 0.14           |      13.59          | 0.011                  |
+| Molybdenum | 0.25           |      10.2           | 0.29                   |
+| Nickel     | 0.444          |       8.9           | 0.30                   |
+| Platinum   | 0.13           |      21.45          | 0.10                   |
+| Potassium  | 0.754          |       0.86          | 0.061                  |
+| Silicon    | 0.71           |       2.33          | 1.80                   |
+| Silver     | 0.24           |      10.5           | 0.11                   |
+| Sodium     | 1.23           |       0.97          | 0.11                   |
+| Tin        | 0.23           |       5.75          | 0.059                  |
+| Titanium   | 0.39           |       4.5           | 0.42                   |
+| Zinc       | 0.093          |       7.04          | 0.11                   |
 
 Thermal Properties of Certain Materials
 
 ## Thermal Properties of Water and Alcohol
 
-| Substance | Specific | Latent Heat  of | Melting     | Latent Heat of | Boiling     |
-|-----------|----------|-----------------|-------------|----------------|-------------|
-|           | Heat     | Fusion          | Temperature | Vaporization   | Temperature |
-|           | J/g °C   | J/kg            | °C          | J/kg           | °C          |
-| Water     | 4.19     | 3.35 x 10 5     | 0.00        | 2.256 x 10 6   | 100.00      |
-| Ice       | 2.09     | 3.35 x 10 5     | 0.00        | n/a            | n/a         |
-| Alcohol   | 2.48     | 10.42 x 10 5    | ‐117.3      | 0.854 x 10 6   | 78.5        |
+| Substance | Specific<br>Heat | Latent Heat<br>of Fusion | Melting<br>Temperature  | Latent Heat of<br>Vaporization | Boiling<br>Temperature |
+|-----------|----------|---------------------------|-------------|----------------|-------------|
+|           | Heat     |           Fusion          | Temperature | Vaporization   | Temperature |
+|           | J/g °C   |           J/kg            | °C          | J/kg           | °C          |
+| Water     | 4.19     | 3.35 x 10<sup>5</sup>     | 0.00        | 2.256 x 10 6   | 100.00      |
+| Ice       | 2.09     | 3.35 x 10<sup>5</sup>     | 0.00        | n/a            | n/a         |
+| Alcohol   | 2.48     | 10.42 x 10<sup>5</sup>    | ‐117.3      | 0.854 x 10 6   | 78.5        |
 
 †Adapted from Handbook of Tables for Applied Engineering Science by R. E. Bolz & G. L. Tuve, The Chemical Rubber Co., 1970.
 
