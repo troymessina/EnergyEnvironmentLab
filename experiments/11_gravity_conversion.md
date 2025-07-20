@@ -11,40 +11,48 @@ Hinrichs and Kleinbach pp 400‐417
 
 # Equipment
 
-1. Generator Assembly 2. Pulley, three‐step 3. Resistor Plug (1),100 ohm (1) 4. LED plug (1) 5. Spool of thread (1) 6. Turbine 7. Windmill
+1. Generator Assembly 
+2. Pulley, three‐step 
+3. Resistor Plug and 100 Ohm resistor 
+4. LED plug
+5. Spool of thread
+6. Turbine
+7. Windmill
 
 # Predictions/preliminary questions
 
-![](../figures/_page_54_Figure_9.jpeg)
+```{figure} ../figures/lab11/Pascogenerator.svg
+:label: fig:lab11:Pascogenerator
+:width: 75%
+:align: center
+:alt: Pasco electricity generator.
+Pasco electricity generator
+```
 
-If you have 500 cubic centimeters of water an average height of 0.5 meters above the turbine, what is the maximum energy which you can generate with the available energy? If there is a 100 ohm resistor across the output terminals of the generator, and the water takes a minute to run through the turbine, what is the average voltage which you expect to see across the output terminals of the generator?
+If you have 500 cubic centimeters of water an average height of 0.5 meters above the turbine, what is the maximum energy which you can generate with the available energy? If there is a 100 ohm resistor across the output terminals of the generator, and the water takes a minute to run through the turbine, what is the average voltage which you expect to see across the output terminals of the generator? Electrical power in Watts is Volts squared divided by resistance in Ohms ($P = V^2/R$)
 
 ## Procedure part 1. electrical energy from gravitational: potential energy of a weight.
 
-First use the generator to convert the gravitational potential energy of a weight to electrical energy. You will do one qualitative experiment in which the electrical energy is converted to light and a second experiment in which you measure the output energy quantitatively. :
+First use the generator to convert the gravitational potential energy of a weight to electrical energy. You will do one qualitative experiment in which the electrical energy is converted to light and a second experiment in which you measure the output energy quantitatively.
+```{figure} ../figures/lab11/Pascogenparts.svg
+:label: fig:lab11:Pascogenparts
+:width: 75%
+:align: center
+:alt: Pasco electricity generator with various components.
+Pasco electricity generator with various components
+```
 
-1.Use the rod clamp on the side of the generator to mount the generator to a rod stand.
-
+1. Use the rod clamp on the side of the generator to mount the generator to a rod stand.
 2. Insert the LED plug into the jacks on the generator (Figure 1a).
-
-3.To attach the pulley, align the indent marks on the pulley with the indented portion of the black shaft on the generator; then slide the pulley onto the shaft. Fasten the nut tight over the screw to hold the pulley in place.
-
-*4*. Cut a small piece of no‐bounce foam, and place the foam underneath the hanging mass .
-
+3. To attach the pulley, align the indent marks on the pulley with the indented portion of the black shaft on the generator; then slide the pulley onto the shaft. Fasten the nut tight over the screw to hold the pulley in place.
+4. Cut a small piece of no‐bounce foam, and place the foam underneath the hanging mass .
 5. Cut a piece of string to tie to the hanging mass and pulley (Figure 1b).
-
 6. Tie a double knot in the string and hook the knot in the slot on the pulley.
-
 7. Attach the other end of the string to the hanging mass.
-
 8. Wind the string up on the smallest pulley, such that the string falls out when the mass reaches the bottom of the foam pad.
-
 9. Adjust the position of the hanging mass or the height of the generator so that the knot slips out just as the mass reaches the foam.)
-
 10. Now wind up the string and let the mass fall, observing the light emitted by the light emitting diode. You will see it changing from green to red and back, corresponding to current flowing in one direction and then in the opposite direction. What does this tell you about this generator? In particular, does it have a commutator, as the one illustrated in Figure 11.11 does? Does the rate at which the light changes from green to red and back change as the weight falls? Note the answer in your notebook, together with a brief discussion of the possible reason for any changes.
-
 11. Now for the quantitative measurement, remove the LED plug and insert the resistor plug into the jacks on the generator. Your instructor will show you how to attach a voltage probe to the resistor jacks and to the computer and to use the software Capstone to make a graph of the power coming out of the generator at each moment in time. The instructor will also explain how to get the total electrical energy produced during the fall from the power data plotted on the screen. Note the total energy in your notebook and make a sketch of the graph of power versus time.
-
 12. Measure the distance which the weight fell and note it in your notebook and weigh the weight to determine its mass (if it is not marked on the weight) and make a note of it.
 
 # Part 2. Electrical Energy from Gravitational Potential Energy of Water
