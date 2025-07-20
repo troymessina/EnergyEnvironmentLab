@@ -89,13 +89,11 @@ Thermal Properties of Certain Materials
 ## Thermal Properties of Water and Alcohol
 
 |Substance|Specific<br>Heat<br>J/g°C|Latent Heat<br>of Fusion<br>J/kg|Melting<br>Temperature<br>°C|Latent Heat of<br>Vaporization<br>J/kg|Boiling<br>Temperature<br>°C|
-|-----------|----------|---------------------------|-------------|--------------------------|-------------|
+|----------:|---------:|--------------------------:|------------:|-------------------------:|------------:|
 | Water     | 4.19     | 3.35 x 10<sup>5</sup>     | 0.00        | 2.256 x 10<sup>6</sup>   | 100.00      |
 | Ice       | 2.09     | 3.35 x 10<sup>5</sup>     | 0.00        | n/a                      | n/a         |
 | Alcohol   | 2.48     | 10.42 x 10<sup>5</sup>    | ‐117.3      | 0.854 x 10<sup>6</sup>   | 78.5        |
 
 †Adapted from Handbook of Tables for Applied Engineering Science by R. E. Bolz & G. L. Tuve, The Chemical Rubber Co., 1970.
 
-‡Adapted From The Handbook of Chemistry and Physics, R. C. Weast, ed.,
-
-The Chemical Rubber Co., 1970.
+‡Adapted From The Handbook of Chemistry and Physics, R. C. Weast, ed., The Chemical Rubber Co., 1970.
