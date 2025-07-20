@@ -68,16 +68,14 @@ How much does the deflection change? Try with both poles of the magnet. Were the
 
 ### Conclusions
 
-1. When you bring the north end of a bar magnet near the side of the CRT:
-
 ```{figure} ../figures/lab10/whichdirection.svg
-:label: fig:lab10:barmagnet
+:label: fig:lab10:whichdirection
 :width: 75%
 :align: center
 :alt: The magnetic field of a bar magnet influences a cathode ray. Which direction will the cathode ray deflect?
 The magnetic field of a bar magnet influences a cathode ray. Which direction will the cathode ray deflect?
 ```
-
+1. When you bring the north end of a bar magnet near the side of the CRT as shown in [](#fig:lab10:whichdirection)
 	- a) in what direction is the electron beam deflected?
 	- b) Does the beam deflection increase or decrease as your magnet is moved closer to the CRT?
 	- c) Does the beam deflection increase or decrease as the magnetic field strength increases? How can you tell?
@@ -91,7 +89,7 @@ The magnetic field of a bar magnet influences a cathode ray. Which direction wil
 
 ## Part 2. the principle by which generators work: the effect of a changing magnetic field on the voltage in a coil
 
-In the previous part of this laboratory you studied the way in which forces are exerted on moving charges, either in a beam or in a wire, when they move through a magnetic field. That is the principle by which motors work. (The magnetic force is sometimes called the Lorentz force.) In this part of the laboratory you will study how a changing magnetic field can cause the charges in a wire which has no current flowing in it to start moving, thus producing a current, as a result of the changing magnetic field. This principle is a version of Faradayʹs law. In generators it is used to produce a current by mechanically forcing a wire coil to move through a stationary magnetic field (as in Figure 11.10 of your book) or by magnetically causing a magnet to move in and out of a coil (as in the simple generator you will build in the laboratory.)
+In the previous part of this laboratory you studied the way in which forces are exerted on moving charges, either in a beam or in a wire, when they move through a magnetic field. That is the principle by which motors work. (The magnetic force is sometimes called the Lorentz force.) In this part of the laboratory you will study how a changing magnetic field can cause the charges in a wire which has no current flowing in it to start moving, thus producing a current, as a result of the changing magnetic field. This principle is a version of Faradayʹs law. In generators it is used to produce a current by mechanically forcing a wire coil to move through a stationary magnetic field or by magnetically causing a magnet to move in and out of a coil (as in the simple generator you will build in the laboratory.)
 
 In the first part of the exercise, you and your lab partners will investigate the currents and voltages which are induced in wire coils when the magnetic fields around them change in time. Then you will construct a simple generator using which uses Faradayʹs law to convert mechanical to electrical energy.
 
