@@ -10,11 +10,11 @@ The interaction of magnetism and electric charges underlies how motors and gener
 (a) The Lorentz force on a moving charge due to a magnet is perpendicular to both the motion of the charge and the direction of the magnetic field. (b) The Lorentz force can be visualized using a cathode ray tube (CRT).
 ```
 
-Whereas in a motor, electrical energy is being converted into mechanical energy through the action of the forces arising from the motion of charges through magnetic fields, in a generator, mechanical energy is turned into electrical energy by magnets pushing charges into motion. That is possible because of a different principle illustrated in [http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/motorac.html](http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/motorac.html), Notice that Figures 11.10 and 11.7 look very similar. You should make sure you understand how they are different. In 11.10, illustrating a generator, the wire, which does not have a current being forced through it by an external battery, is being mechanically forced to turn by forces exerted on some kind of a handle on the shaft. As a result, the magnetic field through the coil is changing. The new principle is that a changing magnetic field through a coil will cause a voltage in the coil to develop and then a current will flow. (This principle is a form of what physicists call Faradayʹs law.) In part 2 of this laboratory you will explore this principle by moving a magnet around a coil of wire and observing the resulting currents. Then you will construct and measure aspects of the operation of a simple generator, operating on the same principles as the one sketched in Figure 11.10, but different in some details.
+Whereas in a motor, electrical energy is being converted into mechanical energy through the action of the forces arising from the motion of charges through magnetic fields, in a generator, mechanical energy is turned into electrical energy by magnets pushing charges into motion. That is possible because of a different principle illustrated in [http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/motorac.html](http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/motorac.html), Notice that figures in this link look very similar. You should attempt to understand how they are different. In the generator, the wire, which does not have a current being forced through it by an external battery, is being mechanically forced to turn by forces exerted on some kind of a handle on the shaft. As a result, the magnetic field through the coil is changing. The new principle is that a changing magnetic field through a coil will cause a voltage in the coil to develop and then a current will flow. (This principle is a form of what physicists call Faradayʹs law.) In part 2 of this laboratory you will explore this principle by moving a magnet around a coil of wire and observing the resulting currents. Then you will construct and measure aspects of the operation of a simple generator, operating on the same principles as the one sketched in the link above, but different in some details.
 
 ## Pre‐lab reading
 
-Hinrichs and Kleinbach pp 359‐372
+[http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/motorac.html](http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/motorac.html)
 
 ## Part 1. the principle by which motors work: the effect of a magnetic field on a moving charge
 
@@ -29,26 +29,29 @@ Hinrichs and Kleinbach pp 359‐372
 
 1. If a beam of positively charged particles moves from right to left as shown in the figure below what would be the effect of a bar magnet on the beam if it were located as shown in the diagram? (Would the beam move up? down? Out of the paper? Into the paper? Or, would there be no effect?)
 
-![](../figures/_page_49_Figure_2.jpeg)
+![](../figures/lab10/_page_49_Figure_2.jpeg)
 
 2. If the beam of particles, in the above diagram, were electrons (negative charges) what would be the effect of the magnet on the beam? (Would the beam move up? Down? Out of the paper? Into the paper? Or, would there be no effect?)
 3. If a beam of positive charges were coming out of the paper what would be the effect of the magnet on the beam? (The black dot represents the beam coming out of the paper.) Would the beam move up? down? Out of the paper? Into the paper? Left? Right? Or, would there be no effect?)
 
-![](../figures/_page_49_Picture_5.jpeg)
+![](../figures/lab10/_page_49_Picture_5.jpeg)
 
 # Procedure
 
 A cathode ray tube (CRT) produces an electron beam that can be seen as a glowing spot when it hits a phosphorescent surface inside the tube. Holding a magnet close to the CRT produces a magnetic field in the tube and causes the electron beam to deflect, which will make the spot on the phosphorescent screen move. The lab instructor will show you how to connect the CRT to the high‐ voltage power supply properly.
 
-![](../figures/_page_49_Picture_8.jpeg)
-
 *You and your partners will work with equipment that produces large voltages, and improper use can cause injury. To avoid danger, the power should be off and you should wait at least one minute before any wires are connected to or disconnected from the power supply. Do not grasp a wire by its metal ends.*
 
 1. How do you think the electron beam will be deflected in the presence of a magnetic field? Record your predictions in your notebook.
 2. Connect the CRT and the power supply. Consult with your instructor about the ideal accelerating voltage with which to start the exercise. Record this value. Also record the location of the non‐deflected beam spot on the screen.
-3. Use your compass to determine which pole on your bar magnet is the north magnetic pole. Below is the magnetic field that is produced by a bar magnet:
-
-![](../figures/_page_50_Picture_1.jpeg)
+3. Use your compass to determine which pole on your bar magnet is the north magnetic pole. Below is the magnetic field that is produced by a bar magnet as shown in [](#fig:lab10:barmagnet):
+```{figure} ../figures/lab10/barmagnetfield.jpg
+:label: fig:lab10:barmagnet
+:width: 75%
+:align: center
+:alt: The magnetic field of a bar magnet points from north to south outside the magnet and from south to north inside the magnet.
+The magnetic field of a bar magnet points from north to south outside the magnet and from south to north inside the magnet.
+```
 
 Based on this, describe what the magnetic field will be like within the CRT.
 
