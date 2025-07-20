@@ -15,7 +15,8 @@ A simple resistor circuit is shown in [](#fig:lab9:resistorcircuit) [](#fig:lab9
 :width: 60%
 :align: center
 ![A cartoon of a resistor connected to a battery or DC power source.](../figures/lab9/phetresistorcircuit.jpg)
-![A circuit diagram of the same circuit as in (a).](../figures/lab9/resistorcircuit.svg){width=200}
+![A circuit diagram of the same circuit as in (a).](../figures/lab9/resistorcircuit.svg)
+A simple resistor circuit diagram.
 ```
 
 ## Equipment
