@@ -96,12 +96,12 @@ Pasco electricity generator with hydro attachment set up.
 
 1. Calculate the efficiency of conversion for each of the three experiments.
 	- a. For the weight, divide the total electrical energy output by th change in gravitational potential energy during the drop of the weight.
-	- b. For the hydro experiment, similarly divide the total electrical energy output by the gravitational potential energy change of the water. To calculate the change in gravitational potential energy of the water, you need its mass, which is given by the volume of water times the mass density of water which is close to 103 kg/m<sup>3</sup>.
+	- b. For the hydro experiment, similarly divide the total electrical energy output by the gravitational potential energy change of the water. To calculate the change in gravitational potential energy of the water, you need its mass, which is given by the volume of water times the mass density of water which is close to 1000 kg/m<sup>3</sup>.
 	- c. For the wind experiment, calculate the input power from the wind as 
 	
 $$(1/2)~\times~\text{(mass~density~of~air)~}\times~ \text{(air~speed)}^3~\times~ \text{(cross‐sectional~area~of~the~windmill)}$$
 
-Calculate the efficiency of the wind generator by dividing the measured electrical power by the input power of the wind. The density of air is approximately 0.094 kg/m<sup>3</sup>
+Calculate the efficiency of the wind generator by dividing the measured electrical power by the input power of the wind. The density of air is approximately 1.2 kg/m<sup>3</sup>
 
 ### Conclusions
 
