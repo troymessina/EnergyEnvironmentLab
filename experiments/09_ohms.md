@@ -13,8 +13,12 @@ A simple resistor circuit is shown in [](#fig:lab9:resistorcircuit) [](#fig:lab9
 :::{figure}
 :label: fig:9:resistorcircuit
 :align: left
+
+(resistorcircuita)=
 ![A cartoon of a resistor connected to a battery or DC power source.](../figures/lab9/phetresistorcircuit.jpg)
-![A circuit diagram of the same circuit as in (a).](../figures/lab9/resistorcircuit.svg)
+(resistorcircuitb)=
+![A circuit diagram of the same circuit as in (a).](../figures/lab9/resistorcircuit.svg =x250)
+
 A simple resistor circuit diagram.
 :::
 
