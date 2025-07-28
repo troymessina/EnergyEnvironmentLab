@@ -3,7 +3,7 @@
 
 You will find that numerous exercises in this lab manual will require you to determine the relationship between two variables. This section includes graphs of common proportions that you may encounter in these exercises.
 
-```{figure} ../figures/linear.svg
+```{figure} ../figures/appI/linear.svg
 :label: fig:appI:linear
 :width: 100%
 :align: center
@@ -11,7 +11,7 @@ You will find that numerous exercises in this lab manual will require you to det
 $y\propto x$ ($x$ and $y$ are directly proportional), which is a linear relationship $ y = mx + b$.
 ```
 
-```{figure} ../figures/quadratic.svg
+```{figure} ../figures/appI/quadratic.svg
 :label: fig:appI:quadratic
 :width: 100%
 :align: center
@@ -19,7 +19,7 @@ $y\propto x$ ($x$ and $y$ are directly proportional), which is a linear relation
 $y \propto x^2$, which follows the equation $y = a x^2 + bx + c$
 ```
 
-```{figure} ../figures/cubic.svg
+```{figure} ../figures/appI/cubic.svg
 :label: fig:appI:cubic
 :width: 100%
 :align: center
@@ -27,7 +27,7 @@ $y \propto x^2$, which follows the equation $y = a x^2 + bx + c$
 $y \propto x^3$, which follows the equation $y = a x^3 + bx^2 + cx + d$
 ```
 
-```{figure} ../figures/hyperbolic.svg
+```{figure} ../figures/appI/hyperbolic.svg
 :label: fig:appI:hyperbolic
 :width: 100%
 :align: center
@@ -35,7 +35,7 @@ $y \propto x^3$, which follows the equation $y = a x^3 + bx^2 + cx + d$
 inversely proportional to $x$, or $y \propto 1/x$.
 ```
 
-```{figure} ../figures/hyperbolicsq.svg
+```{figure} ../figures/appI/hyperbolicsq.svg
 :label: fig:appI:hyperbolicsq
 :width: 100%
 :align: center
@@ -43,7 +43,7 @@ inversely proportional to $x$, or $y \propto 1/x$.
 inversely proportional to $x^2$, or $y \propto 1/x^2$.
 ```
 
-```{figure} ../figures/squareroot.svg
+```{figure} ../figures/appI/squareroot.svg
 :label: fig:appI:squareroot
 :width: 100%
 :align: center
@@ -51,7 +51,7 @@ inversely proportional to $x^2$, or $y \propto 1/x^2$.
 proportional to the square root of $x$ or $y \propto \sqrt{x}$.
 ```
 
-```{figure} ../figures/inversesquareroot.svg
+```{figure} ../figures/appI/inversesquareroot.svg
 :label: fig:appI:inversesquareroot
 :width: 100%
 :align: center
