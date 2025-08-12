@@ -5,7 +5,7 @@ The Motion Detector is used to collect position, velocity and acceleration data 
 
 ![](../figures/_page_84_Figure_2.jpeg)
 
-This is a sample of motion data collected with Logger *Pro*® and a computer.
+This is a sample of motion data collected with Capstone and a computer.
 
 # How the Motion Detector Works
 
@@ -21,7 +21,7 @@ Note that the Motion Detector will report the distance to the closest object tha
 
 #### Connecting the Motion Detector to a Capstone Interface
 
-To use the Motion Detector with LabPro, the Motion Detector is connected to the interface with the included cable. Plug the cable into the DIG/SONIC port on the right side of the Motion Detector. Plug the other end of the cable into the interface.
+To use the Motion Detector with LabPro, the Motion Detector is connected to the computer by bluetooth. 
 
 #### Using the Sensitivity Switch
 
