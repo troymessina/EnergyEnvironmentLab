@@ -3,9 +3,9 @@
 
 The Differential Voltage Probe is designed for exploring the basic principles of electricity. Use this probe to measure voltage in low voltage AC and DC circuits. With a range ±5 V or ±30 V, this system is ideal for use in "battery and bulb" circuits. Use it with the Current Probe to explore Ohm's law, phase relationships in reactive components and much more.  Use multiple sensors to explore series and parallel circuits. This sensor has the same characteristics as the Voltage Probe from the Vernier Current and Voltage Probe System.
 
-```{figure} ../figures/appB/VProbe.png
+```{figure} ../figures/appD/VProbe.png
 :label: fig:appC:voltageprobe
-:width: 100%
+:width: 60%
 :align: center
 :alt: A photo of the voltage probe.
 A photo of the voltage probe.

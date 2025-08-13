@@ -1,5 +1,5 @@
 (appE)=
-# Appendix E - Microphone
+# Appendix D - Microphone
 
 The Microphone can be used for a variety of activities with sound waves:
 
@@ -11,19 +11,38 @@ The Microphone can be used for a variety of activities with sound waves:
 - Determine the period and then the frequency of a sound by measuring the time between peaks on the waveform
 - Display the fast Fourier transform (FFT) of a sound
 
-#### Collecting Data with the Microphone
+```{figure} ../figures/appE/wirelessSound.png
+:label: fig:appD:soundsensor
+:width: 60%
+:align: center
+:alt: A photo of the wireless sound sensor.
+A photo of the wireless sound sensor.
+```
 
-This sensor is used with the Vernier LabPro® with a computer. Here is the general procedure to follow when using the Microphone:
+## Setting up the Microphone for Spectrum Analysis
 
-- 1. Connect the Microphone Probe to the interface.
-- 2. Start the data-collection software.
+This sensor is used with Capstone and a computer. Here is the general procedure to follow when using the Microphone:
 
-3. The software will identify the Microphone and load a default data-collection setup. You are now ready to collect data.
+1. Connect the Microphone Probe to the interface.
+2. Click the Sensor Data menu and select FFT.
+3. Turn on the sensor by pressing the power button until the lights turn on.
+4. Select the sensor that matches the device ID printed on your sensor.
+5. Click Hardware Setup  in the Tools palette to close the Hardware Setup panel.
 
-#### Specifications
+```{figure} ../figures/appE/sensor_data_menu.png
+:label: fig:appD:sensormenu
+:width: 40%
+:align: center
+:alt: Pasco sensor menu.
+Pasco sensor menu.
+```
 
-Frequency range approximately 20 Hz to 16,000 Hz Maximum frequency LabQuest 10,000 Hz LabPro, SensorDAQ, or CBL 2 5,000 Hz Power 7.5 mA @ 5 VDC Stored calibration Slope 1 Intercept 0 (arbitrary units) **Note**: The maximum data collection rate of the interface affects the maximum frequency you can effectively sample.
+## Specifications
 
-#### How the Microphone Works
+* Wirelessly measures sound wave data at high sample rates (100 kHz)
+* Two sound sensors in one (sound wave and sound level)
 
-The Microphone uses an electret microphone that has a frequency response covering essentially the range of the human ear. An op-amp circuit amplifies the signal and sends it to the British Telecom connector. Actually the signal is sent to the interface on two different lines. A signal centered at 2.5 volts is on the Vin-low line and a signal centered at 0 volts is on Vin. More information about the input lines on LabPro a is available in appendix B. The best sound sources to use with the microphone are tuning forks, but you may want to investigate a human voice or a whistle, electronic keyboards, and other musical instruments. Try comparing the wave pattern for different sound sources. Try playing two sounds of nearly the same frequency to produce beat patterns. Make sure the sound level is in the correct range to produce good wave patterns. If the sound is too loud, the wave pattern will be "clipped off" at the top or bottom. Move the microphone further from the sound source, or turn down the volume of the sound.
+## More Information
+
+For more details, the Pasco website has a great bit of information.
+[https://help.pasco.com/capstone/getting-started/set-up-an-fft-display/](https://help.pasco.com/capstone/getting-started/set-up-an-fft-display/)
