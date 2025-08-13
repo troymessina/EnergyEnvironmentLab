@@ -16,7 +16,7 @@ $$\text{speed~=~wavelength~x~frequency}$$
 A traveling wave with a wavelength of $\lambda = 2\pi~{\rm m}$ and a speed of $c=1.0~{\rm m/s}$. Notice the wavelength shown as a double arrow is constant for the wave regardless of the position of the wave.
 :::
 
-Wave speed is characteristic of the type of wave and the medium in which it is propagating. It does not depend on the wavelength or the frequency. Therefore, from the previous equation, for a given medium and type of wave, once you know the wavelength you know the frequency and vice versa. The other important feature of a wave is the amplitude of the wave, which is the height of the bumps, and which determines how much energy the wave is carrying. Solar radiation consists of electromagnetic waves, which travel in vacuum at a universal (and very high) speed of 3x10<sup>8</sup> m/s. It is a mixture of waves at different frequencies and wavelengths however. The color which we see in lighted objects arises because our eyes distinguish between electromagnetic radiation of different wavelengths. We see longer wavelengths of light as red and shorter ones as blue with the other colors appears as yellow, green, purple etc depending on wavelength. We canʹt see all the electromagnetic radiation which exists with our eyes however. The waves which carry cell phone, TV and radio signals are of longer wavelength and our eyes do not detect them and we also canʹt see ultraviolet and X-ray radiation which are electromagnetic waves of shorter wavelengths than we can see ([](#fig:lab12:electromagneticspectrum)) You can be convinced that solar radiation is a mixture of different wavelengths by using a prism to split the light into a rainbow of different colors, an experiment first done by Newton. In a more quantitative experiment, one can use an instrument to measure how bright the light at each color (that is, how much energy is coming in at each color). Making a graph of this measurement as a function of wavelength gives the quantitative ʹspectrumʹ of the light (see
+Wave speed is characteristic of the type of wave and the medium in which it is propagating. It does not depend on the wavelength or the frequency. Therefore, from the previous equation, for a given medium and type of wave, once you know the wavelength you know the frequency and vice versa. The other important feature of a wave is the amplitude of the wave, which is the height of the bumps, and which determines how much energy the wave is carrying. Solar radiation consists of electromagnetic waves, which travel in vacuum at a universal (and very high) speed of 3x10<sup>8</sup> m/s. It is a mixture of waves at different frequencies and wavelengths however. The color which we see in lighted objects arises because our eyes distinguish between electromagnetic radiation of different wavelengths. We see longer wavelengths of light as red and shorter ones as blue with the other colors appears as yellow, green, purple etc depending on wavelength. We canʹt see all the electromagnetic radiation which exists with our eyes however. The waves which carry cell phone, TV and radio signals are of longer wavelength and our eyes do not detect them and we also canʹt see ultraviolet and X-ray radiation which are electromagnetic waves of shorter wavelengths than we can see ([](#fig:lab12:electromagneticspectrum)) You can be convinced that solar radiation is a mixture of different wavelengths by using a prism to split the light into a rainbow of different colors, an experiment first done by Newton. In a more quantitative experiment, one can use an instrument to measure how bright the light at each color (that is, how much energy is coming in at each color). Making a graph of this measurement as a function of wavelength gives the quantitative ʹspectrumʹ of the light.
 ```{figure} ../figures/lab12/electromagneticspectrum.jpg
 :label: fig:lab12:electromagneticspectrum
 :width: 100%
@@ -25,22 +25,30 @@ Wave speed is characteristic of the type of wave and the medium in which it is p
 The electromagnetic spectrum.
 ```
 
-Figures 4.16 and 6.2.) Looking more closely at such spectra, one finds that they consist of two different types of features. There is a smoothly varying background, as sketched in figure 4.16, as well as some sharp peaks. You can see hints of the sharp peaks in Figure 6.2 . The shape of the smooth background tells you the temperature of the source (a very high 6300 kelvin degrees for the sun) and the peaks are characteristic of the atoms present in the sun. These so‐called ʹline spectraʹ were first discovered about 100years ago. They serve as a fingerprint of the chemical composition of the source and have been used to learn the composition of the stars by astronomers. In this laboratory, you will observe the spectra of sources made of various elements in the periodic table, in order to get an idea how the spectra vary depending on the chemical composition of the source.
+Looking more closely at such spectra, one finds that they consist of two different types of features. There is a smoothly varying background as well as some sharp peaks. You can see hints of the sharp peaks in [](#fig:lab12:solarspectrum). The shape of the smooth background tells you the temperature of the source (a very high 5800 kelvin degrees for the sun) and the peaks are characteristic of the atoms present in the sun. These so-called ʹline spectraʹ were first discovered about 100 years ago. They serve as a fingerprint of the chemical composition of the source and have been used to learn the composition of the stars by astronomers. In this laboratory, you will observe the spectra of sources made of various elements in the periodic table, in order to get an idea how the spectra vary depending on the chemical composition of the source.
+```{figure} ../figures/lab12/solarspectrum.png
+:label: fig:lab12:solarspectrum
+:width: 100%
+:align: center
+:alt: The solar spectrum. The temperature-related blackbody smooth curve is shown over the jagged peaks related to atoms in the sun.
+The solar spectrum. The temperature-related blackbody smooth curve is shown over the jagged peaks related to atoms in the sun.
+```
 
 The reason why atoms give out line spectral is because the electrons which move around the heavy nuclei of the atoms can only move in certain ways. When they jump from one mode of motion to another, they emit radiation characteristic of the difference between the rates at which they orbit the nucleus in the two modes.
 
-Just as materials which are emitting electromagnetic energy do so only at certain well defined wavelengths, so materials can only absorb electromagnetic radiation at certain wavelengths. Thus one can also observe absorption spectra, which tell you which radiation failed to get through the material. The absorption spectrum of chlorophyll, which is the material in plants which harvests sunlight for conversion to chemical energy, is shown below. Chlorophylls absorb only certain portions of the visible spectrum: the blue‐violet range (420‐460 nm) and the red range (630‐660 nm). The other colors, particularly green, are not absorbed by the chlorophylls and are reflected. Because plants therefore reflect green light to our eyes, we see them as green in color. .
+Just as materials which are emitting electromagnetic energy do so only at certain well defined wavelengths, so materials can only absorb electromagnetic radiation at certain wavelengths. Thus one can also observe absorption spectra, which tell you which radiation failed to get through the material. The absorption spectrum of chlorophyll, which is the material in plants which harvests sunlight for conversion to chemical energy, is shown below. Chlorophylls absorb only certain portions of the visible spectrum: the blue-violet range (420-460 nm) and the red range (630-660 nm). The other colors, particularly green, are not absorbed by the chlorophylls and are reflected. Because plants therefore reflect green light to our eyes, we see them as green in color.
 
-![](../figures/_page_59_Figure_4.jpeg)
+![](../figures/lab12/_page_59_Figure_4.jpeg)
 
 ## Examples of Atomic Spectra
-We show some characteristic emission spectra of gases of atoms of the periodic table in [](#).
+We show some characteristic emission spectra of gases of atoms of the periodic table in [](#fig:lab12:atomicspecra).
 
 ```{figure} ../figures/lab12/_page_60_Figure_2.jpeg
-:label: fig/lab12/atomicspectra
+:label: fig:lab12:atomicspectra
 :width: 100%
 :align: center
-:alt: Emission spectra of 
+:alt: Emission spectra of lithium, beryllium, sulfur, and potassium.
+Emission spectra of lithium, beryllium, sulfur, and potassium.
 ```
 
 You and your partners will view the atomic spectra of several different elements. You will record the characteristic spectrum for each element. Using the periodic table and your observations, you and your lab partners will get some understanding of the role of electron energy levels in creating atomic spectra.
