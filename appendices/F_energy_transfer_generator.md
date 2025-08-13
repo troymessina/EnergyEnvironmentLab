@@ -1,5 +1,5 @@
 (appF)=
-# Appendix F - The Energy Transfer Generator
+# Appendix E - The Energy Transfer Generator
 
 Used for demonstrating the conversion of stored gravitational potential energy into electrical energy. The generator includes a 3/4 inch neodymium magnet, which spins between two 400‐ turn coils, and is visible inside a semi‐clear, plastic housing. A plastic rod clamp is molded to the generator for attaching the housing to a rod stand. Two plug attachments, an LED (light‐emitting diode) plug and 100‐ohm resistor plug are included. Both the LED and resistor plug insert into the banana jack outputs on the generator's housing. Each plug contains two jacks for connecting a voltage sensor to the generator for collecting data with a computer. The LED plug allows the user to visually see the electrical effects of turning the shaft on the generator. As the student rotates the generator, the LED emits light. The resistor plug is recommended for use with sensors, so the student can measure the effects of generator rotation on power, voltage, and energy. A three‐step pulley keys into the shaft on the side of the housing and is removable.
 

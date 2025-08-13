@@ -1,5 +1,5 @@
 (appG)=
-# Appendix G - The Digital Multimeter (DMM)
+# Appendix F - The Digital Multimeter (DMM)
 
 The digital multimeter is a piece of equipment that can be used to
 measure a number of electrical quantities, most often current,

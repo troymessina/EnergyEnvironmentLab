@@ -4,7 +4,7 @@
 The Motion Detector is used to collect position, velocity and acceleration data of moving objects. Students can study a variety of motions with the Motion Detector.
 
 ```{figure} ../figures/appB/MotionGraph.png
-:label: fig:appA:MotionGraph
+:label: fig:appB:MotionGraph
 :width: 100%
 :align: center
 :alt: A graph of data collected for an object tossed upward and falling back down.

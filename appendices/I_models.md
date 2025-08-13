@@ -1,5 +1,5 @@
 (appI)=
-# Appendix I – Graphed Proportions
+# Appendix H – Graphed Proportions
 
 You will find that numerous exercises in this lab manual will require you to determine the relationship between two variables. This section includes graphs of common proportions that you may encounter in these exercises.
 

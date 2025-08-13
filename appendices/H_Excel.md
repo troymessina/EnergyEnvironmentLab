@@ -1,5 +1,5 @@
-(appG)=
-# Appendix H – Graphing with Microsoft Excel
+(appH)=
+# Appendix G – Graphing with Microsoft Excel
 
 You will find that numerous exercises in this manual will require graphs. Microsoft Excel is a spreadsheet program that can create fourteen types of graphs, each of which have from two to ten different formats. This results in a maze of possibilities. There are help screens in Excel; however, this overview is covers the type of graph you should include in your lab reports. This is meant to be a brief introduction to the use of Microsoft Excel for graphing scientific data. If you are acquainted with Excel already, you should still skim through this appendix to learn about the type of graph to include in reports.
 
