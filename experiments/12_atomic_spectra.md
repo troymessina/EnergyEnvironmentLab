@@ -5,7 +5,9 @@ It turns out that the principles which govern the operation of generators and mo
 
 The use of solar radiation to generate useful energy proceeds by three major pathways. One is direct conversion to thermal energy, which has been discussed earlier. Another is the use of solar radiation to produce electrical energy in photovoltaic cells (as in solar powered calculators) and the third is in the conversion of the energy of solar radiation to chemical energy in plants. The conversion of solar electromagnetic radiation to chemical energy in plants is not only the source of the energy in food and bio‐fuel but is also the source of energy in fossil fuels, which store the energy converted in this way by plants which lived millions of years ago. Of course electromagnetic waves are also central to many information technologies, such as radio, TV, and cell phones.
 
-To understand more fully how these various conversions of solar radiation to other forms works, one has to introduce the idea of the spectrum of light and to discuss the nature of waves in a little more detail. A wave is a disturbance in a medium or the vacuum of space which is characterized by a propagation speed, a frequency and a wavelength (see Figure 4.14. of your book.) In a traveling wave (the kind we will mainly consider) the speed is the speed at which the bumps in the wave move in the direction of travel. The wavelength is the distance between the bumps on the top of the wave and the frequency is one over the time that passes between the moments when successive bumps pass some fixed point in space. The three quantities are related by (see p. 111 of your book)
+To understand more fully how these various conversions of solar radiation to other forms works, one has to introduce the idea of the spectrum of light and to discuss the nature of waves in a little more detail. A wave is a disturbance in a medium or the vacuum of space which is characterized by a propagation speed, a frequency and a wavelength ([](#fig:lab12:travelingwave)) In a traveling wave (the kind we will mainly consider) the speed is the speed at which the bumps in the wave move in the direction of travel. The wavelength is the distance between the bumps on the top of the wave and the frequency is one over the time that passes between the moments when successive bumps pass some fixed point in space. The three quantities are related by
+
+$$\text{speed~=~wavelength~x~frequency}$$
 
 :::{figure} ../figures/lab12/traveling_wave.mp4
 :label: fig:lab12:travelingwave
@@ -14,9 +16,14 @@ To understand more fully how these various conversions of solar radiation to oth
 A traveling wave with a wavelength of $\lambda = 2\pi~{\rm m}$ and a speed of $c=1.0~{\rm m/s}$. Notice the wavelength shown as a double arrow is constant for the wave regardless of the position of the wave.
 :::
 
-$$\text{speed~=~wavelength~x~frequency}$$
-
-Wave speed is characteristic of the type of wave and the medium in which it is propagating. It does not depend on the wavelength or the frequency. Therefore, from the previous equation, for a given medium and type of wave, once you know the wavelength you know the frequency and vice versa. The other important feature of a wave is the amplitude of the wave, which is the height of the bumps, and which determines how much energy the wave is carrying. Solar radiation consists of electromagnetic waves, which travel in vacuum at a universal (and very high) speed of 3x108 m/s. It is a mixture of waves at different frequencies and wavelengths however. The color which we see in lighted objects arises because our eyes distinguish between electromagnetic radiation of different wavelengths. We see longer wavelengths of light as red and shorter ones as blue with the other colors appears as yellow, green, purple etc depending on wavelength. We canʹt see all the electromagnetic radiation which exists with our eyes however. The waves which carry cell phone, TV and radio signals are of longer wavelength and our eyes do not detect them and we also canʹt see ultraviolet and X‐ray radiation which are electromagnetic waves of shorter wavelengths than we can see (see Figure 41.5 of your book.) You can be convinced that solar radiation is a mixture of different wavelengths by using a prism to split the light into a rainbow of different colors, an experiment first done by Newton. In a more quantitative experiment, one can use an instrument to measure how bright the light at each color (that is, how much energy is coming in at each color). Making a graph of this measurement as a function of wavelength gives the quantitative ʹspectrumʹ of the light (see
+Wave speed is characteristic of the type of wave and the medium in which it is propagating. It does not depend on the wavelength or the frequency. Therefore, from the previous equation, for a given medium and type of wave, once you know the wavelength you know the frequency and vice versa. The other important feature of a wave is the amplitude of the wave, which is the height of the bumps, and which determines how much energy the wave is carrying. Solar radiation consists of electromagnetic waves, which travel in vacuum at a universal (and very high) speed of 3x10<sup>8</sup> m/s. It is a mixture of waves at different frequencies and wavelengths however. The color which we see in lighted objects arises because our eyes distinguish between electromagnetic radiation of different wavelengths. We see longer wavelengths of light as red and shorter ones as blue with the other colors appears as yellow, green, purple etc depending on wavelength. We canʹt see all the electromagnetic radiation which exists with our eyes however. The waves which carry cell phone, TV and radio signals are of longer wavelength and our eyes do not detect them and we also canʹt see ultraviolet and X-ray radiation which are electromagnetic waves of shorter wavelengths than we can see ([](#fig:lab12:electromagneticspectrum)) You can be convinced that solar radiation is a mixture of different wavelengths by using a prism to split the light into a rainbow of different colors, an experiment first done by Newton. In a more quantitative experiment, one can use an instrument to measure how bright the light at each color (that is, how much energy is coming in at each color). Making a graph of this measurement as a function of wavelength gives the quantitative ʹspectrumʹ of the light (see
+```{figure} ../figures/lab12/electromagneticspectrum.jpg
+:label: fig:lab12:electromagneticspectrum
+:width: 100%
+:align: center
+:alt: The electromagnetic spectrum.
+The electromagnetic spectrum.
+```
 
 Figures 4.16 and 6.2.) Looking more closely at such spectra, one finds that they consist of two different types of features. There is a smoothly varying background, as sketched in figure 4.16, as well as some sharp peaks. You can see hints of the sharp peaks in Figure 6.2 . The shape of the smooth background tells you the temperature of the source (a very high 6300 kelvin degrees for the sun) and the peaks are characteristic of the atoms present in the sun. These so‐called ʹline spectraʹ were first discovered about 100years ago. They serve as a fingerprint of the chemical composition of the source and have been used to learn the composition of the stars by astronomers. In this laboratory, you will observe the spectra of sources made of various elements in the periodic table, in order to get an idea how the spectra vary depending on the chemical composition of the source.
 
@@ -26,9 +33,15 @@ Just as materials which are emitting electromagnetic energy do so only at certai
 
 ![](../figures/_page_59_Figure_4.jpeg)
 
-#### We show some characteristic emission spectra of gases of atoms of the periodic table below. *Examples of Atomic Spectra*
+## Examples of Atomic Spectra
+We show some characteristic emission spectra of gases of atoms of the periodic table in [](#).
 
-![](../figures/_page_60_Figure_2.jpeg)
+```{figure} ../figures/lab12/_page_60_Figure_2.jpeg
+:label: fig/lab12/atomicspectra
+:width: 100%
+:align: center
+:alt: Emission spectra of 
+```
 
 You and your partners will view the atomic spectra of several different elements. You will record the characteristic spectrum for each element. Using the periodic table and your observations, you and your lab partners will get some understanding of the role of electron energy levels in creating atomic spectra.
 
