@@ -14,6 +14,14 @@ You will find that numerous exercises in this manual will require graphs. Micros
 Data entered as columns in Excel.
 ```
 
+```{figure} ../figures/appH/ExcelDataEntryZoom.png
+:label: fig:appD:exceldatazoom
+:width: 80%
+:align: center
+:alt: A zoomed in view of column data in Excel.
+A zoomed in view of column data in Excel.
+```
+
 Use your mouse to highlight the two columns of data. The horizontal (x-axis) will be the left column. The vertical (y-axis) will be the right column. Be sure you put your data in the spreadsheet so that the correct data is on the correct axis.
 
 **Step 2. Click on "Insert" on the toolbar.**
@@ -45,8 +53,9 @@ A scatter plot of data.
 ```
 
 ** Step 4. Label your graph axes.**
+
 Click on the "Chart Design" Menu.
-```{figure} ../figures/appH/ChartDesignbutton.png
+```{figure} ../figures/appH/ChartDesignButton.png
 :label: fig:appD:chartdesign
 :width: 100%
 :align: center
