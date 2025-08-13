@@ -55,36 +55,40 @@ You and your partners will view the atomic spectra of several different elements
 
 ## Equipment
 
-- 1 ‐ handheld quantitative spectrometer (per student)
+- 1 handheld quantitative spectrometer (per student)
 - 1 small strip of diffraction grating (per student)
 - 1 high‐voltage power supply (per class)
 - 1 set of spark tubes filled with different gases (per class)
 
-#### Predictions/preliminary questions
+## Predictions/preliminary questions
 
-Use the website www.colorado.edu/physics/2000 to help gain some understanding of the topics in this lab. Also check the website www.webelements.com for a periodic table.
+Some useful resources are
+* [Blackbody spectrum simulation](https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html)
+* [Molecules and Light Simulation](https://phet.colorado.edu/sims/html/molecules-and-light/latest/molecules-and-light_all.html)
+* [Periodic Table of Elements](www.webelements.com)
 
 - 1. What are electromagnetic waves? What is electromagnetic radiation?
 - 2. What do we suggest an electron, within an atom, does when the atom produces a certain color in the spectrum?
 - 3. In terms of **electrons** what is a difference between atoms of one element and atoms of another element that produce spectra that are very different? Compare for example an atom with a complex emission spectrum and an atom with a spectrum having only a few lines in its spectrum.
 
-#### Procedure
+## Procedure
 
 You and the rest of the class will observe and record the spectra emitted from a series of different elements. The spectra are your data for this exercise. From your observations, you will get some insight into the role of electron energy levels in creating spectra.
 
-- **1.** The elements you will observe first are gaseous and are contained in spark tubes. The spark tubes will allow us to excite the electrons of these gases. The electrons in a gas can be excited by running an electric current through the gas. The electricity will be supplied by a high‐voltage power supply; it is similar to the equipment that is used in ʺneonʺ signs. A spark tube is placed within an electric circuit, and an electric current is run through the circuit. The gas within the tube is excited, and as a result, light of specific wavelengths is emitted. The lab instructor will handle the spark tubes as they are fragile and involve high voltage.
-- **2.** Instead of using a prism to spread out the emitted light, you will use a spectrometer with a thin piece of plastic called a diffraction grating. It is essentially a plastic slide with a large number of evenly spaced parallel grooves. The grooves are very fine, with 4000 to 8000 lines per centimeter. When you hold the spectrometer in front of your eye, you will see the light from the windows and the overhead lights spread out into a rainbow. The scale indicates the wavelengths of the light you see. To cut out this extraneous light, the shades will be pulled down and the lights turned off.
-- **3.** Your instructor will put spark tubes with different gases in the power supply. **Observe the spectrum of each and record it as accurately as possible. Note the color, brightness, spacing, and number of the lines.**
-- **4.** Before using the spectrometer look at the light from the fluorescent lights and light from the spark tubes using a **diffraction grating that looks like just a piece of plastic.** You should see a spectrum off to one side ‐ in fact, you can probably see a spectrum off to the left and to the right.
-- **5.** To use the blue spectrometer, hold it with the writing up and point the rectangular opening (located on the right side) toward the light source. Look through the eyepiece in the smaller end. There is a note about calibration, on the spectrometer, close to the eyepiece: Point the rectangular opening toward a fluorescent light and rotate the small plastic eyepiece until the green line is aligned with the mark at 546 nm. Then it should be ready to use if you don't adjust the eyepiece any more.
-- **6.** Observe the spectra and try to identify the elements. On your computer desk top open "The Elements Spectra" you can use this program to obtain the spectra of the elements. Click on one of the elements in the periodic table to see the spectrum. The program shows both the absorption spectrum and the emission spectrum that you see looking through the spectrometer. The most noticeable or significant lines in the absorption spectrum are probably the easiest ones for you to see in an emission spectrum.
-- **7.** Your instructor may show you the spectra from the gas tubes using a special spectrometer that can be used to project the spectra on the screen.
-- **8.** Examine a periodic table of the elements. An excellent periodic table can be found online at WebElements (www.webelements.com). **You should also visit the Physics 2000 website www.colorado.edu/physics/2000 . Go to the Science Trek section and read the sections on Electromagnetic Waves, Quantum Atom, and the Periodic Table.** Use this information to help answer the questions in the conclusion.
+1. The elements you will observe first are gaseous and are contained in spark tubes. The spark tubes will allow us to excite the electrons of these gases. The electrons in a gas can be excited by running an electric current through the gas. The electricity will be supplied by a high‐voltage power supply; it is similar to the equipment that is used in ʺneonʺ signs. A spark tube is placed within an electric circuit, and an electric current is run through the circuit. The gas within the tube is excited, and as a result, light of specific wavelengths is emitted. The lab instructor will handle the spark tubes as they are fragile and involve high voltage.
+2. Instead of using a prism to spread out the emitted light, you will use a spectrometer with a thin piece of plastic called a diffraction grating. It is essentially a plastic slide with a large number of evenly spaced parallel grooves. The grooves are very fine, with 4000 to 8000 lines per centimeter. When you hold the spectrometer in front of your eye, you will see the light from the windows and the overhead lights spread out into a rainbow. The scale indicates the wavelengths of the light you see. To cut out this extraneous light, the shades will be pulled down and the lights turned off.
+3. Your instructor will put spark tubes with different gases in the power supply. **Observe the spectrum of each and record it as accurately as possible. Note the color, brightness, spacing, and number of the lines.**
+4. Before using the spectrometer look at the light from the fluorescent lights and light from the spark tubes using a **diffraction grating that looks like just a piece of plastic. You should see a spectrum off to one side ‐ in fact, you can probably see a spectrum off to the left and to the right.
+5. To use the blue spectrometer, hold it with the writing up and point the rectangular opening (located on the right side) toward the light source. Look through the eyepiece in the smaller end. There is a note about calibration, on the spectrometer, close to the eyepiece: Point the rectangular opening toward a fluorescent light and rotate the small plastic eyepiece until the green line is aligned with the mark at 546 nm. Then it should be ready to use if you don't adjust the eyepiece any more.
+6. Observe the spectra and try to identify the elements. On your computer desk top open "The Elements Spectra" you can use this program to obtain the spectra of the elements. Click on one of the elements in the periodic table to see the spectrum. The program shows both the absorption spectrum and the emission spectrum that you see looking through the spectrometer. The most noticeable or significant lines in the absorption spectrum are probably the easiest ones for you to see in an emission spectrum.
+7. Your instructor may show you the spectra from the gas tubes using a special spectrometer that can be used to project the spectra on the screen.
+8. Examine a periodic table of the elements. An excellent periodic table can be found online at WebElements (www.webelements.com). **You should also visit the Physics 2000 website www.colorado.edu/physics/2000 . Go to the Science Trek section and read the sections on Electromagnetic Waves, Quantum Atom, and the Periodic Table.** Use this information to help answer the questions in the conclusion.
 
-#### Conclusions
+## Conclusions
 
-- 1. a) Describe why light emitted by a particular *electron* would have only a *specific* set of energies.
-  - b) Which of the elements had the fewest spectral lines? Which element had the most?
-    - c) What causes the complexity of the spectra? Explain in detail. (Remember that if there are more protons in the nucleus of an atom, there are more electrons and therefore more available levels for the electrons to populate.)
-- 2. The equipment used in this exercise is very similar to that used in ʺneonʺ signs. Use your knowledge of atomic theory and explain how you think all of the different colors in ʺneonʺ signs are made ‐‐ feel free to look up more information on the web to answer this one.
-- 3. Identification of elements by spectra lines is often employed in environmental science. In particular, it is used in the fields of environmental contaminants, atmospheric chemistry, hydrology, waste management, soil chemistry, and various others. In addition, it used by other scientists. For instance, astronomers use spectra to investigate stars, and geologists use them to investigate microscopic variations in minerals. Can you think of some other applications of atomic spectra? Explain your answers.
+1. 
+	* a) Describe why light emitted by a particular *electron* would have only a *specific* set of energies.
+	* b) Which of the elements had the fewest spectral lines? Which element had the most?
+	* c) What causes the complexity of the spectra? Explain in detail. (Remember that if there are more protons in the nucleus of an atom, there are more electrons and therefore more available levels for the electrons to populate.)
+2. The equipment used in this exercise is very similar to that used in ʺneonʺ signs. Use your knowledge of atomic theory and explain how you think all of the different colors in ʺneonʺ signs are made ‐‐ feel free to look up more information on the web to answer this one.
+3. Identification of elements by spectra lines is often employed in environmental science. In particular, it is used in the fields of environmental contaminants, atmospheric chemistry, hydrology, waste management, soil chemistry, and various others. In addition, it used by other scientists. For instance, astronomers use spectra to investigate stars, and geologists use them to investigate microscopic variations in minerals. Can you think of some other applications of atomic spectra? Explain your answers.
