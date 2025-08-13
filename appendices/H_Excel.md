@@ -52,7 +52,7 @@ The graph will be created.
 A scatter plot of data.
 ```
 
-** Step 4. Label your graph axes.**
+**Step 4. Label your graph axes.**
 
 Click on the "Chart Design" Menu.
 ```{figure} ../figures/appH/ChartDesignButton.png
@@ -102,4 +102,14 @@ Select the "More Options..." menu from the "Add Trendline" menu. Scroll to the b
 :align: center
 :alt: A graph with a linear trendline and the equation of the trendline that best fits to your data.
 A graph with a linear trendline and the equation of the trendline that best fits to your data.
+```
+
+A finished graph will look something like the following where there is data, axis labels, a trendline, and a trendline equation.
+
+```{figure} ../figures/appH/GraphwTrendEqn.png
+:label: fig:appD:graphtrendeqn
+:width: 100%
+:align: center
+:alt: A complete graph with a linear trendline and the equation of the trendline that best fits to your data.
+A complete graph with a linear trendline and the equation of the trendline that best fits to your data.
 ```
