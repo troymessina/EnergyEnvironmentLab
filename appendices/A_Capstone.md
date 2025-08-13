@@ -7,7 +7,7 @@ Generally, your instructor or TAs will set up Capstone before lab. If you are se
 
 Capstone can collect data from multiple sensors.
 
-```{figure} ../figures/appA/_page_72_Picture_9.jpeg
+```{figure} ../figures/appA/CapstoneData.png
 :label: fig:appA:capstoneinterface
 :width: 100%
 :align: center
