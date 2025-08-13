@@ -22,8 +22,7 @@ project:
     - title: Appendices
       children:
         - file: ./appendices/A_Capstone.md
-        - file: ./appendices/B_LabPro.md
-        - file: ./appendices/C_motion_detector.md
+        - file: ./appendices/B_motion_detector.md
         - file: ./appendices/D_voltage_probe.md
         - file: ./appendices/E_microphone.md
         - file: ./appendices/F_energy_transfer_generator.md

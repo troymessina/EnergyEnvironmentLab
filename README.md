@@ -32,9 +32,8 @@ This lab manual is open-access and can be found at https://github.com/troymessin
 
 **Appendices**
 
-* [Appendix A - Logger Pro Interface](https://troymessina.github.io/EnergyEnvironmentLab/a-capstone)
-* [Appendix B - Lab Pro Software](https://troymessina.github.io/EnergyEnvironmentLab/b-labpro)
-* [Appendix C - Motion Detector](https://troymessina.github.io/EnergyEnvironmentLab/c-motion-detector)
+* [Appendix A - Capstone Software](https://troymessina.github.io/EnergyEnvironmentLab/a-capstone)
+* [Appendix B - Motion Detector](https://troymessina.github.io/EnergyEnvironmentLab/b-motion-detector)
 * [Appendix D - Voltage Probe](https://troymessina.github.io/EnergyEnvironmentLab/d-voltage-probe)
 * [Appendix E - Microphone](https://troymessina.github.io/EnergyEnvironmentLab/e-microphone)
 * [Appendix F - Energy Transfer Generator](https://troymessina.github.io/EnergyEnvironmentLab/f-energy-transfer-generator)
