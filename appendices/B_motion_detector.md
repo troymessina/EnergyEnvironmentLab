@@ -3,9 +3,13 @@
 
 The Motion Detector is used to collect position, velocity and acceleration data of moving objects. Students can study a variety of motions with the Motion Detector.
 
-![](../figures/_page_84_Figure_2.jpeg)
-
-This is a sample of motion data collected with Capstone and a computer.
+```{figure} ../figures/appB/MotionGraph.png
+:label: fig:appA:MotionGraph
+:width: 100%
+:align: center
+:alt: A graph of data collected for an object tossed upward and falling back down.
+A graph of data collected for an object tossed upward and falling back down.
+```
 
 # How the Motion Detector Works
 
@@ -23,10 +27,3 @@ Note that the Motion Detector will report the distance to the closest object tha
 
 The Motion Detector is connected to the computer by bluetooth. 
 
-```{figure} ../figures/appA/MotionGraph.png
-:label: fig:appA:MotionGraph
-:width: 100%
-:align: center
-:alt: A graph of data collected for an object tossed upward and falling back down.
-A graph of data collected for an object tossed upward and falling back down.
-```

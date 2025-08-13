@@ -34,12 +34,12 @@ This lab manual is open-access and can be found at https://github.com/troymessin
 
 * [Appendix A - Capstone Software](https://troymessina.github.io/EnergyEnvironmentLab/a-capstone)
 * [Appendix B - Motion Detector](https://troymessina.github.io/EnergyEnvironmentLab/b-motion-detector)
-* [Appendix D - Voltage Probe](https://troymessina.github.io/EnergyEnvironmentLab/d-voltage-probe)
-* [Appendix E - Microphone](https://troymessina.github.io/EnergyEnvironmentLab/e-microphone)
-* [Appendix F - Energy Transfer Generator](https://troymessina.github.io/EnergyEnvironmentLab/f-energy-transfer-generator)
-* [Appendix G - The Digital Multimeter (DMM)](https://troymessina.github.io/EnergyEnvironmentLab/g-dmm)
-* [Appendix H - Graphing with Microsoft Excel](https://troymessina.github.io/EnergyEnvironmentLab/h-excel)
-* [Appendix I - Graphed Proportions](https://troymessina.github.io/EnergyEnvironmentLab/i-models)
+* [Appendix C - Voltage Probe](https://troymessina.github.io/EnergyEnvironmentLab/d-voltage-probe)
+* [Appendix D - Microphone](https://troymessina.github.io/EnergyEnvironmentLab/e-microphone)
+* [Appendix E - Energy Transfer Generator](https://troymessina.github.io/EnergyEnvironmentLab/f-energy-transfer-generator)
+* [Appendix F - The Digital Multimeter (DMM)](https://troymessina.github.io/EnergyEnvironmentLab/g-dmm)
+* [Appendix G - Graphing with Microsoft Excel](https://troymessina.github.io/EnergyEnvironmentLab/h-excel)
+* [Appendix H - Graphed Proportions](https://troymessina.github.io/EnergyEnvironmentLab/i-models)
 
 # License
 This work is licenced under [Creative Commons Non-Commercial, ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/).
