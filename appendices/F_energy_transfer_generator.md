@@ -28,8 +28,8 @@ The Pasco ET-Generator with relevant parts labeled.
 ```
 
 3. To attach the pulley, align the indent marks on the pulley with the indented portion of the black shaft on the generator; then slide the pulley onto the shaft. Fasten the nut tight over the screw to hold the pulley in place.
-4. Cut a small piece of no-bounce foam, and place the foam underneath the hanging mass (Figure 1b).
-5. Cut a piece of string to tie to the hanging mass and pulley (Figure 1b).
+4. Cut a small piece of no-bounce foam, and place the foam underneath the hanging mass.
+5. Cut a piece of string to tie to the hanging mass and pulley.
 6. Tie a double knot in the string and hook
 
 the knot in the slot on the pulley.
@@ -48,7 +48,7 @@ the knot in the slot on the pulley.
 
 1. Attach the ET-Hydro Accessory housing to the molded case of the ET-Generator using the two captured screws and the supplied screwdriver ([](#fig:appF:hydroadapter))
 
-```{figure} ../figures/appF/../figures/appF/_page_91_Picture_10.jpeg
+```{figure} ../figures/appF/_page_91_Picture_10.jpeg
 :label: fig:appF:hydroadapter
 :width: 100%
 :align: center
@@ -61,7 +61,7 @@ The Pasco hydro ehergy accessory.
 4. Connect the nozzle to a piece of tubing connected to an external water supply. **Note:**  Have a beaker or container below the housing to collect water exiting the turbine.
 5. Run the water supply through the nozzle of the turbine and watch the turbine spin. **Note:** To collect data, insert the 100 ohm resistor plug into the banana jacks, connect banana plugs from a Voltage Probe into the resistor plug, and click the **Start** button in Capstone. when water is running through.
 
-```{figure} ../figures/appF/../figures/appF/hydroaccessory.png
+```{figure} ../figures/appF/hydroaccessory.png
 :label: fig:appF:hydroaccessorytube
 :width: 100%
 :align: center
