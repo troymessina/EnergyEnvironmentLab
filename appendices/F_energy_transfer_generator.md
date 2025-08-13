@@ -10,7 +10,7 @@ Used for demonstrating the conversion of stored gravitational potential energy i
 # Attaching a Pulley with Hanging Mass to the ET-Generator
 
 1. Use the rod clamp on the side of the ET-Generator to mount the generator to a rod stand.
-2. Insert the LED plug into the jacks on the generator [](#fig:appF:Generator).
+2. Insert the LED plug into the jacks on the generator [](#fig:appF:Generator) and [](#fig:appF:GeneratorParts).
 
 ```{figure} ../figures/appF/Pascogenerator.svg
 :label: fig:appF:Generator
@@ -19,9 +19,16 @@ Used for demonstrating the conversion of stored gravitational potential energy i
 :alt: The Pasco ET-Generator with relevant parts labeled.
 The Pasco ET-Generator with relevant parts labeled.
 ```
+```{figure} ../figures/appF/Pascogenparts.svg
+:label: fig:appF:GeneratorParts
+:width: 100%
+:align: center
+:alt: The Pasco ET-Generator with relevant parts labeled.
+The Pasco ET-Generator with relevant parts labeled.
+```
 
 3. To attach the pulley, align the indent marks on the pulley with the indented portion of the black shaft on the generator; then slide the pulley onto the shaft. Fasten the nut tight over the screw to hold the pulley in place.
-4. Cut a small piece of no‐bounce foam, and place the foam underneath the hanging mass (Figure 1b).
+4. Cut a small piece of no-bounce foam, and place the foam underneath the hanging mass (Figure 1b).
 5. Cut a piece of string to tie to the hanging mass and pulley (Figure 1b).
 6. Tie a double knot in the string and hook
 
@@ -39,24 +46,36 @@ the knot in the slot on the pulley.
 
 # Attaching the ET-Hydro Accessory (ET-8772) to the ET-Generator
 
-1. Attach the ET-Hydro Accessory housing to the molded case of the ET-Generator using the two captured screws and the supplied screwdriver (Figures 6-7)
+1. Attach the ET-Hydro Accessory housing to the molded case of the ET-Generator using the two captured screws and the supplied screwdriver ([](#fig:appF:hydroadapter))
 
-![](../figures/_page_91_Picture_10.jpeg)
+```{figure} ../figures/appF/../figures/appF/_page_91_Picture_10.jpeg
+:label: fig:appF:hydroadapter
+:width: 100%
+:align: center
+:alt: The Pasco hydro ehergy accessory.
+The Pasco hydro ehergy accessory.
+```
 
 2. Attach the turbine blade and tighten the standoff nut over the shaft screw. Keep your fingers in the recess of the housing and hold the shaft to keep the turbine from spinning (Figure 7a).
 3. Insert the pointed end of a plastic nozzle into the spring clip underneath the housing (Figure 7a). **Note:** The clip is spring-loaded and can turn to adjust where the water stream hits the turbine. To increase the water flow, cut (trim) the nozzle end.
 4. Connect the nozzle to a piece of tubing connected to an external water supply. **Note:**  Have a beaker or container below the housing to collect water exiting the turbine.
 5. Run the water supply through the nozzle of the turbine and watch the turbine spin. **Note:** To collect data, insert the 100 ohm resistor plug into the banana jacks, connect banana plugs from a Voltage Probe into the resistor plug, and click the **Start** button in Capstone. when water is running through.
 
-![](../figures/_page_92_Picture_1.jpeg)
+```{figure} ../figures/appF/../figures/appF/hydroaccessory.png
+:label: fig:appF:hydroaccessorytube
+:width: 100%
+:align: center
+:alt: The Pasco hydro ehergy accessory with tube attached.
+The Pasco hydro ehergy accessory with tube attached.
+```
 
 #### Sample Results
 
 a) This graph is of average power, and for each turn of the magnet, it shows the average power generated for that small time. The area under the curve is energy (notice almost the same value as the energy for instantaneous power) but should be easier to comprehend for the beginner.
 
-![](../figures/_page_92_Figure_4.jpeg)
+![](../figures/appF/_page_92_Figure_4.jpeg)
 
 b) The graph below is the actual instantaneous power, and the area under the curve is energy. For beginning students, this graph would be hard to understand. They might ask, why is it going up and down?
 
-![](../figures/_page_92_Figure_6.jpeg)
+![](../figures/appF/_page_92_Figure_6.jpeg)
 
