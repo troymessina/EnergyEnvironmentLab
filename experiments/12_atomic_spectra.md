@@ -43,12 +43,12 @@ Just as materials which are emitting electromagnetic energy do so only at certai
 ## Examples of Atomic Spectra
 We show some characteristic emission spectra of gases of atoms of the periodic table in [](#fig:lab12:atomicspecra).
 
-```{figure} ../figures/lab12/_page_60_Figure_2.jpeg
+```{figure} ../figures/lab12/atomicspectra.png
 :label: fig:lab12:atomicspectra
 :width: 100%
 :align: center
-:alt: Emission spectra of lithium, beryllium, sulfur, and potassium.
-Emission spectra of lithium, beryllium, sulfur, and potassium.
+:alt: Emission spectra of hydrogen, helium, neon, sodium, and mercury.
+Emission spectra of hydrogen, helium, neon, sodium, and mercury.
 ```
 
 You and your partners will view the atomic spectra of several different elements. You will record the characteristic spectrum for each element. Using the periodic table and your observations, you and your lab partners will get some understanding of the role of electron energy levels in creating atomic spectra.
