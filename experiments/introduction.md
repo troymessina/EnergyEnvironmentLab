@@ -1,3 +1,8 @@
+(introduction)=
+# Introduction
+
+![AI created image of a sustainable world](../figures/IntroImage.png)
+
 | [Introduction](#introduction) |                                                   |
 |:------------------------------|:--------------------------------------------------|
 |    [Lab 1](#lab1)             | Velocity and Acceleration                         |
@@ -24,8 +29,6 @@
 |    [Appendix G](#appG)        | The Digital Multimeter (DMM)<br>                  |
 |    [Appendix H](#appH)        | Graphing with Microsoft Excel                     |
 
-(introduction)=
-# Introduction
 
 ## Acknowledgements
 
