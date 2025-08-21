@@ -5,7 +5,7 @@ project:
     - file: ./experiments/introduction.md
     - title: Experiments
       children:
-         - file: ./experiments/00_motion_graphs.md
+        - file: ./experiments/00_motion_graphs.md
         - file: ./experiments/01_velocity_acceleration.md
         - file: ./experiments/02_newtons2nd.md
         - file: ./experiments/03_Econservation.md

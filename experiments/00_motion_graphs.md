@@ -1,7 +1,14 @@
 (lab0)=
 # Lab 0 - Motion Graphs
 
-PASCO motion sensors work by emitting sound waves (“blips”) that reflect off of surfaces – a cart or whiteboard, for example – and return to the emitter. The time delay between the emission and detection of blips, using known information about the speed of sound in air (~340 m/s), is used to compute a distance from the sensor.
+PASCO motion sensors ([](#fig:lab0:motionsensor) work by emitting sound waves (“blips”) that reflect off of surfaces – a cart or whiteboard, for example – and return to the emitter. The time delay between the emission and detection of blips, using known information about the speed of sound in air (~340 m/s), is used to compute a distance from the sensor.
+```{figure} ../figures/lab0/motion_sensor.png
+:label: fig:lab0:motionsensor
+:width: 100%
+:align: center
+:alt: The Pasco wireless motion sensor.
+The Pasco wireless motion sensor.
+```
 
 ## Introduction
 
@@ -9,7 +16,7 @@ We will be using graphical information to understand lots of different phenomena
 
 ## Procedure
 1. Open the MatchGraph program. 
-2. Connect the motion sensor to the data collection system. See [](#fig:lab0:choose) and [](#fig:lab0:device). Set the motion sensor on a table or chair so that the round screen is at the height of your waist. Adjust the height by placing books under the sensor.
+2. Connect the motion sensor to the data collection system. See [](#fig:lab0:choose), [](#fig:lab0:device), and [](#fig:lab0:motionsensornumber). Choose the sensor that has the same number as your actual motion sensor. Set the motion sensor on a table or chair so that the round screen is at the height of your waist. Adjust the height by placing books under the sensor.
 
 ```{figure} ../figures/lab0/choose_sensor.png
 :label: fig:lab0:choose
@@ -25,6 +32,14 @@ Click the "choose interface" button to find your motion sensor.
 :align: center
 :alt: Select the motion sensor with the same number as the the motion sensor you have.
 Select the motion sensor with the same number as the the motion sensor you have.
+```
+
+```{figure} ../figures/lab0/motion_sensor_number.png
+:label: fig:lab0:motionsensornumber
+:width: 100%
+:align: center
+:alt: The Pasco wireless motion sensor has a unigue number identifier.
+The Pasco wireless motion sensor has a unigue number identifier.
 ```
 
 3. Clear an area in front of the motion sensor so you can walk back and forth for three or four meters while facing the sensor’s metal screen.
