@@ -11,7 +11,7 @@ This lab manual is a conversion to markdown from the [University of Minnesota Ph
 
 This lab manual is open-access and can be found at https://github.com/troymessina/EnergyEnvironmentLab. The following chapters are included in the textbook:
 
-0. [Introduction](https://troymessina.github.io/EnergyEnvironmentLab/)
+[Introduction](https://troymessina.github.io/EnergyEnvironmentLab/)
 
 **Labs**
 
