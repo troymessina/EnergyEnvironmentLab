@@ -5,6 +5,7 @@
 
 | [Introduction](#introduction) |                                                   |
 |:------------------------------|:--------------------------------------------------|
+|    [Lab 0](#lab0)             | Motion Graphs                                     |
 |    [Lab 1](#lab1)             | Velocity and Acceleration                         |
 |    [Lab 2](#lab2)             | Velocity, Acceleration and Newton's Second Law    |
 |    [Lab 3](#lab3)             | Conservation of Energy                            |

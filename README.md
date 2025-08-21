@@ -15,6 +15,7 @@ This lab manual is open-access and can be found at https://github.com/troymessin
 
 **Labs**
 
+1. [Lab 0 - Motion Graphs](https://troymessina.github.io/EnergyEnvironmentLab/motion-graphs)
 1. [Lab 1 - Velocity and Acceleration](https://troymessina.github.io/EnergyEnvironmentLab/velocity-acceleration)
 2. [Lab 2 - Velocity, Acceleration and Newton's Second Law](https://troymessina.github.io/EnergyEnvironmentLab/newtons2nd)
 3. [Lab 3 - Conservation of Energy](https://troymessina.github.io/EnergyEnvironmentLab/econservation)
