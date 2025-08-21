@@ -60,15 +60,15 @@ Click the "start sampling" button.
 
 |    Graph profile                 | Score   | Description |
 |----------------------------------|---------|-------------|
-|1. ![](#../figures/lab0/graph1.png|         |             |
-|2. ![](#../figures/lab0/graph2.png|         |             |
-|3. ![](#../figures/lab0/graph3.png|         |             |
-|4. ![](#../figures/lab0/graph4.png|         |             |
-|5. ![](#../figures/lab0/graph5.png|         |             |
-|6. ![](#../figures/lab0/graph6.png|         |             |
-|7. ![](#../figures/lab0/graph7.png|         |             |
-|8. ![](#../figures/lab0/graph8.png|         |             |
-|9. ![](#../figures/lab0/graph9.png|         |             |
+|1. ![](../figures/lab0/graph1.png|         |             |
+|2. ![](../figures/lab0/graph2.png|         |             |
+|3. ![](../figures/lab0/graph3.png|         |             |
+|4. ![](../figures/lab0/graph4.png|         |             |
+|5. ![](../figures/lab0/graph5.png|         |             |
+|6. ![](../figures/lab0/graph6.png|         |             |
+|7. ![](../figures/lab0/graph7.png|         |             |
+|8. ![](../figures/lab0/graph8.png|         |             |
+|9. ![](../figures/lab0/graph9.png|         |             |
 
 ## Conclusions
 
