@@ -66,7 +66,7 @@ Use a low friction PASCO cart. Raise one end of the aluminum track to make the i
 (sec:lab2:part2)=
 ### Part 2: tension and level track
 
-Remove the block from under the track. Attach a string to the cart, hang it over a pulley, and tie a mass hanger with masses to the other end. Now the cart is free to move in the horizontal direction, and the only unbalanced force on it is the tension in the string from the weight hanging off the end. You and your partners will find the cart's acceleration due to this tension.
+Level the track such that the cart can be put anywhere on the track, and it does not move. Attach a string to the cart, hang it over a pulley, and tie a mass to the other end (This mass is labeled "A" in [](#fig:lab2:cartpull)). Now the cart is free to move in the horizontal direction, and the only unbalanced force on it is the tension in the string from the weight hanging off the end. You and your partners will find the cart's acceleration due to this tension.
 
 ```{figure} ../figures/lab2/_page_12_Figure_16.jpeg
 :label: fig:lab2:cartpull
@@ -77,35 +77,32 @@ Cart on a level track pulled by a mass falling due to gravity.
 ```
 
 1. Using the computer and motion sensor:
-  * a) Obtain a distance vs. time graph for the cart accelerating (before the mass hits the floor.)
-  * b) Obtain a velocity vs. time graph for the cart.
-  * c) How can you obtain the acceleration for the cart from the velocity vs. time graph?
-  * d) What is the acceleration?
-  * e) Is the acceleration increasing, decreasing, or constant? How can you tell?
-2. Now add additional mass to the cart. Repeat your data collection with the more massive cart in order to calculate its acceleration. What is the acceleration of the more massive cart? How does it compare to the earlier acceleration? If you assume that the tension in the string is the
-
-same in the two experiments, what does Newtonʹs second law tell you about what how the two measured accelerations should be related?
+	* a) Obtain a distance vs. time graph for the cart accelerating (before the hanging mass hits the floor.)
+	* b) Obtain a velocity vs. time graph for the cart.
+	* c) How can you obtain the acceleration for the cart from the velocity vs. time graph?
+	* d) What is the acceleration?
+	* e) Is the acceleration increasing, decreasing, or constant? How can you tell?
+2. Now add additional 250 g of mass to the cart. Repeat your data collection with the more massive cart in order to calculate its acceleration. What is the acceleration of the more massive cart? How does it compare to the earlier acceleration? If you assume that the tension in the string is the same in the two experiments, what does Newtonʹs second law tell you about what how the two measured accelerations should be related?
 
 ## Conclusions
 
-1. a) Did the low‐friction cart in Part I accelerate as it moved down the incline? How do you know? b) Was the acceleration of the more massive cart greater than, less than, or equal to the acceleration of the cart with no additional mass?
+1. 
+	* a) Did the low-friction cart in [Part 1](#sec:lab2:part1) accelerate as it moved down the incline? How do you know? 
+	* b) Was the acceleration of the more massive cart greater than, less than, or equal to the acceleration of the cart with no additional mass?
+	* c) When more mass was added to the cart, did the total force on the cart change? Did the acceleration change? Explain how your observations do or do not agree with Newton's second law of motion.
 
-c) When more **mass** was added to the cart, did the total **force** on the cart change? Did the **acceleration** change? Explain how your observations do or do not agree with Newton's second law of motion.
+2.
+	* a) Did the low‐friction cart in [Part 2](#sec:lab2:part2) accelerate as it moved down the incline? How do you know?
+	* b) Was the acceleration of the more massive cart greater than, less than, or equal to the acceleration of the cart with no additional mass?
+	* c) When more mass was added to the cart, did the total force on the cart change? Did the acceleration change? Explain how your observations do or do not agree with Newton's second law of motion.
 
-2. a) Did the low‐friction cart in Part II accelerate as it moved down the incline? How do you know?
-
-b) Was the acceleration of the more massive cart greater than, less than, or equal to the acceleration of the cart with no additional mass?
-
-c) When more **mass** was added to the cart, did the total **force** on the cart change? Did the **acceleration** change? Explain how your observations do or do not agree with Newton's second law of motion.
-
-3. a) Compare what happened to the **acceleration** in Part I and Part II when more mass was added to the cart (refer to your answers for questions 1b and 2b.)
-
-b) Compare what happened to the **force** in Part I and Part II when more mass was added to the cart.
-
-c) If there are differences between Parts I and II, what are they? If there are no differences, how are these trials the same?
+3.
+	* a) Compare what happened to the acceleration in Part I and Part II when more mass was added to the cart (refer to your answers for questions 1b and 2b.)
+	* b) Compare what happened to the force in Part I and Part II when more mass was added to the cart.
+	* c) If there are differences between Parts I and II, what are they? If there are no differences, how are these trials the same?
 
 Newtonʹs second law of motion is one of the most fundamental relationships of all physics. Together with conservation of energy, it forms the basis of all Newtonian physics. It is hard to exaggerate the importance of Newtonʹs second law when it can be applied in a wide range of topics, from projectile motion to electromagnetic fields. It was the concept of force that was essential to the development of mechanics and all physics. Be certain you can identify the specific forces acting in both parts of this laboratory.
 
 ## Historical notes
 
-You should not be embarrassed if you find it a little tricky to sort out what is happening in the motion of these simple objects. Though the concepts of acceleration, velocity, force and Newtonʹs second law are quite simple to state, very intelligent people studied these questions for thousands of years before finally getting them right. For example early (more than 2500 years ago) Greek natural philosophers, such as Thales, Anaximander, and Anaximenes, thought that motion was eternal and somehow contained ʺinsideʺ all things. Aristotle, who wrote a book called ʹPhysicsʹ that was widely used in Europe during the Middle Ages, thought that rest is the natural condition of objects and that there are two types of motion ‐‐ ʺnatural motionʺ is due to an objectʹs natural tendency towards its proper place where it then rests, and ʺunnatural motionʺ is caused by something other than the object itself. It was not until the work of Galileo, who died about 360 years ago, that forces and acceleration started to be correctly understood. A major difference between Galileo and his predecessors is that Galileo did not just think about motion. He did experiments much like the ones you have done in this laboratory.
+You should not be embarrassed if you find it a little tricky to sort out what is happening in the motion of these simple objects. Though the concepts of acceleration, velocity, force and Newtonʹs second law are quite simple to state, very intelligent people studied these questions for thousands of years before finally getting them right. For example early (more than 2500 years ago) Greek natural philosophers, such as Thales, Anaximander, and Anaximenes, thought that motion was eternal and somehow contained ʺinsideʺ all things. Aristotle, who wrote a book called ʹPhysicsʹ that was widely used in Europe during the Middle Ages, thought that rest is the natural condition of objects and that there are two types of motion ‐‐ ʺnatural motionʺ is due to an objectʹs natural tendency towards its proper place where it then rests, and ʺunnatural motionʺ is caused by something other than the object itself. At a similar time (900s AD), Ibn al-Haytham developed models of inertia and motion that were close to Newton's first and second laws. It was not until the work of Galileo, who died about 360 years ago, that forces and acceleration started to be correctly understood. A major difference between Galileo and his predecessors is that Galileo did not just think about motion. He did experiments much like the ones you have done in this laboratory.
