@@ -41,13 +41,14 @@ Textbook Chapter 5.2 on Dynamics
 2. Sketch a graph of velocity vs. time for a low friction cart that is moving down an incline.
 3. On the same graph as question #2, sketch a graph of velocity vs time for a cart that is about twice as heavy and is moving on the same incline as the cart in question #2.
 	* You are welcome to test your prediction if you'd like.
-4. Sketch a graph of velocity vs. time for a cart moving on a horizontal track being pulled by a weight that is connected by a string over a pulley. (See the sketch in Part III.)
+4. Sketch a graph of velocity vs. time for a cart moving on a horizontal track being pulled by a weight that is connected by a string over a pulley. (See [](#fig:lab2:cartpull).)
 5. Sketch a graph of velocity vs. time for the same cart with extra mass attached (so the total mass of the cart and added mass is about twice the mass of the cart alone). The cart with extra mass is being pulled by the same weight as in question #4. Put the sketch on the same graph as question #4.
 
 ## Procedure
 
-There are two situations. The first involves an inclined track (part I below), and the second involves a level track with a hanging mass pulling the cart (part II below.) In both exercises below, mass will be added to the low‐friction cart for an additional trial.
+There are two situations. The first involves an inclined track ([Part 1](#sec:lab2:part1)), and the second involves a level track with a hanging mass pulling the cart ([Part 2](#sec:lab2:part2)) In both exercises below, mass will be added to the low‐friction cart for an additional trial.
 
+(sec:lab2:part1)=
 ### Part 1: inclined track, cart
 
 Use a low friction PASCO cart – not the battery toy car. Put a wood block under the aluminum track to make the incline.
@@ -62,6 +63,7 @@ Use a low friction PASCO cart – not the battery toy car. Put a wood block unde
   * e) Is the acceleration increasing, decreasing, or constant? How can you tell?
 4. Now add some mass to the cart. Record the approximate mass of the cart and the approximate mass that you add to the cart. Repeat step #3. How does the acceleration this time compare with the acceleration without extra mass? Explain your results.
 
+(sec:lab2:part2)=
 ### Part 2: tension and level track
 
 Remove the block from under the track. Attach a string to the cart, hang it over a pulley, and tie a mass hanger with masses to the other end. Now the cart is free to move in the horizontal direction, and the only unbalanced force on it is the tension in the string from the weight hanging off the end. You and your partners will find the cart's acceleration due to this tension.
