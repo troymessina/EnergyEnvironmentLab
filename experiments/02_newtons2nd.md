@@ -3,21 +3,19 @@
 
 Now that you have some familiarity with velocity and acceleration, we can introduce the idea of the total force on an object which is in motion. The action of forces is the means by which energy is transferred between objects so it will be very important for our later discussions. We start with a situation in which there is very little friction impeding the motion of the object. For example consider ice skating. Suppose you are standing at the edge of a skating rink and give your little brother (weighs 50 pounds, on skates) a push while holding on to the rail. He goes flying off at some speed. Now suppose you give your sister (100 pounds) an identical push. It turns out that if you measure the final speed of both family members, the little brother will be going twice as fast. We say for a given force on the object (the push which you gave) the acceleration is less if the object has more mass.
 
-$$\text{acceleration~resulting~from~a~force~=~(total~force~on~the~object)/(mass~of~the~object)}$$
+$$\text{acceleration~from~a~force~=~(total~force~on~the~object)/(mass~of~the~object)}$$
 
-Here we write mass instead of weight. Mass is closely related to weight but it is not quite the same. In the example, the mass or the brother and sister is proportional to the weight. To make a determination of the mass of an object, the most conceptually straight forward way is to use a set of standard masses and a balance. The mass of the object is then the amount of standard mass required for balancing the mass of the object.
+Here we write mass instead of weight. Mass is closely related to weight but it is not quite the same. In the example, the mass of the brother and sister is proportional to the weight. To make a determination of the mass of an object, the most conceptually straight forward way is to use a set of standard masses and a balance. The mass of the object is then the amount of standard mass required for balancing the mass of the object.
 
-Now if you look at the word equation above you see that you know how to measure acceleration (from last weekʹs discussion) and we just discussed how to measure mass, so the only thing left in the equation is the total force. So you can turn the equation around by multiplying by mass to solve for the total force:
+Now if you look at the word equation above you see that you know how to measure acceleration (from last weekʹs experiments) and we just discussed how to measure mass, so the only thing left in the equation is the total force. So you can turn the equation around by multiplying by mass to solve for the total force:
 
-$$\text{total~force~on~the~object~=~(mass~of~the~object)x(acceleration~resulting~from~the~force)}$$
+$$\text{total~force~on~the~object~=~(mass~of~the~object)x(acceleration~from~total~force)}$$
 
-This famous equation, often written F=ma, is Newtonʹs second law of motion. So far it basically just defines what we mean by the total force on an object. It becomes useful if we have some additional information about the force. For example consider an object dropped so that it falls straight down. You probably heard that Galileo made experiments with dropping objects and found out that massive balls falling from the top of the leaning tower of Pisa hit the ground at the same time as much less massive ones dropped at the same time. This is interpreted to mean that the acceleration of the balls is the same whether they have a lot of mass or a little mass. But now look at the equation F=ma . The only way it can be true in the case of the falling objects is if the gravitational force on a falling object increases with its mass. Suppose that is true, say that F=mg where g is some constant acceleration due to gravity. Substituting this back in Newtonʹs second law we get
+This famous equation, often written $F=ma$, is Newtonʹs second law of motion. So far it basically just defines what we mean by the total force on an object. It becomes useful if we have some additional information about the force. For example consider an object dropped so that it falls straight down. You probably heard that Galileo made experiments with dropping objects and found out that massive balls falling from the top of the leaning tower of Pisa hit the ground at the same time as much less massive ones dropped at the same time. This is interpreted to mean that the acceleration of the balls is the same whether they have a lot of mass or a little mass. But now look at the equation $F=ma$. The only way it can be true in the case of the falling objects is if the gravitational force on a falling object increases with its mass. Suppose that is true, say that $F=mg$ where $g$ is some constant acceleration due to gravity. Substituting this back in Newtonʹs second law we get
 
 $$F=mg =ma$$
 
-so a=g, that is the acceleration of falling objects is independent of mass, as Galileo(and many others) observed. So from Newtonʹs second law plus an experiment we learned something about gravitational forces, namely that they are proportional to the mass in the moving object. But not all forces in nature have this property of being proportional to the mass in the object. For example the push that you give your sister or brother is not a gravitational force. It is generated by your muscles and which act through what are called electromagnetic forces in physics. That is why, when you push them, the little brother ends up going faster than the sister, but if you dropped them off a bridge (of course you wouldnʹt do that) they would both accelerate the same amount. Most of the time in this course, the forces we consider will be gravitational or electromagnetic in origin. These
-
-are two of the four main categories of force known to physicists. At the end of the course we will consider a third kind of nuclear force.
+so $a=g$, that is the acceleration of falling objects is independent of mass, as Galileo(and many others) observed. So from Newtonʹs second law plus an experiment we learned something about gravitational forces, namely that they are proportional to the mass in the moving object. But not all forces in nature have this property of being proportional to the mass in the object. For example the push that you give your sister or brother is not a gravitational force. It is generated by your muscles and which act through what are called electromagnetic forces in physics. That is why, when you push them, the little brother ends up going faster than the sister, but if you dropped them off a bridge (of course you wouldnʹt do that) they would both accelerate the same amount. Most of the time in this course, the forces we consider will be gravitational or electromagnetic in origin. These are two of the four main categories of force known to physicists. At the end of the course we will consider another one dsof the four kinds, nuclear force.
 
 In applying Newtonʹs second law, it is often important to keep in mind that it refers to the total force on an object and that this total can be the combined result of the action of more than one kind of force. Furthermore, these different forces are not always acting in the same direction and can partially or completely cancel each other out. As an example, suppose you hold a book out in front of you over the floor. As you hold it there, it is not accelerating so the total force on it is zero by Newtonʹs second law. But the force of gravity is pulling down on it and you are pushing up on it with your hand (with a force that is electromagnetic in origin). The two forces are exactly equal in magnitude but opposite in direction and cancel each other exactly as long as the book doesnʹt fall.
 
@@ -30,21 +28,19 @@ Textbook Chapter 5.2 on Dynamics
 ## Equipment
 
 * 1 aluminum track
-* 1 motorized toy car
-* 1 meter stick
+* 1 metric ruler on the track
 * 1 mass hanger
 * 1 mass set
-* 1 wood block
 * 1 low friction PASCO cart
 * 1 piece of string
-* 1 video camera
-* 1 computer /LapPro interface and Motion sensor w/Capstone
+* 1 computer with Capstone
 
 ## Predictions/preliminary questions
 
-1. Sketch a graph of velocity vs. time for a toy car or cart used in lab, moving with a constant velocity.
-2. Sketch a graph of velocity vs. time for a low friction cart that is moving down an incline..
+1. Sketch a graph of velocity vs. time for a cart used in lab, moving with a constant velocity.
+2. Sketch a graph of velocity vs. time for a low friction cart that is moving down an incline.
 3. On the same graph as question #2, sketch a graph of velocity vs time for a cart that is about twice as heavy and is moving on the same incline as the cart in question #2.
+	* You are welcome to test your prediction if you'd like.
 4. Sketch a graph of velocity vs. time for a cart moving on a horizontal track being pulled by a weight that is connected by a string over a pulley. (See the sketch in Part III.)
 5. Sketch a graph of velocity vs. time for the same cart with extra mass attached (so the total mass of the cart and added mass is about twice the mass of the cart alone). The cart with extra mass is being pulled by the same weight as in question #4. Put the sketch on the same graph as question #4.
 
