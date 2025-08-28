@@ -51,17 +51,17 @@ There are two situations. The first involves an inclined track ([Part 1](#sec:la
 (sec:lab2:part1)=
 ### Part 1: inclined track, cart
 
-Use a low friction PASCO cart – not the battery toy car. Put a wood block under the aluminum track to make the incline.
+Use a low friction PASCO cart. Raise one end of the aluminum track to make the incline as we did in [](#lab1).
 
-1. First discuss with your partners and make a prediction: How would you expect a velocity vs time graph to look for a cart on an incline? Draw a sketch of the graph for velocity vs. time.
-2. Using a meter stick and stopwatch to determine the **average** velocity of the cart on the incline.
-3. Using the computer and motion sensor:
+1. First discuss with your partner(s) and make a prediction: How would you expect a velocity vs. time graph to look for a cart on an incline? Draw a sketch of the graph for velocity vs. time.
+2. Using the track ruler and stopwatch to determine the **average** velocity of the cart on the incline. This is total distance divided by total time of travel.
+3. Using the computer and motion sensing cart:
   * a) Obtain a distance vs. time graph for the cart on the incline.
   * b) Obtain a velocity vs. time graph
   * c) How can you obtain the acceleration for the cart from the velocity vs. time graph?
   * d) What is the acceleration of the cart?
   * e) Is the acceleration increasing, decreasing, or constant? How can you tell?
-4. Now add some mass to the cart. Record the approximate mass of the cart and the approximate mass that you add to the cart. Repeat step #3. How does the acceleration this time compare with the acceleration without extra mass? Explain your results.
+4. Now add 250 g to the cart. This approximately doubles the mass of the cart Record the approximate mass of the cart and the approximate mass that you add to the cart. Repeat step #3. How does the acceleration this time compare with the acceleration without extra mass? Explain your results in terms of Newton's 2nd Law.
 
 (sec:lab2:part2)=
 ### Part 2: tension and level track
