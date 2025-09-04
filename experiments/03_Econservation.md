@@ -17,11 +17,11 @@ $$mg=mv/t$$
 
 Now suppose the ball fell a distance $d$. To turn the preceding equation into an equation involving energy we multiply both sides of the previous equation by $d$
 
-$$mgh=(mv/t)d$$
+$$mgd=(mv/t)d$$
 
 Now $d$ is the average velocity times $t$. Here the ball was accelerating so the average velocity is not the final velocity just before it hits the ground but is ½ of that velocity so $d=(v/2)t$. Substitute this for $d$ in the righthand side of the previous equation and simplify
 
-$$mgh=\left(\frac{mv}{t}\right)\left(\frac{v}{2}\right)t=\frac{1}{2}mv^2$$
+$$mgd=\left(\frac{mv}{t}\right)\left(\frac{v}{2}\right)t=\frac{1}{2}mv^2$$
 
 This is an equation which describes how energy is conserved for a falling ball. On the left hand side, the quantity mgd is the force on the ball times its height d above the ground before it was dropped. We call it the gravitational potential energy of the ball before it was dropped. On the right hand side is a quantity $(1/2)mv^2$ which is called the kinetic energy of the ball just before it hits the ground. We interpret the = sign to mean that the gravitational potential energy of the ball before it fell was converted into an exactly equal amount of kinetic energy which it had just before it hit the ground.
 
@@ -52,17 +52,15 @@ Textbook Chapter 6.1 on "What is Energy?"
 * 1 aluminum track
 * 1 pulley
 * 1 mass hanger
-* 1 meter stick
-* 1 video camera
-* 1 low‐friction PASCO cart
+* 1 low-friction PASCO cart
 * 1 piece of string
 * 1 mass set
-* 1 stopwatch
-* 1 computer, motion sensor, Capstone software
+* 1 meter stick
+* 1 computer with Capstone software
 
 # Predictions/preliminary questions
 
-A cart is located on a level air track with a string attached between the cart and a weight. The weight is hanging by the string so it can pull the cart along the track. (See the diagram in figure 1.)
+A cart is located on a level track with a string attached between the cart and a weight. The weight is hanging by the string so it can pull the cart along the track. (See the diagram in figure 1.)
 
 1. When the weight is hanging below the pulley but above the floor, what form of energy could be used to describe the energy of the weight relative to the floor? What quantities would you need to know or measure to calculate this energy?
 2. Does the potential energy of the **hanging weight** increase, decrease, or stay the same as it falls to the floor?
@@ -73,11 +71,11 @@ A cart is located on a level air track with a string attached between the cart a
 
 #### Procedure
 
-In this exercise, you and your partners will calculate :**i)** the total change in kinetic energy of the cart and hanging mass and **ii)** the change in potential energy of the hanging mass.
+In this exercise, you and your partners will calculate 1) the total change in kinetic energy of the cart and hanging mass and 2) the change in potential energy of the hanging mass.
 
 1. The change in kinetic energy of the cart and hanging mass can be calculated. The two objects will both start at rest, so their initial kinetic energies are zero. The cart and the hanging mass will accelerate at the same rate (a string connects them.) The velocity of one object will always be equal to the velocity of the other, as long as the string remains taut.
 
-With the computer data analysis software, you can find the velocity of the cart or hanging mass at any point in time. You and your partners are interested only in the final velocity. (After the weight hits the floor, what happens to the speed of the cart?) The mass of the cart and that of the hanging mass can be determined with a triple‐beam balance. Refer to the appendix on using Capstone if necessary. With this information, calculate the kinetic energy of each object separately. Recall that kinetic energy is:
+With the computer data analysis software, you can find the velocity of the cart or hanging mass at any point in time. You and your partners are interested only in the final velocity. (After the weight hits the floor, what happens to the speed of the cart?) The mass of the cart and that of the hanging mass can be determined with an electronic scale. **In this lab it will be important to record masses.** . Refer to the appendix on using Capstone if necessary. With this information, calculate the kinetic energy of each object separately. Recall that kinetic energy is:
 
 $$
 K\!\!E = \frac{1}{2}mv^2
@@ -88,19 +86,19 @@ where $m$ is mass of an object and $v$ is the velocity. Be sure to use the prope
 2. There is no change in the gravitational potential energy of the cart – if the track is level, its height off the floor does not change. Only the height of the hanging mass changes. As a result, only the potential energy of the hanging mass changes. Define the floor as the point of zero potential energy. Recall the equation for gravitational potential energy:
 
 $$
-PE = mgh
+PE = mgd
 $$
 
-where *m* is the mass of the object, $g$ is the acceleration of gravity on Earthʹs surface, and $d$ is the height from the point of zero potential energy. Use this equation and the measured mass of the hanging mass and the distance if fell to calculate the potential energy,
+where $m$ is the mass of the object, $g = 9.8~{\rm m/s^2}$ is the acceleration of gravity on Earthʹs surface, and $d$ is the height from the point of zero potential energy. Use this equation and the measured mass of the hanging mass and the distance if fell to calculate the potential energy,
 
 ## Conclusions
 
 1. Comment on your values for the total change in kinetic energy of the cart and the hanging mass and the change in potential energy of the hanging mass.
-2. a) Do your values support the conservation of energy? Explain. b) How can you account for any discrepancies between these values?
+2. a) Do your values support the conservation of energy? Explain. b) How can you account for any discrepancies between these values? Would multiple measurements with an average and an average of the deviations from the average make your results more convincing?
 
 ```{figure} ../figures/lab3/_page_17_Picture_4.jpeg
 :label: fig:lab3:bowlingball
-:width: 100%
+:width: 50%
 :align: center
 :alt: Person holding a tethered ball near their face. If released, the ball will not gain height and hit the person in the face due to conservation of energy.
 Person holding a ball near their face. If released, the ball will not gain height and hit the person in the face due to conservation of energy.
