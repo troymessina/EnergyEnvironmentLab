@@ -44,12 +44,13 @@ As previously mentioned, you and your partners will investigate the thermal resi
 
 * For each can for which you have recorded data, graph the temperature minus the room temperture as a function of time. You can put the data for all five cans on the same graph for comparison. Based on your data, rank your materials from "best" insulator to "worst".
 * Is the water cooling at the same rate during the entire experiment for one of the cans? If not, when is it cooling fastest? slowest? Can you explain why it cools faster sometimes than others? (Hint: use the expression for rate of heat transfer below, where $k$ is the ineffectiveness to insulate, $A$ is the surface area of the can with insulation, $d$ is the thickness of the insulator.)
-$$\frac{Q}{t}=\frac{kA\left(T_{water}-T_{room}}{d}$$
+$$\frac{Q}{t}=\frac{kA\left(T_{water}-T_{room}\right)}{d}$$
 * Calculate the rate of cooling during the first minute, during the time between the sixth and seventh minute and during the time between the 14th and 15th minute for one of the cans. How much thermal energy left the water in the first minute?
 * How much thermal energy left the water between the 6th and 7th minute? (Use the expression: *change in thermal energy=(specific heat)x(mass of water)x(change in temperature)*)
 	* The specific heat of water is 4186 J/kg/<sup>o</sup>C .)
 * Now use this formula that incorporates the "R-value" of insulation.
-	* ${\rm rate~of~cooling}~=~(1/R)~{\rm (area~of~can~surface)~\times~(temperature~‐~room temperature)}$*
+	* ${\rm rate~of~cooling}~=~(1/R)~{\rm (area~of~can~surface)~\times~(temperature~‐~room~temperature)}$
+	* This formula is the same as above with $R =k/d$
 
 **Hint: To calculate the $R$ value of the insulation around this can. (You need to measure the height $h$ and radius $r$ of the can to calculate its surface area. The surface area is the area of the cylinder plus the two circular top and bottom faces. $A=2\pi rh + 2\pi r^2$. You need to then solve the above equation for $R$ and use $A$ and the rates of cooling that you determined to get $R$.) Do this both for the first minute and for the the period between the 6th and 7th minute. Are the answers the same? Should they be? Compare the $R$ value with those in [this Wikipedia article](https://en.wikipedia.org/wiki/R-value_(insulation)#Typical_R-values). Would this insulation be adequate for a house?**
 
