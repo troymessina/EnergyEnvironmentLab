@@ -48,7 +48,7 @@ As previously mentioned, you and your partners will investigate the thermal resi
 * How much thermal energy left the water between the 6th and 7th minute? (Use the expression: *change in thermal energy=(specific heat)x(mass of water)x(change in temperature)*)
 	* The specific heat of water is 4186 J/kg/<sup>o</sup>C .)
 * Now use this formula that incorporates the "R-value" of insulation.
-	* ${\rm rate~of~cooling~}~=~(1/R)~{\rm (area~of~can~surface)~x~(temperature~‐~room temperature)}*
+	* ${\rm rate~of~cooling}~=~(1/R)~{\rm (area~of~can~surface)~\times~(temperature~‐~room temperature)}$*
 
 **Hint: To calculate the $R$ value of the insulation around this can. (You need to measure the height $h$ and radius $r$ of the can to calculate its surface area. The surface area is the area of the cylinder plus the two circular top and bottom faces. $A=2\pi rh + 2\pi r^2$. You need to then solve the above equation for $R$ and use $A$ and the rates of cooling that you determined to get $R$.) Do this both for the first minute and for the the period between the 6th and 7th minute. Are the answers the same? Should they be? Compare the $R$ value with those in [this Wikipedia article](https://en.wikipedia.org/wiki/R-value_(insulation)#Typical_R-values). Would this insulation be adequate for a house?**
 
