@@ -3,7 +3,7 @@
 
 As a child, you were probably told to turn off the lights when you left a room and to turn off the television when you were not watching it. It definitely makes sense to turn lights and appliances off when they are not in use; however, lights, televisions, computers, and other appliances only account between 10% and 30% of the energy used in an average American home. On the other hand, heating and cooling (collectively known as space conditioning) devour between 50% and 70% of the energy used in most homes. Unfortunately, most houses in the United States are not well insulated, and inadequate insulation is a major cause of energy waste.
 
-When thermal energy is transferred from your house to the outdoors we say that heat is transferred or that there was a flow of heat. Thus we will reserve the word heat for the cases where thermal energy is being transferred from one place to another. We will not speak of the heat ʺinʺ a body but only of the thermal energy in a body though we say that energy is transferred as heat from one body to another. This is similar to the way we use the word work. We never speak of the work ʺinʹ a body but only of the work done in transferring energy from one body to another.
+When thermal energy is transferred from your house to the outdoors we say that heat is transferred or that there was a flow of heat. Thus we will reserve the word heat for the cases where thermal energy is being transferred from one place to another. We will not speak of the heat ʺinʺ a body but only of the thermal energy in a body though we say that energy is transferred as heat from one body to another. This is similar to the way we use the word work. We never speak of the work ʺin" a body but only of the work done in transferring energy from one body to another.
 
 Insulation decreases heat flow between the outdoors and a house interior by providing a resistance to such flow. There are many different types of insulation: fiberglass blankets, loose mineral fibers and fiber pellets, polyurethane foam, fibrous or plastic boards, plastic fiber made mainly from recycled milk bottles, cement‐based foam, adobe (clay), natural fibers such as cotton and straw, and more. Different insulation materials have different degrees of thermal resistance, or resistance to heat transfer.
 
@@ -32,7 +32,7 @@ As previously mentioned, you and your partners will investigate the thermal resi
 
 1. Make a table in which to record your groupʹs temperature measurements. You will be measuring the temperatures of the water in five cans each minute for 15 minutes.
 2. Determine the mass of each can.
-3. Take the five cans to the restroom and fill them with hot water. Be sure each can has the same amount of water ‐ almost filled to the top ‐ and bring them back to the lab.
+3. Fill the cans with hot water. Each should have the same starting temperature. Be sure each can has the same volume of water ‐ almost filled to the top.
 4. Determine the mass of each can when filled with water and record it in your notebook.
 5. Leave one can unwrapped. Put one can in the "cozy" and wrap the other cans with a layer of the various insulators: bubble wrap, first aid gauze, and rubber sheet. Secure the insulators around the cans with some tape.
 6. Tape a thermometer in each can, so that it does not touch either the sides or bottom of the cans and so there is no heat loss through the hole in the can.
@@ -43,7 +43,8 @@ As previously mentioned, you and your partners will investigate the thermal resi
 ## Analysis
 
 * For each can for which you have recorded data, graph the temperature minus the room temperture as a function of time. You can put the data for all five cans on the same graph for comparison. Based on your data, rank your materials from "best" insulator to "worst".
-* Is the water cooling at the same rate during the entire experiment for one of the cans? If not, when is it cooling fastest? slowest? Can you explain why it cools faster sometimes than others? (Hint: use the expression for rate of heat transfer by conduction on p. 107 of your book.)
+* Is the water cooling at the same rate during the entire experiment for one of the cans? If not, when is it cooling fastest? slowest? Can you explain why it cools faster sometimes than others? (Hint: use the expression for rate of heat transfer below, where $k$ is the ineffectiveness to insulate, $A$ is the surface area of the can with insulation, $d$ is the thickness of the insulator.)
+$$\frac{Q}{t}=\frac{kA\left(T_{water}-T_{room}}{d}$$
 * Calculate the rate of cooling during the first minute, during the time between the sixth and seventh minute and during the time between the 14th and 15th minute for one of the cans. How much thermal energy left the water in the first minute?
 * How much thermal energy left the water between the 6th and 7th minute? (Use the expression: *change in thermal energy=(specific heat)x(mass of water)x(change in temperature)*)
 	* The specific heat of water is 4186 J/kg/<sup>o</sup>C .)
