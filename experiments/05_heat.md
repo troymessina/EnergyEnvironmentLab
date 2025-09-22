@@ -42,17 +42,15 @@ As previously mentioned, you and your partners will investigate the thermal resi
 
 ## Analysis
 
-* For each can for which you have recorded data, graph the temperature minus the room temperture as a function of time. You can put the data for all five cans on the same graph for comparison. Based on your data, rank your materials from "best" insulator to "worst".
-* Is the water cooling at the same rate during the entire experiment for one of the cans? If not, when is it cooling fastest? slowest? Can you explain why it cools faster sometimes than others? (Hint: use the expression for rate of heat transfer below, where $k$ is the ineffectiveness to insulate, $A$ is the surface area of the can with insulation, $d$ is the thickness of the insulator.)
-$$\frac{Q}{t}=\frac{kA\left(T_{water}-T_{room}\right)}{d}$$
-* Calculate the rate of cooling during the first minute, during the time between the sixth and seventh minute and during the time between the 14th and 15th minute for one of the cans. How much thermal energy left the water in the first minute?
-* How much thermal energy left the water between the 6th and 7th minute? (Use the expression: *change in thermal energy=(specific heat)x(mass of water)x(change in temperature)*)
+* For each can for which you have recorded data, graph the temperature on the y-axis and the time on the x-axis. Put the data for all five insulations on the same graph for comparison. Based on your data, rank your materials from "best" insulator to "worst".
+* Is the water cooling at the same rate during the entire experiment for one of the cans? If not, when is it cooling fastest? slowest? Can you explain why it cools faster sometimes than others?
+* Calculate the rate of cooling during the first minute, during the time between the sixth and seventh minute and during the time between the 14th and 15th minute for one of the cans. 
+* How much thermal energy left the water in the first minute? How much thermal energy left the water between the 6th and 7th minute? (Use the expression: 
+	* Change in thermal energy=(specific heat)x(mass of water)x(change in temperature)
 	* The specific heat of water is 4186 J/kg/<sup>o</sup>C .)
-* Now use this formula that incorporates the "R-value" of insulation.
-	* ${\rm rate~of~cooling}~=~(1/R)~{\rm (area~of~can~surface)~\times~(temperature~‐~room~temperature)}$
-	* This formula is the same as above with $R =d/k$
+* Insulation is often rated by an "R-value". Large R values are better insulators. Small R-values are worse insulators. Rank the materials in increasing R-value.
 
-**Hint: To calculate the $R$ value of the insulation around this can. (You need to measure the height $h$ and radius $r$ of the can to calculate its surface area. The surface area is the area of the cylinder plus the two circular top and bottom faces. $A=2\pi rh + 2\pi r^2$. You need to then solve the above equation for $R$ and use $A$ and the rates of cooling that you determined to get $R$.) Do this both for the first minute and for the the period between the 6th and 7th minute. Are the answers the same? Should they be? Compare the $R$ value with those in [this Wikipedia article](https://en.wikipedia.org/wiki/R-value_(insulation)#Typical_R-values). Would this insulation be adequate for a house?**
+**A list of common R-values are in [this Wikipedia article](https://en.wikipedia.org/wiki/R-value_(insulation)#Typical_R-values).**
 
 ## Conclusions
 
@@ -62,10 +60,9 @@ $$\frac{Q}{t}=\frac{kA\left(T_{water}-T_{room}\right)}{d}$$
 2. Why do most houses in Minnesota have double‐ or triple‐pane windows? Is it the glass that is an efficient insulator, or is something else involved?
 3. How can the Inuit construct igloos out of snow and still expect them to remain warm inside? Why do forest animals burrow into snow to find shelter from the winter cold?
 4. The following materials (at the stated thicknesses) have the same thermal resistances: 13 cm of polyurethane foam, 58 cm of white pine, 5.5 meters of window glass, and 2.25 km of silver. How does this fit with your results in this exercise?
-5. Consider the insulation with which we who live in Minnesota are terribly familiar: winter clothes.
+5. Consider the insulation with which we who live in Kentucky are terribly familiar: winter clothes.
 	* a) What kind of clothing do people usually wear in winter?
 	* b) What about these winter clothes makes them better insulators than our summer clothes? Relate your answers to the observations in this exercise.
-6. What heat transfer mechanism or mechanisms were involved in this exercise? (Radiation? Conduction? Convection?) Draw an illustration to help explain your answer.
 
 ## Additional notes
 
