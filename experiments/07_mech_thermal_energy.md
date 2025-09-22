@@ -26,6 +26,7 @@ The hot water cannot be any hotter than boiling (approximately 100 <sup>o</sup>C
 ## Warm‐up questions
 
 1. Write down in words what conservation of energy is. Decide on the most convenient system for this situation. Decide on your initial time and choose your final time when the system returns to its initial state. Is any energy being transferred to or from your system between the initial and final times? The energy transfers may happen at different times in the cycle so write down a list of what the system is doing for each energy transfer.
+
 2. Identify the terms you need to calculate the efficiency of the process. The efficiency is the ratio of the useful energy output to the energy input from the energy source. Write down the conservation of energy equation or equations containing those terms.
 
 ## Exploration
