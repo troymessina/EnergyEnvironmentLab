@@ -13,7 +13,14 @@ The simple engine you will use uses thermal energy to lift objects. A piston tha
 
 ## Equipment
 
-![](../figures/lab7/_page_37_Figure_2.jpeg)
+% ![](../figures/lab7/_page_37_Figure_2.jpeg)
+```{figure} ../figures/lab7/Pasco_heat_engine.png
+:label: fig:lab7:heatengine
+:align: center
+:width: 100%
+:alt: The heat engine you will use is a piston controlled by placing a can in hot or cold water. The piston moves freely from thermal energy. Make sure the can is tightly sealed, and never immerse the cylinder completely.
+The heat engine you will use is a piston controlled by placing a can in hot or cold water. The piston moves freely from thermal energy. Make sure the can is tightly sealed, and never immerse the cylinder completely.
+```
 
 ## Prediction
 
@@ -21,7 +28,7 @@ The hot water cannot be any hotter than boiling (approximately 100 <sup>o</sup>C
 
 ## Pre‐lab reading
 
-????
+Textbook section 6.5
 
 ## Warm‐up questions
 
