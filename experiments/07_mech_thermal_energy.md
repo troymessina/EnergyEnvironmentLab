@@ -60,15 +60,7 @@ The energy input from the temperature differences comes from air in the can and 
 
 $$\text{Thermal~energy~in}~=~\frac{5}{2} \frac{PV}{T_c}(T_h-T_c)\label{eq:lab7:thermalin}$$
 
-$P=101300$ is the atmospheric air pressure in SI units. The volume of the can is 0.00016 m<sup>3</sup>. We need to add this volume to the cylinder volume while the can is cold. Calculate the cylinder volume as $\pi 0.016^2 h$, where $h$ is the height of the piston while the can is in cold water.
-
-
-You can approximate the input thermal energy by multiplying the specific heat of the air by the change in temperature as the piston rises. Using properties of the air which we will not go into here you can use the following formula:
-
-$$\text{Thermal~energy~in}~=~mc\times(T_h-T_c)$$
-
-in which 
-$$mc=\frac{5}{2}\frac{\text{(mass~of~piston)}~\times (9.8~{\rm m/s^2})~\times{\rm (height~of~cylinder~when~it~is~cold~with~no~weight)}}{\text{(temperature~of~the~cold~water~in~K)}}\label{eq:lab7:thermalin}$$
+$P=101300$ is the atmospheric air pressure in SI units. The volume of the can is 0.00016 m<sup>3</sup>. We need to add this volume to the cylinder volume while the can is cold. Calculate the cylinder volume as $\pi\cdot 0.016^2\cdot h$, where $h$ is the beginning height of the piston while the can is in cold water.
 
 Then the efficiency is the useful work output divided by the thermal energy in Equation {eq}`eq:lab7:thermalin`. Use these formulas and the measurements you made to calculate the efficiency of the engine. Compare this efficiency to the maximum efficiency you would calculate with Equation {eq}`eq:lab7:efficiency` for the two temperatures used in your experiment.
 
