@@ -56,6 +56,13 @@ To determine the efficiency of this ʺengineʹ, you can calculate the useful wor
 $$Energy~Ouput = piston~mass~\times~gravitational~acceleration~\times~height~piston~moves$$
 Remember to use mass in kilograms height in meters. Gravitational acceleration is $g=9.8 m/s^2$.
 
+The energy input from the temperature differences comes from air in the can and piston cylinder being an ideal gas.
+
+$$\text{Thermal~energy~in}~=~\frac{5}{2} \frac{PV}{T_c}(T_h-T_c)\label{eq:lab7:thermalin}$$
+
+$P=101300$ is the atmospheric air pressure in SI units. The volume of the can is 0.00016 m<sup>3</sup>. We need to add this volume to the cylinder volume while the can is cold. Calculate the cylinder volume as $\pi 0.016^2 h$, where $h$ is the height of the piston while the can is in cold water.
+
+
 You can approximate the input thermal energy by multiplying the specific heat of the air by the change in temperature as the piston rises. Using properties of the air which we will not go into here you can use the following formula:
 
 $$\text{Thermal~energy~in}~=~mc\times(T_h-T_c)$$
