@@ -53,7 +53,7 @@ Execute the measurement plan you created in the Exploration section to get the d
 ## Analysis
 
 To determine the efficiency of this ʺengineʹ, you can calculate the useful work output by multiplying the weight of the lifted weight by the distance through which it was lifted.
-$$Energy~Ouput = piston~mass~\times~gravitational~acceleration~\times~height~piston~moves$$
+$${\rm Energy~Ouput = piston~mass~\times~gravitational~acceleration~\times~height~piston~moves}$$
 Remember to use mass in kilograms and height in meters. Gravitational acceleration is $g=9.8 m/s^2$.
 
 The energy input from the temperature differences comes from air in the can and piston cylinder being an ideal gas.
