@@ -15,7 +15,7 @@ Textbook section 8.2
 
 * 1 parabolic mirror set‐up
 * 1 digital thermometer
-* 1 triple‐beam balance
+* 1 electronic scale
 * 1 styro‐foam cup
 * 1 stopwatch
 
@@ -44,7 +44,7 @@ In this exercise, you will put a parabolic mirror in the sun. It will focus the 
 You will use the focused rays to heat water or copper, much as a solar power plant uses mirrors to heat water in order to drive a turbine. Based on the increase in the heat energy of the water or metal , you will find how much energy Earth receives from the sun. From this calculation, you and your partners can estimate how much of this energy is used in photosynthesis; how much of that is used by plants we can eat; and how large a human population Earth can support.
 
 1. Determine the cross‐sectional area of the parabolic mirror. In other words, if you look at the mirror head‐on, what is the apparent area of the circle you see? If you have difficulties with this, ask your instructor for assistance.
-2. If you are using a water sample, fill the receiver at the focal point with water. The temperature of the water should be close to the temperature outside. You and your partners should determine the mass of this water using a styro‐foam cup and the triple‐beam balance.
+2. If you are using a water sample, fill the receiver at the focal point with water. The temperature of the water should be close to the temperature outside. You and your partners should determine the mass of this water using a styro‐foam cup and the electronic scale.
 3. Find a location outside that has direct sunlight and little or no wind. Try to stay away from buildings or walls because they can reflect additional sunlight toward the mirror. If the wind picks up, shield the set‐up as best as you can, **but don't block any sunlight!**
 4. Be sure to aim your parabolic mirror directly at the sun. Be very careful about this. All members of your group should check the container – the one with water or a metal plate ‐ to be certain it is **pointing directly at the sun**. You will probably have to adjust the rectangular container (if you are using that) during the time it is receiving solar energy. (The parabolic mirror or its container might also need adjustment during collection time.) Also be sure that you shield the mirror from the sunlight until you start the stopwatch.
 5. Record the initial temperature of the water or metal. Record the temperature once every three minutes for 15 minutes (or, if you are using water, until the water starts to boil). Be careful ‐‐ the water, metal and receiver might become very hot. After your last measurement, make sure you have recorded the mass of the water or copper. If you were using water, pour it out. Gather your equipment and return to the lab.
@@ -56,6 +56,7 @@ You will use the focused rays to heat water or copper, much as a solar power pla
 The ʺsolar inputʺ is the amount of power that an area receives from the sun when directly overhead. Using your measurements, you and your partners can determine the heat energy absorbed by the water or copper based on the temperature increase. We will assume the receiver on the parabolic mirror is a perfect insulator, meaning that it gains no heat from nor loses any to the environment. Computation of the solar input involves solving an equation that equates the thermal energy gained by the copper or water equal to the radiant energy received from the sun.
 
 1. You and your partners should have already calculated the cross‐sectional area of your parabolic mirror. As stated previously, the solar input is the amount of power that an area receives when the sun is directly overhead. When the sun is at an angle (which is always true in Minnesota and all places outside the Tropics of Capricorn and Cancer), an area receives a fraction of the full energy. Since you aimed the mirror directly at the sun, we do not need to make a correction for this.
+
 2. Next, you and your lab partners should determine the thermal energy gained by the water or copper due to the solar input. Use the equation:
 
 $$\text{thermal~energy~transferred~=~(mass~of~water~or~copper)~x~(specific~heat~of~water~or~copper)~x~change~in~temperature}$$
@@ -68,28 +69,33 @@ $$\text{Energy~received~from~sun~=~thermal~energy~gained~by~the~water~or~copper}
 
 Remember, however, that the solar input is a measure of the sun's power, not energy. Since power is energy over time, we should change our equation to:
 
-$${\rm Power~from~the~sun~=~\frac{thermal energy added to water or copper}{Time in the sun}}$$
+$${\rm Power~from~the~sun~=~\frac{thermal~energy~ added~ to~ water~ or~ copper}{Time~ in~ the~ sun}}$$
 
-4. Power from the sun for the mirror:
+4. Power from the sun for the mirror. Calculate the solar input as the amount of energy per time from the sun divided by the area of the mirror.
 
-$${\rm Solar~input~=~\frac{Power from the Sun}{Area~receiving~sunlight~(in~square~meters)}}$$
+$${\rm Solar~input~=~\frac{Power~ from~ the~ Sun}{Area~receiving~sunlight~(in~square~meters)}}$$
 
-$${\rm Solar~input~=~\frac{thermal~energy~addedto~the~water~or~copper}{(mirror~area)\times (time)}}$$
+You calculated the power from the sun in step 2. We are assuming it is the same as the thermal energy transferred to the water divided by time.
 
 $${\rm Solar~input~=~\frac{mc\Delta T}{(mirror~area)\times (time in sun)}}$$
 
-The solar input is the amount of power that an area receives from the sun when it is directly over that area. If you used only SI units, your result for the solar input is the amount of power (in watts) received by one square meter.
+The solar input is the amount of power that an area receives from the sun when it is directly over that area. If you used only SI units, your result for the solar input is the amount of power (in Watts) received by one square meter.
 
-5. To determine the total solar power received by Earth, you and your partners should multiply your result for the solar input by Earth's cross‐sectional area. (Use the radius of Earth, 6.38 x 10<sup>6</sup> m, to calculate its cross‐sectional area.)
+5. To determine the total solar power received by Earth, you and your partners should multiply your result for the solar input by Earth's cross‐sectional area. (Use the radius of Earth, 6.38 x 10<sup>6</sup> m, to calculate its cross‐sectional area, $A=\pi r^2$.) 
 
-$${\rm Solar~power~recieved~by~Earth~=\frac{Solar~Input)}{(Earth's~cross-sectional~Area)}}$$
+$${\rm Solar~power~recieved~by~Earth~=Solar~Input\times Earth's~cross-sectional~Area}$$
 
+** We will answer questions 6-11 together as a class.**
 6. Determine the solar power used in photosynthesis. It has been estimated that about 0.0757% of the solar power that reaches the Earth is captured by plants and utilized in the photosynthesis process. Knowing this, how much solar power is used by plants to make their food?
 
 7. Now you can estimate the amount of food could be produced with this much sunlight, if it were all used to produce food. In *The Hungry Planet,* George Borgstrom, a professor of Food Science and Geography at Michigan State University, states that 10\% of the solar power used by plants in photosynthesis can be used by humans as food. Determine how many watts of power this equals.
+
 8. Knowing that one watt equals 0.24 cal/sec and one food Calorie equals 1000 calories, calculate how many food Calories could be produced on the Earth in one day.
+
 9. Lastly, estimate the maximum population of Earth. The current opinion is that the normal food requirement of a full‐grown person is about 3,000 food Calories per day. Since most humans eat animal products as well as plants, their intake includes the energy needed to feed the animal products they consume. So, although the normal food requirement is about 3,000 food Calories per day, this figure increases to about 10,000 food Calories a day when the conversion of plants to animal products is taken into account. If you use a 10,000‐Calorie intake as a standard, what is the theoretical maximum number of humans that Earth can support?
+
 10. The amount of solar radiant energy reaching the top of the earthʹs atmosphere from space was first measured by the first space satellites in the middle of the last century and is about 1360 W/m<sup>2</sup>. How does this number compare with the radiant power per meter squared which you measured? Do you expect it to be bigger or smaller? Explain the factors which would lead it to be different.
+
 11. In the US economy, you can deduce from [](#fig:lab6:USpower) that the power consumption is about 8.5 kilowatts per person on average in recent times. If the solar energy were coming in to the surface of the earth at the rate which you measured, assuming that the US population is 300 million, and assuming that 1/5 of the solar energy could be converted to an easily used form such as electrical energy, how much area of the surface of the US would be needed to collect enough solar energy to power the economy?
 ```{figure} ../figures/lab6/USPower.svg
 :label: fig:lab6:USpower
@@ -102,9 +108,10 @@ United States power consumption per capita in Watts from 1960 to 2023. Data sour
 ## Conclusions
 
 1. In the experiment, you assumed that all the energy in the sunlight which was incident on the mirror was transformed into thermal energy in the water or copper. What effects might make this assumption invalid? Which of them is the most important? Can you make any quantitative estimate of how big they might be and how much they could affect the result? Do you expect these effects will make your result for the energy coming in from the sun too big or too small? How could you alter the experiment to make the effects less important?
-2. How does your result compare with the current population of Earth, approximately six billion? Based on current rates of growth, the global population has a doubling time of about 40 years. What are the implications of that figure based on your results? In how many years will the number of humans reach your maximum population estimate?
-3. What if all humans became vegetarian? Go back to the final step of your analysis, and assume that all our food came from photosynthesis. This would mean that each person would need about 3,000 food Calories per day, not 10,000 Calories. If everyone was a vegetarian, how many people could inhabit the planet? How does this compare to your previous result? In about how many years will the population reach your new estimate?
-4. Check the website http://www.oksolar.com/images/daily\_solar\_radiation1.gif about energy from the sun. It discusses the sun input and shows a map of the minimum solar energy received in the United States per day. How does your result compare with the website values? Redo steps 5 through 9 using the numbers form the website. What are your new answers?
+
+2. How does your result compare with the current population of Earth, approximately eight billion? Based on current rates of growth, the global population has a doubling time of about 40 years. What are the implications of that figure based on your results? In how many years will the number of humans reach your maximum population estimate?
+
+3. Check the website https://ourworldindata.org/grapher/solar-energy-consumption about solar energy production. How does the USA compare to the rest of the world?
 
 ## Historical notes
 
