@@ -45,7 +45,7 @@ You will use a radiation monitor. The monitor contains a Geiger‐Mueller tube (
 3. At the bottom of the screen you can select the sample time. Start with 15 seconds for the first portion of the lab.
 4. Place the radiation monitor about 3 inches from the table surface using a metal stand. 
 5. With no radioactive source nearby, click on the red record near the bottom of the screen. The computer will graph the radiation count for each 15 seconds. Find the average and standard deviation for two minutes (8 data points). Your instructor or TA can help. This is the background radiation.
-6. Next, place a beta + gamma source under the radioativity monitor and repeat the data collection for two minutes. Find the average and standard deviation for two minutes (8 data points). Record this as $\text{average~\pm~standard~deviation}$
+6. Next, place a beta + gamma source under the radioativity monitor and repeat the data collection for two minutes. Find the average and standard deviation for two minutes (8 data points). Record this as ${\rm average~\pm~standard~deviation}$
 7. Repeat step 6 with 2 different thicknesses of plastic between the radiation monitor and the radioactive isotope. **Be careful not to change the height of the radiation monitor!**
 8. Repeat step 6 with 2 different thicknesses of lead between the radiation monitor and the radioactive isotope. **Be careful not to change the height of the radiation monitor!**
 9. Repeat steps 6-8 with the beta decay isotope.
