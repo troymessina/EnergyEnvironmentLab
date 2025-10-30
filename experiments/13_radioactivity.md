@@ -46,7 +46,7 @@ The beta decay of cobalt-60 ({sup}`60`{sub}`27`Co) is shown, which has a half-li
 
 ```{figure} ../figures/lab13/cesium137.svg
 :label: fig:lab13:cs137
-:width: 60%
+:width: 65%
 :align: center
 :alt: The beta decay of cesium-137 ({sup}`137`{sub}`55`Cs) is shown, which has a half-life of about 30 years. Cesium,-137 has two possible beta decays leading to one metastable states that emits a gamma ray and the other to a stable barium-137 ({sup}`137`{sub}`56`Ba).
 The beta decay of cesium-137 ({sup}`137`{sub}`55`Cs) is shown, which has a half-life of about 30 years. Cesium,-137 has two possible beta decays leading to one metastable states that emits a gamma ray and the other to a stable barium-137 ({sup}`137`{sub}`56`Ba).
