@@ -34,6 +34,7 @@ You will first look at two different types of long-lived decays. One decay is a 
 :align: center
 :alt: The double beta decay of strontium-90 ({sup}`90`{sub}`38`Sr) is shown, which has a half-life of about 29 years for the first beta and 64 hours for the second beta. The first daughter nucleus is yttrium-90 ({sup}`90`{sub}`39`Y). The second, final, daughter nudleus is zirconium-90 ({sup}`90`{sub}`40`Zr).
 The double beta decay of strontium-90 ({sup}`90`{sub}`38`Sr) is shown, which has a half-life of about 29 years for the first beta and 64 hours for the second beta. The first daughter nucleus is yttrium-90 ({sup}`90`{sub}`39`Y). The second, final, daughter nudleus is zirconium-90 ({sup}`90`{sub}`40`Zr).
+```
 
 ```{figure} ../figures/lab13/cobalt60.svg
 :label: fig:lab13:co60
