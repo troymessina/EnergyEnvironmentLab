@@ -27,28 +27,28 @@ Textbook section 7.6
 * 1 isotope Generator Kit (Barium‐137 m from Cesium-137)
 * 1 wooden block or other device (for keeping the radiation source in the correct location)
 
-You will first look at two different types of long-lived decays. One decay is a beta, and the other is beta + gamma. Beta decay is when a neutron decays to a proton in the nucleus and an electron is released to conserve charge (a proton and an electron are neutral like the neutron). We call the released electron a beta particle. In gamma decay, a metastable nucleus releases a gamma ray (high energy light particle). This simply alleviates some instability without changing the type of nucleus. In [](#fig:lab13:sr90), the double beta decay of strontium-90 ($^{90}_{38}{\rm Sr}$) is shown, which has a half-life of about 29 years for the first beta and 64 hours for the second beta. The first daughter nucleus is yttrium-90 ($^{90}_{39}{\rm Y}$). The second, final, daughter nudleus is zirconium-90 ($^{90}_{40}{\rm Zr}$). In [](#fig:lab13:co60), the beta decay of cobalt-60 ($^{60}_{27}{\rm Co}$) is shown, which has a half-life of about 5 years. Cobalt-60 has two possible beta decays leading to two metastable states that emit gamma rays. The only daughter nucleus is nickel-60 ($^{60}_{28}{\rm Ni}$). In [](#fig:lab13:cs137), the beta decay of cesium-137 ($^{137}_{55}Cs$) is shown, which has a half-life of about 30 years. Cesium,-137 has two possible beta decays leading to one metastable states that emits a gamma ray and the other to a stable barium-137 ($^{137}_{56}{\rm Ba}$).
+You will first look at two different types of long-lived decays. One decay is a beta, and the other is beta + gamma. Beta decay is when a neutron decays to a proton in the nucleus and an electron is released to conserve charge (a proton and an electron are neutral like the neutron). We call the released electron a beta particle. In gamma decay, a metastable nucleus releases a gamma ray (high energy light particle). This simply alleviates some instability without changing the type of nucleus. In [](#fig:lab13:sr90), the double beta decay of strontium-90 ({sup}`90`{sub}`38`Sr) is shown, which has a half-life of about 29 years for the first beta and 64 hours for the second beta. The first daughter nucleus is yttrium-90 ({sup}`90`{sub}`39`Y). The second, final, daughter nudleus is zirconium-90 ({sup}`90`{sub}`40`Zr). In [](#fig:lab13:co60), the beta decay of cobalt-60 ({sup}`60`{sub}`27`Co) is shown, which has a half-life of about 5 years. Cobalt-60 has two possible beta decays leading to two metastable states that emit gamma rays. The only daughter nucleus is nickel-60 ({sup}`60`{sub}`28`Ni). In [](#fig:lab13:cs137), the beta decay of cesium-137 ({sup}`137`{sub}`55`Cs) is shown, which has a half-life of about 30 years. Cesium,-137 has two possible beta decays leading to one metastable states that emits a gamma ray and the other to a stable barium-137 ({sup}`137`{sub}`56`Ba).
 ```{figure} ../figures/lab13/strontium90.svg
 :label: fig:lab13:sr90
-:width: 100%
+:width: 60%
 :align: center
-:alt: The double beta decay of strontium-90 ($^{90}_{38}{\rm Sr}$) is shown, which has a half-life of about 29 years for the first beta and 64 hours for the second beta. The first daughter nucleus is yttrium-90 ($^{90}_{39}{\rm Y}$). The second, final, daughter nudleus is zirconium-90 ($^{90}_{40}{\rm Zr}$)
-The double beta decay of strontium-90 ($^{90}_{38}{\rm Sr}$) is shown, which has a half-life of about 29 years for the first beta and 64 hours for the second beta. The first daughter nucleus is yttrium-90 ($^{90}_{39}{\rm Y}$). The second, final, daughter nudleus is zirconium-90 ($^{90}_{40}{\rm Zr}$)
+:alt: The double beta decay of strontium-90 ({sup}`90`{sub}`38`Sr) is shown, which has a half-life of about 29 years for the first beta and 64 hours for the second beta. The first daughter nucleus is yttrium-90 ({sup}`90`{sub}`39`Y). The second, final, daughter nudleus is zirconium-90 ({sup}`90`{sub}`40`Zr).
+The double beta decay of strontium-90 ({sup}`90`{sub}`38`Sr) is shown, which has a half-life of about 29 years for the first beta and 64 hours for the second beta. The first daughter nucleus is yttrium-90 ({sup}`90`{sub}`39`Y). The second, final, daughter nudleus is zirconium-90 ({sup}`90`{sub}`40`Zr).
 
 ```{figure} ../figures/lab13/cobalt60.svg
 :label: fig:lab13:co60
-:width: 100%
+:width: 60%
 :align: center
-:alt: The beta decay of cobalt-60 ($^{60}_{27}{\rm Co}$) is shown, which has a half-life of about 5 years. Cobalt-60 has two possible beta decays leading to two metastable states that emit gamma rays. The only daughter nucleus is nickel-60 ($^{60}_{28}{\rm Ni}$).
-The beta decay of cobalt-60 ($^{60}_{27}{\rm Co}$) is shown, which has a half-life of about 5 years. Cobalt-60 has two possible beta decays leading to two metastable states that emit gamma rays. The only daughter nucleus is nickel-60 ($^{60}_{28}{\rm Ni}$).
+:alt: The beta decay of cobalt-60 ({sup}`60`{sub}`27`Co) is shown, which has a half-life of about 5 years. Cobalt-60 has two possible beta decays leading to two metastable states that emit gamma rays. The only daughter nucleus is nickel-60 ({sup}`60`{sub}`28`Ni).
+The beta decay of cobalt-60 ({sup}`60`{sub}`27`Co) is shown, which has a half-life of about 5 years. Cobalt-60 has two possible beta decays leading to two metastable states that emit gamma rays. The only daughter nucleus is nickel-60 ({sup}`60`{sub}`28`Ni).
 ```
 
 ```{figure} ../figures/lab13/cesium137.svg
 :label: fig:lab13:cs137
-:width: 100%
+:width: 60%
 :align: center
-:alt: The beta decay of cesium-137 ($^{137}_{55}Cs$) is shown, which has a half-life of about 30 years. Cesium,-137 has two possible beta decays leading to one metastable states that emits a gamma ray and the other to a stable barium-137 ($^{137}_{56}{\rm Ba}$).
-The beta decay of cesium-137 ($^{137}_{55}Cs$) is shown, which has a half-life of about 30 years. Cesium,-137 has two possible beta decays leading to one metastable states that emits a gamma ray and the other to a stable barium-137 ($^{137}_{56}{\rm Ba}$).
+:alt: The beta decay of cesium-137 ({sup}`137`{sub}`55`Cs) is shown, which has a half-life of about 30 years. Cesium,-137 has two possible beta decays leading to one metastable states that emits a gamma ray and the other to a stable barium-137 ({sup}`137`{sub}`56`Ba).
+The beta decay of cesium-137 ({sup}`137`{sub}`55`Cs) is shown, which has a half-life of about 30 years. Cesium,-137 has two possible beta decays leading to one metastable states that emits a gamma ray and the other to a stable barium-137 ({sup}`137`{sub}`56`Ba).
 ```
 
 This {sup}`137`Cs{sup}`137`/Ba{sub}`m` Isotope Generator is used to demonstrate the properties of radioactive decay. Based on the original Union Carbide patented design, it offers exceptional performance, ease‐of‐use, and safe operation.
