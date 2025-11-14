@@ -12,12 +12,11 @@ Textbook sections 8.4 and 8.6
 ## Equipment
 
 1. Generator Assembly 
-2. Pulley, three‐step 
-3. Resistor Plug and 100 Ohm resistor 
-4. LED plug
+2. Resistor Plug 
+4. LED Plug
 5. Spool of thread
-6. Turbine
-7. Windmill
+6. Hydro Turbine
+7. Wind Turbine
 
 ## Predictions/preliminary questions
 
@@ -43,17 +42,25 @@ Pasco electricity generator with various components
 ```
 
 1. Use the rod clamp on the side of the generator to mount the generator to a rod stand.
-2. Insert the LED plug into the jacks on the generator ([](#fig:lab11:Pascogenerator) and [](#fig:lab11:Pascogenparts).
+2. Insert the LED plug into the jacks on the generator ([](#fig:lab11:Pascogenerator) and [](#fig:lab11:Pascogenparts)).
 3. To attach the pulley, align the indent marks on the pulley with the indented portion of the black shaft on the generator; then slide the pulley onto the shaft. Fasten the nut tight over the screw to hold the pulley in place.
-4. Cut a small piece of no‐bounce foam, and place the foam underneath the hanging mass .
-5. Cut a piece of string to tie to the hanging mass and pulley ([](#fig:lab11:Pascogenerator) and [](#fig:lab11:Pascogenparts).
+4. Place a small piece of no‐bounce foam underneath the hanging mass .
+5. Cut a piece of string to tie to the hanging mass and pulley ([](#fig:lab11:Pascogenerator) and [](#fig:lab11:Pascogenparts)).
 6. Tie a double knot in the string and hook the knot in the slot on the pulley.
 7. Attach the other end of the string to the hanging mass.
 8. Wind the string up on the smallest pulley, such that the string falls out when the mass reaches the bottom of the foam pad.
 9. Adjust the position of the hanging mass or the height of the generator so that the knot slips out just as the mass reaches the foam.)
-10. Now wind up the string and let the mass fall, observing the light emitted by the light emitting diode. You will see it changing from green to red and back, corresponding to current flowing in one direction and then in the opposite direction. What does this tell you about this generator? In particular, does it have a commutator? You may need to look up commutator. Does the rate at which the light changes from green to red and back change as the weight falls? Note the answer in your notebook, together with a brief discussion of the possible reason for any changes.
-11. Now for the quantitative measurement, remove the LED plug and insert the resistor plug into the jacks on the generator. Your instructor will show you how to attach a voltage probe to the resistor jacks and to the computer and to use the software Capstone to make a graph of the power coming out of the generator at each moment in time. The instructor will also explain how to get the total electrical energy produced during the fall from the power data plotted on the screen. Note the total energy in your notebook and make a sketch of the graph of power versus time.
+10. Now wind up the string and let the mass fall, observing the light emitted by the light emitting diode. You will see it changing from green to red and back, corresponding to current flowing in one direction and then in the opposite direction. This implies the generator is AC (alternating current). Does the rate at which the light changes from green to red and back change as the weight falls? Note the answer in your notebook, together with a brief discussion of the possible reason for any changes.
+11. Now for the quantitative measurement, remove the LED plug and insert the resistor plug into the jacks on the generator. Your instructor will show you how to attach a voltage probe to the resistor jacks and to the computer and to use the software Capstone to make a graph of the power coming out of the generator at each moment in time. The instructor will also explain how to get the total electrical energy produced during the fall from the power data plotted on the screen. Note the total energy in your notebook and make a sketch of the graph of voltage versus time. See [](#fig:lab11:capstonedata)
 12. Measure the distance which the weight fell and note it in your notebook and weigh the weight to determine its mass (if it is not marked on the weight) and make a note of it.
+13. Repeat the measurement to ensure you get consistent voltage values each time.
+```{figure} ../figures/lab11/capstone_data.png
+:label: fig:lab11:capstonedata
+:width: 100%
+:align: center
+:alt: A graph of the voltage produced by the electric generator.
+A graph of the voltage produced by the electric generator.
+```
 
 ## Part 2. Electrical Energy from Gravitational Potential Energy of Water
 
@@ -61,29 +68,21 @@ Pasco electricity generator with various components
 :label: fig:lab11:Pascogenaccessories
 :align: center
 
-(windaccessory)=
-![Wind turbine accessory for the Pasco generator.](../figures/lab11/windturbine.png)
 (hydroaccessory)=
 ![Hydro turbine accessory for the Pasco generator.](../figures/lab11/hydroaccessory.png)
+(windaccessory)=
+![Wind turbine accessory for the Pasco generator.](../figures/lab11/windturbine.png)
 
 Pasco electricity generator with various components
 :::
 
 1. Attach the ET‐Hydro accessory housing to the molded case of the generator using the two captured screws and the supplied screwdriver
 2. Insert the pointed end of a plastic nozzle into the spring clip underneath the housing
-3. Connect the nozzle to a piece of tubing connected to an external water supply.(figure on next page). Have a beaker or container below the housing to collect water exiting the turbine.
+3. Connect the nozzle to a piece of tubing connected to an external water supply. Have a beaker or container below the housing to collect water exiting the turbine.
 4. Run the water supply through the nozzle of the turbine and watch the turbine spin.
-5. Shut off the water with the valve and refill the water container. Measure the vertical distance from the center of the cylinder to the turbine and the diameter of the cylinder. Plug the resistance into the generator and connect the voltage detector to the resistance and the computer as before in order to measure energy output as you did in Part 1.
-6. To start taking power data, open the valve and let the water run out through the turbine. Determine and record the energy output in your notebook.
-
-## Part 3. Electrical Energy from Wind Energy
-
-1. Remove the turbine from the generator and attach the windmill assembly.
-2. Turn on the fan and point it toward the windmill. Observe the windmill turning
-3. Use both the Hall wind device and/or the anemometer provided to measure the velocity of the air as it hits the windmill. Which is more accurate? Does it matter?
-4. Turn off the fan and measure the diameter of the windmill.
-5. Now turn the fan back on and measure the power output.
-
+5. Shut off the water with the valve and refill the water container. Measure the vertical distance from the top of the water in the can to the turbine. Make this height similar to the height the mass fell in the previous section. With the resistance plug in the generator, connect the voltage detector measure voltage output as you did in Part 1.
+6. To start taking voltage data, open the valve and let the water run out through the turbine. Determine and record the voltage output in your notebook.
+7. Repeat the measurement to ensure you get consistent voltage values each time.
 ```{figure} ../figures/lab11/hydroattachment.png
 :label: fig:lab11:hydroenergysetup
 :width: 75%
@@ -92,17 +91,24 @@ Pasco electricity generator with various components
 Pasco electricity generator with hydro attachment set up.
 ```
 
+## Part 3. Electrical Energy from Wind Energy
+
+1. Remove the turbine from the generator and attach the windmill assembly.
+2. Blow on the windmill. Observe the windmill turning.
+3. Measure the voltage output.
+
+```{figure} ../figures/lab11/windturbine.png
+:label: fig:lab11:windturbine
+:width: 75%
+:align: center
+:alt: Pasco electricity generator with wind turbine attachment set up.
+Pasco electricity generator with wind turbine attachment set up.
+```
+
 ### Analysis
 
-1. Calculate the efficiency of conversion for each of the three experiments.
-	- a. For the weight, divide the total electrical energy output by th change in gravitational potential energy during the drop of the weight.
-	- b. For the hydro experiment, similarly divide the total electrical energy output by the gravitational potential energy change of the water. To calculate the change in gravitational potential energy of the water, you need its mass, which is given by the volume of water times the mass density of water which is close to 1000 kg/m<sup>3</sup>.
-	- c. For the wind experiment, calculate the input power from the wind as 
-	
-$$(1/2)~\times~\text{(mass~density~of~air)~}\times~ \text{(air~speed)}^3~\times~ \text{(cross‐sectional~area~of~the~windmill)}$$
-
-Calculate the efficiency of the wind generator by dividing the measured electrical power by the input power of the wind. The density of air is approximately 1.2 kg/m<sup>3</sup>
+Voltage is not power, but it is proportional to power. Compare the voltage output of the three types of energy generation.
 
 ### Conclusions
 
-Compare the efficiencies of the three conversions you have determined. Discuss the reasons for the differences.
+Compare the three different voltage measurements and discuss the reasons for any differences in output you observed.
